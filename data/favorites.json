@@ -1,5 +1,16 @@
 {
  "version": 1,
- "favorites": [],
+ "favorites": [
+  {
+   "id": "10TXEQdmfdg",
+   "title": "【ハイライト】2026/10/17(土) JERA CS ファイナルステージ 阪神vsDeNA(甲子園)",
+   "channel": "阪神タイガース 公式",
+   "thumb": "https://i.ytimg.com/vi/10TXEQdmfdg/mqdefault.jpg",
+   "duration": 298,
+   "publishedAt": "2026-10-17T09:34:17Z",
+   "embeddable": true,
+   "addedAt": "2026-10-17T15:25:33.891Z"
+  }
+ ],
  "collections": []
 }
