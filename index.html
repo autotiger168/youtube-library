@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>我的影音收藏館</title>
+<meta name="theme-color" content="#f4ede1" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#14182a" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect x='4' y='14' width='56' height='38' rx='8' fill='%23c8402f'/><path d='M27 24v18l15-9z' fill='%23fff'/></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&family=Noto+Serif+TC:wght@600;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#/">
+    <span class="brand-mark" aria-hidden="true">▶</span>
+    <span class="brand-text"><strong>我的影音收藏館</strong><small id="updated-at">尚未更新</small></span>
+  </a>
+  <form class="search" id="search-form" role="search">
+    <input id="search-input" type="search" placeholder="搜尋影片、頻道…" autocomplete="off" aria-label="搜尋">
+  </form>
+  <nav class="topnav" aria-label="主要選單">
+    <a href="#/" data-nav="home">首頁</a>
+    <a href="#/fav" data-nav="fav">❤️ 最愛</a>
+    <a href="#/col" data-nav="col">📁 收藏夾</a>
+    <a href="#/settings" data-nav="settings" title="設定">⚙️</a>
+  </nav>
+</header>
+
+<div class="sync-banner" id="sync-banner" hidden></div>
+
+<div class="layout">
+  <aside class="sidebar" id="sidebar" aria-label="分類"></aside>
+  <main id="main" tabindex="-1"></main>
+</div>
+
+<!-- 播放視窗 -->
+<dialog id="player" class="player">
+  <div class="player-inner">
+    <button class="icon-btn close" data-close aria-label="關閉">✕</button>
+    <div class="player-frame" id="player-frame"></div>
+    <div class="player-info" id="player-info"></div>
+  </div>
+</dialog>
+
+<!-- 加入收藏夾 -->
+<dialog id="col-picker" class="sheet">
+  <form method="dialog" class="sheet-inner" id="col-picker-form"></form>
+</dialog>
+
+<!-- 通用對話框 -->
+<dialog id="modal" class="sheet">
+  <form method="dialog" class="sheet-inner" id="modal-form"></form>
+</dialog>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script src="app.js"></script>
+</body>
+</html>
