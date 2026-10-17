@@ -1,1 +1,146 @@
-{}
+{
+ "西園寺 鉄道 交通": {
+  "name": "西園寺",
+  "id": "UCYTximhpSat0HHFPAI0UpUA",
+  "title": "西園寺",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mlYRSdzZNEtN1Q1bn2xmfATJriapwldB2hzX4Wl4yR8w=s88-c-k-c0x00ffffff-no-rj",
+  "uploads": "UUYTximhpSat0HHFPAI0UpUA",
+  "ok": true,
+  "checked": "2026-10-17T15:14:25.298581+00:00"
+ },
+ "スーツ 旅行 鉄道": {
+  "name": "スーツ",
+  "id": "UCuDdJRJ6qR-wGILbpq-FXCw",
+  "title": "スーツ 旅行 / Suit Travel",
+  "thumb": "https://yt3.ggpht.com/rnLhKvqQUfAnFQmUc1pdcRqu6qT3a0WiCmwROD768iuHQ2GvpyRFcvLdMO5rjD2A9PVq6D-g9Q=s88-c-k-c0x00ffffff-no-rj",
+  "uploads": "UUuDdJRJ6qR-wGILbpq-FXCw",
+  "ok": true,
+  "checked": "2026-10-17T15:14:25.298581+00:00"
+ },
+ "鈴川絢子": {
+  "name": "鈴川絢子",
+  "id": "UCrd9neCNtPkvQukpNTYrP4Q",
+  "title": "鈴川絢子/Suzukawa Ayako",
+  "thumb": "https://yt3.ggpht.com/4W0MgcFl1HGgpfcuhteJIOHU9QAk5YhN8OuaSJv_bdJQdqc5dAq_yeAlqavA5ytRJaAI5j0ybBc=s88-c-k-c0x00ffffff-no-rj",
+  "uploads": "UUrd9neCNtPkvQukpNTYrP4Q",
+  "ok": true,
+  "checked": "2026-10-17T15:14:25.298581+00:00"
+ },
+ "しおねる 鉄道": {
+  "name": "しおねる",
+  "id": "UClLSrcngUHGfoLG7e4tGAlA",
+  "title": "しおねる",
+  "thumb": "https://yt3.ggpht.com/Wa6Oy1WGFb590EhVsSOElASjjk9Lqaydkdao8_iCEXnPn0VM0FRiOcMgV5Kp__eKlW49JSXlMw=s88-c-k-c0x00ffffff-no-rj",
+  "uploads": "UUlLSrcngUHGfoLG7e4tGAlA",
+  "ok": true,
+  "checked": "2026-10-17T15:14:25.298581+00:00"
+ },
+ "パーソル パ・リーグTV 公式": {
+  "name": "パーソル パ・リーグTV",
+  "id": "UC0v-pxTo1XamIDE-f__Ad0Q",
+  "title": "(パーソル パ・リーグTV公式)PacificLeagueTV",
+  "thumb": "https://yt3.ggpht.com/t6I11MGhGkfoHcrxPPf5qVPMbxdoZOo0Jox7Mn4qGAyyXvjD1xLvncbNqNH1iO7frxhZr4C1UQ=s88-c-k-c0x00ffffff-no-rj",
+  "uploads": "UU0v-pxTo1XamIDE-f__Ad0Q",
+  "ok": true,
+  "checked": "2026-10-17T15:14:25.298581+00:00"
+ },
+ "日本野球機構 NPB 公式チャンネル": {
+  "name": "日本野球機構（NPB）公式",
+  "id": "UC9SoTt4kJ_qhyBF9k9OGl3g",
+  "title": "日本野球機構(NPB)公式チャンネル",
+  "thumb": "https://yt3.ggpht.com/lTNXHUj-SFDxn63rChE1ThgVAidvdS0jrxSHV_MK0MGy5Pkv1TP8covXm3OzKDIQlw4i4t-zbyY=s88-c-k-c0x00ffffff-no-rj",
+  "uploads": "UU9SoTt4kJ_qhyBF9k9OGl3g",
+  "ok": true,
+  "checked": "2026-10-17T15:14:25.298581+00:00"
+ },
+ "読売ジャイアンツ 公式チャンネル": {
+  "name": "読売巨人軍 公式",
+  "id": "UCXxg0igSYUp0tqdd6luPEnQ",
+  "title": "読売ジャイアンツ",
+  "thumb": "https://yt3.ggpht.com/8xRizaAftcCgv7ynhtjsUeNXg7EczvoF42PbXAiMqVUGI8F4B8B0eHcBenq0e0uwh9pq58zcAQ=s88-c-k-c0x00ffffff-no-rj",
+  "uploads": "UUXxg0igSYUp0tqdd6luPEnQ",
+  "ok": true,
+  "checked": "2026-10-17T15:14:25.298581+00:00"
+ },
+ "阪神タイガース 公式チャンネル": {
+  "name": "阪神タイガース 公式",
+  "id": "UCqm35j3ustKFyXQVnX5tlXw",
+  "title": "阪神タイガース 公式",
+  "thumb": "https://yt3.ggpht.com/R63ss8Cn9hfCZ2NUbq_io9OlQbjnVY2g_XvkdpGxJJHRr4O406-Z316bPtDVggbasRizPme5=s88-c-k-c0x00ffffff-no-rj",
+  "uploads": "UUqm35j3ustKFyXQVnX5tlXw",
+  "ok": true,
+  "checked": "2026-10-17T15:14:25.298581+00:00"
+ },
+ "THE FIRST TAKE": {
+  "name": "THE FIRST TAKE",
+  "id": "UC9zY_E8mcAo_Oq772LEZq8Q",
+  "title": "THE FIRST TAKE",
+  "thumb": "https://yt3.ggpht.com/_PoRJpwlHmc2i2gQgXliEJ3HvgrspH3enTCuAfRrBFZE1ziCIfpcB8wdWuvkbGQ_K4sAA7vX28A=s88-c-k-c0x00ffffff-no-rj",
+  "uploads": "UU9zY_E8mcAo_Oq772LEZq8Q",
+  "ok": true,
+  "checked": "2026-10-17T15:14:25.298581+00:00"
+ },
+ "Mr Carlson's Lab": {
+  "name": "Mr Carlson's Lab",
+  "id": "UCU9SoQxJewrWb_3GxeteQPA",
+  "title": "Mr Carlson's Lab",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lcYZthcTQD5cZmwxq-LhbOXNgaMAojqbe4p3lM8DawYQ=s88-c-k-c0x00ffffff-no-rj",
+  "uploads": "UUU9SoQxJewrWb_3GxeteQPA",
+  "ok": true,
+  "checked": "2026-10-17T15:14:25.298581+00:00"
+ },
+ "shango066": {
+  "name": "shango066",
+  "id": "UCw2SbtOH0K9AjQTbIRI6cqA",
+  "title": "shango066",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_lQeHifheyEoy_-Qob_YzxrsxMLdXkT2W31rOrlEwAxWnk=s88-c-k-c0x00ffffff-no-rj",
+  "uploads": "UUw2SbtOH0K9AjQTbIRI6cqA",
+  "ok": true,
+  "checked": "2026-10-17T15:14:25.298581+00:00"
+ },
+ "TechMinds radio SDR": {
+  "name": "TechMinds",
+  "id": "UC9a8Z6Sp6eb2s3O79pX5Zvg",
+  "title": "Tech Minds",
+  "thumb": "https://yt3.ggpht.com/0_B1YGVWn4znfMysMjeZNglsF7MAacQvqihWmDNimZ-C-HkFQJASO5txQQxwC2W6J-WxEQ_ncg=s88-c-k-c0x00ffffff-no-rj",
+  "uploads": "UU9a8Z6Sp6eb2s3O79pX5Zvg",
+  "ok": true,
+  "checked": "2026-10-17T15:14:25.298581+00:00"
+ },
+ "The Official SWL Channel": {
+  "name": "The Official SWL Channel",
+  "id": "UCw7FKchRP3oVw4Nh_L7oPAQ",
+  "title": "OfficialSWLchannel",
+  "thumb": "https://yt3.ggpht.com/NaU0CxwVWeZbOWEKj1LVvNoTLf4_27arjD51yW2BWqPEl-JnWM-MdOXkPJZgieoFkWtQ0LSg=s88-c-k-c0x00ffffff-no-rj",
+  "uploads": "UUw7FKchRP3oVw4Nh_L7oPAQ",
+  "ok": true,
+  "checked": "2026-10-17T15:14:25.298581+00:00"
+ },
+ "TFAI 國家電影及視聽文化中心": {
+  "name": "TFAI 國家電影及視聽文化中心",
+  "id": "UCv9cNssVud_2AtBVzykUieg",
+  "title": "TFAI 國家電影及視聽文化中心",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_mcApJw9k1dnHNA3Sz74ojB-lDRqLuskKAR6a1Sq2th8Hg=s88-c-k-c0x00ffffff-no-rj",
+  "uploads": "UUv9cNssVud_2AtBVzykUieg",
+  "ok": true,
+  "checked": "2026-10-17T15:14:25.298581+00:00"
+ },
+ "昭和レトロ探訪": {
+  "name": "昭和レトロ探訪",
+  "id": "UCvkyjgcOm4n5pj0ahT8JxpA",
+  "title": "昭和レトロ探訪",
+  "thumb": "https://yt3.ggpht.com/PSDYymExZ-nhKQxXztdUM3gLQo1k7_QMyNGiSp8w_ofE_E97h1iJJG7Fqzt7yAu2QDdLqAeN=s88-c-k-c0x00ffffff-no-rj",
+  "uploads": "UUvkyjgcOm4n5pj0ahT8JxpA",
+  "ok": true,
+  "checked": "2026-10-17T15:14:25.298581+00:00"
+ },
+ "臺灣吧 Taiwan Bar": {
+  "name": "臺灣吧 Taiwan Bar",
+  "id": "UCRNsHFT7BFoAPBcuAa5sgEQ",
+  "title": "Taiwan Bar",
+  "thumb": "https://yt3.ggpht.com/ytc/AIdro_n9n8jzg80WjoM7upBN8d7wYzED3RzZPgRJsU5hHbZof_w=s88-c-k-c0x00ffffff-no-rj",
+  "uploads": "UURNsHFT7BFoAPBcuAa5sgEQ",
+  "ok": true,
+  "checked": "2026-10-17T15:14:25.298581+00:00"
+ }
+}
