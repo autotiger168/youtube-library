@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-10-17T15:21:09.681350+00:00",
- "quotaUsed": 327,
+ "updatedAt": "2026-10-17T15:21:45.287986+00:00",
+ "quotaUsed": 24,
  "total": 497,
  "channels": {
   "jp-railway": [
@@ -133,7 +133,8 @@
   "▶ City Pop 1980（jp-citypop）",
   "⚠️ API 錯誤 429（search）：{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:636",
   "⚠️ API 錯誤 429（search）：{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:636",
-  "   新增 3 部",
+  "⚠️ API 錯誤 429（search）：{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:636",
+  "   新增 0 部",
   "▶ J-POP（jp-jpop）",
   "⚠️ API 錯誤 429（search）：{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:636",
   "⚠️ API 錯誤 429（search）：{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:636",
@@ -151,11 +152,13 @@
   "▶ 按鍵手機（feature-phone）",
   "⚠️ API 錯誤 429（search）：{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:636",
   "⚠️ API 錯誤 429（search）：{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:636",
+  "⚠️ API 錯誤 429（search）：{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:636",
   "   新增 0 部",
   "▶ 網路收音機（internet-radio）",
   "⚠️ API 錯誤 429（search）：{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:636",
   "⚠️ API 錯誤 429（search）：{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:636",
-  "   新增 2 部",
+  "⚠️ API 錯誤 429（search）：{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:636",
+  "   新增 0 部",
   "▶ 廣播（broadcast）",
   "⚠️ API 錯誤 429（search）：{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:636",
   "⚠️ API 錯誤 429（search）：{\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:636",
@@ -421,7 +424,7 @@
    "channelId": "UC0v-pxTo1XamIDE-f__Ad0Q",
    "publishedAt": "2026-10-16T17:59:26Z",
    "duration": 6342,
-   "views": 504164,
+   "views": 504522,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/TBybcn3b-4c/mqdefault.jpg",
    "cats": [
@@ -668,7 +671,7 @@
    "channelId": "UCw7FKchRP3oVw4Nh_L7oPAQ",
    "publishedAt": "2026-10-15T01:40:57Z",
    "duration": 242,
-   "views": 757,
+   "views": 758,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/dQvebiDAg0g/mqdefault.jpg",
    "cats": [
@@ -877,7 +880,7 @@
    "channelId": "UCw7FKchRP3oVw4Nh_L7oPAQ",
    "publishedAt": "2026-10-14T01:11:36Z",
    "duration": 183,
-   "views": 1129,
+   "views": 1132,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/pzpxbxOvb2Q/mqdefault.jpg",
    "cats": [
@@ -1048,7 +1051,7 @@
    "channelId": "UCw7FKchRP3oVw4Nh_L7oPAQ",
    "publishedAt": "2026-10-11T01:28:28Z",
    "duration": 18546,
-   "views": 3953,
+   "views": 3947,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/9JNcrtbN6Q4/mqdefault.jpg",
    "cats": [
@@ -1143,7 +1146,7 @@
    "channelId": "UCw7FKchRP3oVw4Nh_L7oPAQ",
    "publishedAt": "2026-10-09T18:20:24Z",
    "duration": 182,
-   "views": 1860,
+   "views": 1861,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/GKDRU91OVJ8/mqdefault.jpg",
    "cats": [
@@ -1200,7 +1203,7 @@
    "channelId": "UCXxg0igSYUp0tqdd6luPEnQ",
    "publishedAt": "2026-10-09T09:49:44Z",
    "duration": 561,
-   "views": 101034,
+   "views": 101023,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/zJ7i8Nf1mHs/mqdefault.jpg",
    "cats": [
@@ -1390,7 +1393,7 @@
    "channelId": "UC9SoTt4kJ_qhyBF9k9OGl3g",
    "publishedAt": "2026-10-04T15:59:12Z",
    "duration": 7870,
-   "views": 62174,
+   "views": 62170,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/3AevhS-3lJo/mqdefault.jpg",
    "cats": [
@@ -1409,7 +1412,7 @@
    "channelId": "UC9SoTt4kJ_qhyBF9k9OGl3g",
    "publishedAt": "2026-10-04T09:54:08Z",
    "duration": 193,
-   "views": 68382,
+   "views": 68349,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Nl4wuZ7dn6Y/mqdefault.jpg",
    "cats": [
@@ -1428,7 +1431,7 @@
    "channelId": "UC9SoTt4kJ_qhyBF9k9OGl3g",
    "publishedAt": "2026-10-04T09:50:33Z",
    "duration": 133,
-   "views": 13120,
+   "views": 13121,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/8lJGwyM0y04/mqdefault.jpg",
    "cats": [
@@ -1447,7 +1450,7 @@
    "channelId": "UC9SoTt4kJ_qhyBF9k9OGl3g",
    "publishedAt": "2026-10-04T09:50:31Z",
    "duration": 205,
-   "views": 48020,
+   "views": 48016,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/4OD4sOfRaag/mqdefault.jpg",
    "cats": [
@@ -1466,7 +1469,7 @@
    "channelId": "UC9SoTt4kJ_qhyBF9k9OGl3g",
    "publishedAt": "2026-10-04T09:05:12Z",
    "duration": 103,
-   "views": 74887,
+   "views": 74882,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/IC5nvSeoMJE/mqdefault.jpg",
    "cats": [
@@ -1542,7 +1545,7 @@
    "channelId": "UCuDdJRJ6qR-wGILbpq-FXCw",
    "publishedAt": "2026-10-02T09:00:11Z",
    "duration": 4960,
-   "views": 1203394,
+   "views": 1203502,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/1Usn4fsYQk8/mqdefault.jpg",
    "cats": [
@@ -1732,7 +1735,7 @@
    "channelId": "UCv9cNssVud_2AtBVzykUieg",
    "publishedAt": "2026-09-28T10:00:10Z",
    "duration": 117,
-   "views": 1484,
+   "views": 1487,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/gJEV8_eeRT0/mqdefault.jpg",
    "cats": [
@@ -1770,7 +1773,7 @@
    "channelId": "UCXxg0igSYUp0tqdd6luPEnQ",
    "publishedAt": "2026-09-27T13:22:46Z",
    "duration": 259,
-   "views": 294345,
+   "views": 294301,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/QWrPS11sbwo/mqdefault.jpg",
    "cats": [
@@ -1903,7 +1906,7 @@
    "channelId": "UCXxg0igSYUp0tqdd6luPEnQ",
    "publishedAt": "2026-09-23T12:14:38Z",
    "duration": 408,
-   "views": 227414,
+   "views": 227360,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/bu73wMY5gbg/mqdefault.jpg",
    "cats": [
@@ -1960,7 +1963,7 @@
    "channelId": "UCYTximhpSat0HHFPAI0UpUA",
    "publishedAt": "2026-09-22T14:13:28Z",
    "duration": 5972,
-   "views": 506460,
+   "views": 506531,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/ILn8QX0QTew/mqdefault.jpg",
    "cats": [
@@ -1998,7 +2001,7 @@
    "channelId": "UCYTximhpSat0HHFPAI0UpUA",
    "publishedAt": "2026-09-21T12:24:28Z",
    "duration": 285,
-   "views": 265318,
+   "views": 265335,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/f7aRssXMo1Q/mqdefault.jpg",
    "cats": [
@@ -2036,7 +2039,7 @@
    "channelId": "UCXxg0igSYUp0tqdd6luPEnQ",
    "publishedAt": "2026-09-20T12:13:22Z",
    "duration": 332,
-   "views": 261939,
+   "views": 261938,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/f-xQH5YQmew/mqdefault.jpg",
    "cats": [
@@ -2226,7 +2229,7 @@
    "channelId": "UCrd9neCNtPkvQukpNTYrP4Q",
    "publishedAt": "2026-09-18T09:00:14Z",
    "duration": 1348,
-   "views": 44900,
+   "views": 44899,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/rqje5lEuERc/mqdefault.jpg",
    "cats": [
@@ -2359,7 +2362,7 @@
    "channelId": "UCU9SoQxJewrWb_3GxeteQPA",
    "publishedAt": "2026-09-14T22:58:53Z",
    "duration": 945,
-   "views": 184465,
+   "views": 184467,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Xexp12ydsJs/mqdefault.jpg",
    "cats": [
@@ -2549,7 +2552,7 @@
    "channelId": "UCrd9neCNtPkvQukpNTYrP4Q",
    "publishedAt": "2026-09-04T09:00:06Z",
    "duration": 1260,
-   "views": 91877,
+   "views": 91858,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/yJiUKdUGvbw/mqdefault.jpg",
    "cats": [
@@ -2568,7 +2571,7 @@
    "channelId": "UClLSrcngUHGfoLG7e4tGAlA",
    "publishedAt": "2026-09-03T12:00:14Z",
    "duration": 2267,
-   "views": 166350,
+   "views": 166387,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/a-vnx_pW2bY/mqdefault.jpg",
    "cats": [
@@ -2682,7 +2685,7 @@
    "channelId": "UClLSrcngUHGfoLG7e4tGAlA",
    "publishedAt": "2026-08-27T12:00:59Z",
    "duration": 941,
-   "views": 197367,
+   "views": 197369,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/VU_5f10qVpo/mqdefault.jpg",
    "cats": [
@@ -2777,7 +2780,7 @@
    "channelId": "UCrd9neCNtPkvQukpNTYrP4Q",
    "publishedAt": "2026-08-20T09:00:07Z",
    "duration": 932,
-   "views": 52003,
+   "views": 51990,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/lx8y80pmerk/mqdefault.jpg",
    "cats": [
@@ -2815,7 +2818,7 @@
    "channelId": "UClLSrcngUHGfoLG7e4tGAlA",
    "publishedAt": "2026-08-16T12:00:32Z",
    "duration": 745,
-   "views": 52920,
+   "views": 52912,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/mUpiBKT-Yco/mqdefault.jpg",
    "cats": [
@@ -3974,7 +3977,7 @@
    "channelId": "UC9a8Z6Sp6eb2s3O79pX5Zvg",
    "publishedAt": "2026-02-19T16:08:13Z",
    "duration": 353,
-   "views": 44302,
+   "views": 44304,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/izx6nkLpoOA/mqdefault.jpg",
    "cats": [
@@ -4145,7 +4148,7 @@
    "channelId": "UC9a8Z6Sp6eb2s3O79pX5Zvg",
    "publishedAt": "2026-02-08T15:41:28Z",
    "duration": 1085,
-   "views": 36775,
+   "views": 36780,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/RNiQUQjK3Js/mqdefault.jpg",
    "cats": [
@@ -4221,7 +4224,7 @@
    "channelId": "UC9a8Z6Sp6eb2s3O79pX5Zvg",
    "publishedAt": "2026-01-30T15:25:53Z",
    "duration": 463,
-   "views": 31488,
+   "views": 31500,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/TmZ4tuzzdcM/mqdefault.jpg",
    "cats": [
@@ -4278,7 +4281,7 @@
    "channelId": "UC9a8Z6Sp6eb2s3O79pX5Zvg",
    "publishedAt": "2026-01-23T15:57:43Z",
    "duration": 772,
-   "views": 91794,
+   "views": 91793,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/cmO8TIr_VFo/mqdefault.jpg",
    "cats": [
