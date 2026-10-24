@@ -309,7 +309,12 @@
      "keywords": [
       "居家運動"
      ],
-     "channels": [],
+     "channels": [
+      {
+       "name": "Petra Genco Workout",
+       "query": "Petra Genco Workout"
+      }
+     ],
      "exclude": []
     }
    ]
