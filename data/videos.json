@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-23T22:18:18.685697+00:00",
- "quotaUsed": 3633,
- "total": 670,
+ "updatedAt": "2026-10-24T06:58:10.476593+00:00",
+ "quotaUsed": 3835,
+ "total": 707,
  "channels": {
   "jp-railway": [
    {
@@ -120,39 +120,145 @@
     "ok": true
    }
   ],
-  "japanese-era-taiwan": []
+  "japanese-era-taiwan": [],
+  "c-mvm1petyruzp": [
+   {
+    "name": "Petra Genco Workout",
+    "title": "Petra Genco Workout",
+    "id": "UCWSHU2ewbFc_4a398DC25SQ",
+    "ok": true
+   }
+  ]
  },
  "log": [
   "▶ 鐵道（jp-railway）",
   "   新增 9 部",
   "▶ 日本職棒（jp-baseball）",
-  "   新增 16 部",
+  "   新增 5 部",
   "▶ City Pop 1980（jp-citypop）",
-  "   新增 4 部",
+  "   新增 2 部",
   "▶ J-POP（jp-jpop）",
-  "   新增 3 部",
+  "   新增 1 部",
   "▶ 1990–2010 日劇歌曲（jp-drama-songs）",
-  "   新增 2 部",
+  "   新增 0 部",
   "▶ 收音機（radio）",
-  "   新增 6 部",
+  "   新增 5 部",
   "▶ 按鍵手機（feature-phone）",
-  "   新增 2 部",
+  "   新增 1 部",
   "▶ 網路收音機（internet-radio）",
-  "   新增 2 部",
+  "   新增 1 部",
   "▶ 廣播（broadcast）",
-  "   新增 7 部",
+  "   新增 2 部",
   "▶ 短波（shortwave）",
-  "   新增 6 部",
+  "   新增 9 部",
   "▶ 懷舊台灣（retro-taiwan）",
   "   新增 1 部",
   "▶ 昭和懷舊浪漫（showa-retro）",
-  "   新增 5 部",
+  "   新增 1 部",
   "▶ 台灣歷史（taiwan-history）",
-  "   新增 2 部",
+  "   新增 3 部",
   "▶ 台灣日治時期（japanese-era-taiwan）",
-  "   新增 2 部"
+  "   新增 0 部",
+  "▶ 居家運動（c-mvm1petyruzp）",
+  "   ✓ 頻道「Petra Genco Workout」→ Petra Genco Workout",
+  "   新增 17 部"
  ],
  "videos": [
+  {
+   "id": "ThgSwEwKqCM",
+   "title": "「韌性之島 台灣紀實」EP.1《無名英雄的覺醒》廖筱君紀錄大罷免公民運動洗禮後 台灣展現驚人民主修復力/EP.2《圍城啟示錄》廖筱君製作 紅媒滲透與失敗主義蔓延 《圍城啟示錄》直指台灣危機",
+   "channel": "筱君台灣PLUS",
+   "channelId": "UCoMWlmx8innG308iawT_P1Q",
+   "publishedAt": "2026-10-24T04:00:09Z",
+   "duration": 5881,
+   "views": 2244,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/ThgSwEwKqCM/mqdefault.jpg",
+   "cats": [
+    "taiwan-history"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "taiwan-history": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "koD5MCr_wFM",
+   "title": "iPhone Duo 深度實測：軟體還是成功關鍵【3cMRT 開箱】",
+   "channel": "馬丁玩科技 - 3C 開箱",
+   "channelId": "UCjMe5pI1V85JOShSPiDuFhw",
+   "publishedAt": "2026-10-24T02:41:06Z",
+   "duration": 993,
+   "views": 2907,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/koD5MCr_wFM/mqdefault.jpg",
+   "cats": [
+    "feature-phone"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "feature-phone": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "QgOW00Ok0VE",
+   "title": "日本シリーズ監督会議 -SMBC日本シリーズ2026-",
+   "channel": "日本野球機構(NPB)公式チャンネル",
+   "channelId": "UC9SoTt4kJ_qhyBF9k9OGl3g",
+   "publishedAt": "2026-10-24T02:02:15Z",
+   "duration": 325,
+   "views": 19888,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/QgOW00Ok0VE/mqdefault.jpg",
+   "cats": [
+    "jp-baseball"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "jp-baseball": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "channel"
+  },
+  {
+   "id": "EeF2KMWpLDs",
+   "title": "前世拼命討好家人卻慘遭捨棄！重生後她直接抽身，搭檔毒舌頂流下鄉錄綜藝，一身絕活爆紅全網！#aivideo #短劇",
+   "channel": "木木ai剧社",
+   "channelId": "UCXvvujKL8v75OXClJizT0xA",
+   "publishedAt": "2026-10-24T00:00:06Z",
+   "duration": 7281,
+   "views": 7722,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/EeF2KMWpLDs/mqdefault.jpg",
+   "cats": [
+    "broadcast"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "broadcast": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "TZJisMX7b8U",
+   "title": "Why Add A Capacitor Across The Switch? Here's Why - With Examples!",
+   "channel": "Mr Carlson's Lab",
+   "channelId": "UCU9SoQxJewrWb_3GxeteQPA",
+   "publishedAt": "2026-10-23T23:12:16Z",
+   "duration": 551,
+   "views": 25360,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/TZJisMX7b8U/mqdefault.jpg",
+   "cats": [
+    "radio"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "radio": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "channel"
+  },
   {
    "id": "bFRLnv60DmY",
    "title": "【指名挨拶】ドラフト1位 #榊原七斗 選手へ指名挨拶を行いました！緊張の面持ちでしたが、まっすぐな姿勢でタイガースファンへ自己紹介もしていただきました！#藤川球児 監督が認める表情にも注目です！",
@@ -160,7 +266,7 @@
    "channelId": "UCqm35j3ustKFyXQVnX5tlXw",
    "publishedAt": "2026-10-23T14:12:08Z",
    "duration": 547,
-   "views": 26776,
+   "views": 47407,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/bFRLnv60DmY/mqdefault.jpg",
    "cats": [
@@ -179,7 +285,7 @@
    "channelId": "UC9zY_E8mcAo_Oq772LEZq8Q",
    "publishedAt": "2026-10-23T13:00:06Z",
    "duration": 265,
-   "views": 780042,
+   "views": 1147034,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/XuOicpNoUM4/mqdefault.jpg",
    "cats": [
@@ -198,7 +304,7 @@
    "channelId": "UClLSrcngUHGfoLG7e4tGAlA",
    "publishedAt": "2026-10-23T12:00:33Z",
    "duration": 658,
-   "views": 26435,
+   "views": 41395,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/XxlxzMAZOYA/mqdefault.jpg",
    "cats": [
@@ -217,7 +323,7 @@
    "channelId": "UCvkyjgcOm4n5pj0ahT8JxpA",
    "publishedAt": "2026-10-23T10:48:29Z",
    "duration": 2414,
-   "views": 13593,
+   "views": 28364,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/FTxe5g1S0vE/mqdefault.jpg",
    "cats": [
@@ -255,7 +361,7 @@
    "channelId": "UCXxg0igSYUp0tqdd6luPEnQ",
    "publishedAt": "2026-10-23T09:59:10Z",
    "duration": 159,
-   "views": 347375,
+   "views": 384776,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/XjuP6evVnro/mqdefault.jpg",
    "cats": [
@@ -274,7 +380,7 @@
    "channelId": "UC_hPF-oNtfyPPHtOkKrGL3Q",
    "publishedAt": "2026-10-23T09:00:05Z",
    "duration": 1310,
-   "views": 7422,
+   "views": 12262,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/sDYn-kfKdyM/mqdefault.jpg",
    "cats": [
@@ -293,7 +399,7 @@
    "channelId": "UCw7FKchRP3oVw4Nh_L7oPAQ",
    "publishedAt": "2026-10-23T03:30:51Z",
    "duration": 129,
-   "views": 620,
+   "views": 739,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/1Ry5YPg-E2k/mqdefault.jpg",
    "cats": [
@@ -312,7 +418,7 @@
    "channelId": "UCXxg0igSYUp0tqdd6luPEnQ",
    "publishedAt": "2026-10-23T03:00:26Z",
    "duration": 321,
-   "views": 324489,
+   "views": 391830,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/dzFaEYKNo-4/mqdefault.jpg",
    "cats": [
@@ -331,7 +437,7 @@
    "channelId": "UC0v-pxTo1XamIDE-f__Ad0Q",
    "publishedAt": "2026-10-22T22:54:10Z",
    "duration": 2717,
-   "views": 30732,
+   "views": 33253,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/om9UY6aLyrg/mqdefault.jpg",
    "cats": [
@@ -369,7 +475,7 @@
    "channelId": "UCqm35j3ustKFyXQVnX5tlXw",
    "publishedAt": "2026-10-22T16:51:41Z",
    "duration": 925,
-   "views": 400443,
+   "views": 429470,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/EcwGRbZlWUw/mqdefault.jpg",
    "cats": [
@@ -388,7 +494,7 @@
    "channelId": "UC9SoTt4kJ_qhyBF9k9OGl3g",
    "publishedAt": "2026-10-22T16:19:27Z",
    "duration": 1098,
-   "views": 267832,
+   "views": 288772,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/LB6i1cuQWM0/mqdefault.jpg",
    "cats": [
@@ -407,7 +513,7 @@
    "channelId": "UC9SoTt4kJ_qhyBF9k9OGl3g",
    "publishedAt": "2026-10-22T14:18:07Z",
    "duration": 249,
-   "views": 112209,
+   "views": 116662,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/VZ3V7uDxN7Q/mqdefault.jpg",
    "cats": [
@@ -426,7 +532,7 @@
    "channelId": "UC9SoTt4kJ_qhyBF9k9OGl3g",
    "publishedAt": "2026-10-22T14:14:17Z",
    "duration": 515,
-   "views": 158663,
+   "views": 168299,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/mw3-3wg_LDg/mqdefault.jpg",
    "cats": [
@@ -445,7 +551,7 @@
    "channelId": "UC9SoTt4kJ_qhyBF9k9OGl3g",
    "publishedAt": "2026-10-22T14:08:09Z",
    "duration": 369,
-   "views": 219371,
+   "views": 240980,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/k9u11B5FqzM/mqdefault.jpg",
    "cats": [
@@ -464,7 +570,7 @@
    "channelId": "UC9SoTt4kJ_qhyBF9k9OGl3g",
    "publishedAt": "2026-10-22T14:01:07Z",
    "duration": 122,
-   "views": 36363,
+   "views": 40664,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/rb6fEVKAOyY/mqdefault.jpg",
    "cats": [
@@ -483,7 +589,7 @@
    "channelId": "UC9SoTt4kJ_qhyBF9k9OGl3g",
    "publishedAt": "2026-10-22T13:54:43Z",
    "duration": 120,
-   "views": 56775,
+   "views": 58543,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/50ykf-VEdNU/mqdefault.jpg",
    "cats": [
@@ -502,7 +608,7 @@
    "channelId": "UC9SoTt4kJ_qhyBF9k9OGl3g",
    "publishedAt": "2026-10-22T13:50:58Z",
    "duration": 156,
-   "views": 91496,
+   "views": 95533,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/cylfUVgH57c/mqdefault.jpg",
    "cats": [
@@ -540,7 +646,7 @@
    "channelId": "UC9zY_E8mcAo_Oq772LEZq8Q",
    "publishedAt": "2026-10-22T13:00:38Z",
    "duration": 188,
-   "views": 141323,
+   "views": 146175,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/8HtSpxsUufY/mqdefault.jpg",
    "cats": [
@@ -559,7 +665,7 @@
    "channelId": "UC9SoTt4kJ_qhyBF9k9OGl3g",
    "publishedAt": "2026-10-22T10:55:04Z",
    "duration": 715,
-   "views": 725246,
+   "views": 752766,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/MJiU1J2tUhs/mqdefault.jpg",
    "cats": [
@@ -578,7 +684,7 @@
    "channelId": "UC5ErRzY0MwZiCupb7Q4nOtw",
    "publishedAt": "2026-10-22T09:59:23Z",
    "duration": 8479,
-   "views": 41947,
+   "views": 45476,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/QI02-6Q1EQM/mqdefault.jpg",
    "cats": [
@@ -597,7 +703,7 @@
    "channelId": "UCw7FKchRP3oVw4Nh_L7oPAQ",
    "publishedAt": "2026-10-22T04:46:47Z",
    "duration": 820,
-   "views": 684,
+   "views": 720,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/2Cv-0Eld4jU/mqdefault.jpg",
    "cats": [
@@ -616,7 +722,7 @@
    "channelId": "UCw7FKchRP3oVw4Nh_L7oPAQ",
    "publishedAt": "2026-10-22T04:37:25Z",
    "duration": 585,
-   "views": 381,
+   "views": 390,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Zc8n1y1LW0A/mqdefault.jpg",
    "cats": [
@@ -635,7 +741,7 @@
    "channelId": "UCw7FKchRP3oVw4Nh_L7oPAQ",
    "publishedAt": "2026-10-22T04:12:29Z",
    "duration": 437,
-   "views": 343,
+   "views": 351,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/RlhzG7-FvhM/mqdefault.jpg",
    "cats": [
@@ -654,7 +760,7 @@
    "channelId": "UCw7FKchRP3oVw4Nh_L7oPAQ",
    "publishedAt": "2026-10-22T02:38:03Z",
    "duration": 387,
-   "views": 360,
+   "views": 373,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/8e3eITWAxxE/mqdefault.jpg",
    "cats": [
@@ -667,13 +773,32 @@
    "source": "channel"
   },
   {
+   "id": "M6y8UBiVBR0",
+   "title": "How to lose weight easily at home #womenover40 #womenover50 #habitsthatchangeyourlife #homeworkout",
+   "channel": "Petra Genco Workout",
+   "channelId": "UCWSHU2ewbFc_4a398DC25SQ",
+   "publishedAt": "2026-10-21T18:20:31Z",
+   "duration": 67,
+   "views": 1537,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/M6y8UBiVBR0/mqdefault.jpg",
+   "cats": [
+    "c-mvm1petyruzp"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "c-mvm1petyruzp": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "channel"
+  },
+  {
    "id": "kXG0HgnLpac",
    "title": "【前日会議】いよいよ明日に迫ったドラフト会議！#藤川球児 監督や担当スカウトが集まり、指名候補の確認などを行いました！畑山統括スカウトが強い意気込みを話しました！",
    "channel": "阪神タイガース 公式",
    "channelId": "UCqm35j3ustKFyXQVnX5tlXw",
    "publishedAt": "2026-10-21T16:09:53Z",
    "duration": 126,
-   "views": 170735,
+   "views": 173081,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/kXG0HgnLpac/mqdefault.jpg",
    "cats": [
@@ -692,7 +817,7 @@
    "channelId": "UC9zY_E8mcAo_Oq772LEZq8Q",
    "publishedAt": "2026-10-21T13:00:09Z",
    "duration": 242,
-   "views": 2318188,
+   "views": 2408177,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Q5Om3k90dMs/mqdefault.jpg",
    "cats": [
@@ -711,7 +836,7 @@
    "channelId": "UCqm35j3ustKFyXQVnX5tlXw",
    "publishedAt": "2026-10-21T11:37:19Z",
    "duration": 461,
-   "views": 47242,
+   "views": 47895,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/MViQZ1IbBLc/mqdefault.jpg",
    "cats": [
@@ -749,7 +874,7 @@
    "channelId": "UCvWU3G4qgCIpGsbhWnlocHQ",
    "publishedAt": "2026-10-20T22:30:24Z",
    "duration": 653,
-   "views": 9284,
+   "views": 12561,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/aYos_7jD3uI/mqdefault.jpg",
    "cats": [
@@ -768,7 +893,7 @@
    "channelId": "UCw7FKchRP3oVw4Nh_L7oPAQ",
    "publishedAt": "2026-10-20T21:21:48Z",
    "duration": 270,
-   "views": 1600,
+   "views": 1636,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/olrYkjPWw0g/mqdefault.jpg",
    "cats": [
@@ -787,7 +912,7 @@
    "channelId": "UC9M17XpOWhRHoohNyeIRPww",
    "publishedAt": "2026-10-20T15:46:13Z",
    "duration": 1039,
-   "views": 546486,
+   "views": 569403,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/QcRkMgEZulI/mqdefault.jpg",
    "cats": [
@@ -806,7 +931,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2026-10-20T14:00:19Z",
    "duration": 85,
-   "views": 4518,
+   "views": 6826,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/h9G53ZrrWnk/mqdefault.jpg",
    "cats": [
@@ -825,7 +950,7 @@
    "channelId": "UC0v-pxTo1XamIDE-f__Ad0Q",
    "publishedAt": "2026-10-20T13:51:07Z",
    "duration": 240,
-   "views": 81676,
+   "views": 82690,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/cb_uYFzTFSk/mqdefault.jpg",
    "cats": [
@@ -844,7 +969,7 @@
    "channelId": "UC0v-pxTo1XamIDE-f__Ad0Q",
    "publishedAt": "2026-10-20T13:50:20Z",
    "duration": 264,
-   "views": 70307,
+   "views": 71529,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/ex1-rhPVRAY/mqdefault.jpg",
    "cats": [
@@ -939,7 +1064,7 @@
    "channelId": "UC9zY_E8mcAo_Oq772LEZq8Q",
    "publishedAt": "2026-10-20T13:00:39Z",
    "duration": 232,
-   "views": 220797,
+   "views": 223300,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/w04oQH2Dtew/mqdefault.jpg",
    "cats": [
@@ -958,7 +1083,7 @@
    "channelId": "UC158F4sMJRP-H-IwHO12ngQ",
    "publishedAt": "2026-10-20T12:00:35Z",
    "duration": 10825,
-   "views": 18130,
+   "views": 18611,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/K2Sdgfk1FgE/mqdefault.jpg",
    "cats": [
@@ -977,7 +1102,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2026-10-20T10:30:26Z",
    "duration": 75,
-   "views": 7718,
+   "views": 7789,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/mMZppBv0bXA/mqdefault.jpg",
    "cats": [
@@ -1053,7 +1178,7 @@
    "channelId": "UCw7FKchRP3oVw4Nh_L7oPAQ",
    "publishedAt": "2026-10-20T01:00:34Z",
    "duration": 141,
-   "views": 748,
+   "views": 756,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/RMoiYSxn11c/mqdefault.jpg",
    "cats": [
@@ -1072,7 +1197,7 @@
    "channelId": "UCw7FKchRP3oVw4Nh_L7oPAQ",
    "publishedAt": "2026-10-20T00:36:57Z",
    "duration": 145,
-   "views": 1866,
+   "views": 1891,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/hUltdYTOUSg/mqdefault.jpg",
    "cats": [
@@ -1129,7 +1254,7 @@
    "channelId": "UCLZBXiS9ZrIXgKBs_SMfGBQ",
    "publishedAt": "2026-10-19T14:32:09Z",
    "duration": 2637,
-   "views": 95094,
+   "views": 95448,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/1j4uinfxqBM/mqdefault.jpg",
    "cats": [
@@ -1167,7 +1292,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2026-10-19T10:00:16Z",
    "duration": 78,
-   "views": 7011,
+   "views": 7637,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/nBE72q5uFfw/mqdefault.jpg",
    "cats": [
@@ -1186,7 +1311,7 @@
    "channelId": "UCuDdJRJ6qR-wGILbpq-FXCw",
    "publishedAt": "2026-10-19T09:00:33Z",
    "duration": 2900,
-   "views": 735281,
+   "views": 743617,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/GzQjrOSnVj0/mqdefault.jpg",
    "cats": [
@@ -1205,7 +1330,7 @@
    "channelId": "UCv9cNssVud_2AtBVzykUieg",
    "publishedAt": "2026-10-19T04:30:02Z",
    "duration": 89,
-   "views": 390,
+   "views": 395,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/yIQVAjMnUnE/mqdefault.jpg",
    "cats": [
@@ -1262,7 +1387,7 @@
    "channelId": "UCYTximhpSat0HHFPAI0UpUA",
    "publishedAt": "2026-10-18T10:41:32Z",
    "duration": 4188,
-   "views": 927056,
+   "views": 942624,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/qIfsM3eh8wA/mqdefault.jpg",
    "cats": [
@@ -1281,7 +1406,7 @@
    "channelId": "UCw7FKchRP3oVw4Nh_L7oPAQ",
    "publishedAt": "2026-10-18T01:07:34Z",
    "duration": 17412,
-   "views": 4612,
+   "views": 4633,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/rICqw6ujhO0/mqdefault.jpg",
    "cats": [
@@ -1319,7 +1444,7 @@
    "channelId": "UCw2SbtOH0K9AjQTbIRI6cqA",
    "publishedAt": "2026-10-17T15:54:34Z",
    "duration": 2437,
-   "views": 21981,
+   "views": 22140,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/9EepkgHl6kg/mqdefault.jpg",
    "cats": [
@@ -1351,13 +1476,32 @@
    "source": "search"
   },
   {
+   "id": "kqtfyDCW5pY",
+   "title": "20 MIN MENOPAUSE CARDIO WORKOUT 🔥 | Low Impact Fat Burning Workout for Women Over 50",
+   "channel": "Petra Genco Workout",
+   "channelId": "UCWSHU2ewbFc_4a398DC25SQ",
+   "publishedAt": "2026-10-17T11:07:44Z",
+   "duration": 1410,
+   "views": 9651,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/kqtfyDCW5pY/mqdefault.jpg",
+   "cats": [
+    "c-mvm1petyruzp"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "c-mvm1petyruzp": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "channel"
+  },
+  {
    "id": "xDqPrlDa2NE",
    "title": "【阪神タイガース×横浜DeNAベイスターズ｜成瀬脩人と三森大貴が大仕事、CS無傷の6連勝で日本シリーズへ｜ハイライト】2026年10月17日 プロ野球クライマックスシリーズ ファイナルステージ",
    "channel": "⚾️DAZNベースボール",
    "channelId": "UCyeDNNizMGbVsn_8Ttc3FIw",
    "publishedAt": "2026-10-17T09:59:21Z",
    "duration": 183,
-   "views": 1639628,
+   "views": 1647578,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/xDqPrlDa2NE/mqdefault.jpg",
    "cats": [
@@ -1376,7 +1520,7 @@
    "channelId": "UCyeDNNizMGbVsn_8Ttc3FIw",
    "publishedAt": "2026-10-17T09:47:56Z",
    "duration": 167,
-   "views": 430577,
+   "views": 432294,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/CiK9MRRfwiA/mqdefault.jpg",
    "cats": [
@@ -1414,7 +1558,7 @@
    "channelId": "UCqm35j3ustKFyXQVnX5tlXw",
    "publishedAt": "2026-10-17T09:34:17Z",
    "duration": 298,
-   "views": 804546,
+   "views": 808974,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/10TXEQdmfdg/mqdefault.jpg",
    "cats": [
@@ -1509,7 +1653,7 @@
    "channelId": "UCuDdJRJ6qR-wGILbpq-FXCw",
    "publishedAt": "2026-10-17T09:00:38Z",
    "duration": 7222,
-   "views": 484086,
+   "views": 488489,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/O3HWpU-YV38/mqdefault.jpg",
    "cats": [
@@ -1528,7 +1672,7 @@
    "channelId": "UCqm35j3ustKFyXQVnX5tlXw",
    "publishedAt": "2026-10-17T07:55:42Z",
    "duration": 65,
-   "views": 223983,
+   "views": 224265,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/i5mvUQBy3ow/mqdefault.jpg",
    "cats": [
@@ -1547,7 +1691,7 @@
    "channelId": "UCS0FXbKxWMhUr5vElHJG-CA",
    "publishedAt": "2026-10-17T02:46:09Z",
    "duration": 5900,
-   "views": 8705,
+   "views": 8823,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/lNuJMG5_JP4/mqdefault.jpg",
    "cats": [
@@ -1566,7 +1710,7 @@
    "channelId": "UCU9SoQxJewrWb_3GxeteQPA",
    "publishedAt": "2026-10-16T22:59:15Z",
    "duration": 694,
-   "views": 371617,
+   "views": 374029,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/kqscKno9AqU/mqdefault.jpg",
    "cats": [
@@ -1661,7 +1805,7 @@
    "channelId": "UCyeDNNizMGbVsn_8Ttc3FIw",
    "publishedAt": "2026-10-16T12:44:54Z",
    "duration": 180,
-   "views": 464560,
+   "views": 466280,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/ivM_LubRVpQ/mqdefault.jpg",
    "cats": [
@@ -1737,7 +1881,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2026-10-16T08:42:40Z",
    "duration": 677,
-   "views": 78586,
+   "views": 81183,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/T4MBG8hau9Q/mqdefault.jpg",
    "cats": [
@@ -1748,6 +1892,25 @@
     "taiwan-history": "2026-10-17T15:14:25.298581+00:00"
    },
    "source": "channel"
+  },
+  {
+   "id": "HfPtLNVI8U4",
+   "title": "【北陸三セクの爆速快速!!】【4K60fps字幕付き前面展望】敦賀→福井 快速 521系 ハピラインふくい線 Tsuruga ~ Fukui. Hapi Line Fukui. Rapid train",
+   "channel": "Arkibk Train Aki （あき）",
+   "channelId": "UCkig-eJWKj7lhuK2wfOZHXQ",
+   "publishedAt": "2026-10-16T08:15:36Z",
+   "duration": 2579,
+   "views": 23105,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/HfPtLNVI8U4/mqdefault.jpg",
+   "cats": [
+    "jp-railway"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "jp-railway": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
   },
   {
    "id": "ZZMlJbeUGsg",
@@ -1775,7 +1938,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2026-10-15T14:00:24Z",
    "duration": 100,
-   "views": 4140,
+   "views": 5190,
    "embeddable": false,
    "thumb": "https://i.ytimg.com/vi/VUeZSAUQsuA/mqdefault.jpg",
    "cats": [
@@ -1813,7 +1976,7 @@
    "channelId": "UC0v-pxTo1XamIDE-f__Ad0Q",
    "publishedAt": "2026-10-15T12:41:16Z",
    "duration": 515,
-   "views": 434281,
+   "views": 435996,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/XLcR5ymHOUo/mqdefault.jpg",
    "cats": [
@@ -1832,7 +1995,7 @@
    "channelId": "UCqm35j3ustKFyXQVnX5tlXw",
    "publishedAt": "2026-10-15T12:14:26Z",
    "duration": 310,
-   "views": 211808,
+   "views": 213430,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/dJ87mKyhBAE/mqdefault.jpg",
    "cats": [
@@ -1851,7 +2014,7 @@
    "channelId": "UClB_SUIYZURwQAGRHGQOWWg",
    "publishedAt": "2026-10-15T09:15:26Z",
    "duration": 342,
-   "views": 27507,
+   "views": 27536,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/iVb-Tp3b10s/mqdefault.jpg",
    "cats": [
@@ -1870,7 +2033,7 @@
    "channelId": "UCuhkeLS-gWmLoH1DHqAMOZg",
    "publishedAt": "2026-10-15T09:00:13Z",
    "duration": 1391,
-   "views": 8472,
+   "views": 8483,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/C4-bRnWpqv8/mqdefault.jpg",
    "cats": [
@@ -1921,25 +2084,6 @@
    "source": "channel"
   },
   {
-   "id": "j9TPj-TnqOQ",
-   "title": "2026年10月14日 福岡ソフトバンク対北海道日本ハム 試合ハイライト",
-   "channel": "(パーソル パ・リーグTV公式)PacificLeagueTV",
-   "channelId": "UC0v-pxTo1XamIDE-f__Ad0Q",
-   "publishedAt": "2026-10-14T13:02:09Z",
-   "duration": 634,
-   "views": 505998,
-   "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/j9TPj-TnqOQ/mqdefault.jpg",
-   "cats": [
-    "jp-baseball"
-   ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
-   "catSeen": {
-    "jp-baseball": "2026-10-17T15:14:25.298581+00:00"
-   },
-   "source": "search"
-  },
-  {
    "id": "lCMl3HsYRdg",
    "title": "FictionJunction - 彼方 / THE FIRST TAKE",
    "channel": "THE FIRST TAKE",
@@ -1965,7 +2109,7 @@
    "channelId": "UCyeDNNizMGbVsn_8Ttc3FIw",
    "publishedAt": "2026-10-14T12:48:09Z",
    "duration": 184,
-   "views": 605940,
+   "views": 612118,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/7cnktB7ubbk/mqdefault.jpg",
    "cats": [
@@ -1974,25 +2118,6 @@
    "firstSeen": "2026-10-19T22:18:12.778306+00:00",
    "catSeen": {
     "jp-baseball": "2026-10-19T22:18:12.778306+00:00"
-   },
-   "source": "search"
-  },
-  {
-   "id": "wE-n6PIpCN0",
-   "title": "【ハイライト】2026/10/14(水) JERA CS ファイナルステージ 阪神vsDeNA(甲子園)",
-   "channel": "阪神タイガース 公式",
-   "channelId": "UCqm35j3ustKFyXQVnX5tlXw",
-   "publishedAt": "2026-10-14T12:43:10Z",
-   "duration": 281,
-   "views": 111585,
-   "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/wE-n6PIpCN0/mqdefault.jpg",
-   "cats": [
-    "jp-baseball"
-   ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
-   "catSeen": {
-    "jp-baseball": "2026-10-17T15:14:25.298581+00:00"
    },
    "source": "search"
   },
@@ -2149,6 +2274,25 @@
    "source": "channel"
   },
   {
+   "id": "Go9Ckv8KY7s",
+   "title": "基隆舊時光：1960～1970年代城市記憶（民國49～68年）｜老照片動起來",
+   "channel": "時光再動",
+   "channelId": "UC9f3BeG0h0mvbhZhCqopJxQ",
+   "publishedAt": "2026-10-14T01:00:39Z",
+   "duration": 562,
+   "views": 88784,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/Go9Ckv8KY7s/mqdefault.jpg",
+   "cats": [
+    "retro-taiwan"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "retro-taiwan": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "A1p6Ue9zjVk",
    "title": "懷舊台語老歌金曲 📀 70年代～80年代經典台語歌曲《楓葉情》《小村之戀》《你怎麼說》回味那個年代最動人的老歌金曲 | ( 好聽 回憶 ) - 闽南语歌曲100首 Hokkien Songs",
    "channel": "台語老歌Playlist",
@@ -2288,7 +2432,7 @@
    "channelId": "UC0v-pxTo1XamIDE-f__Ad0Q",
    "publishedAt": "2026-10-12T08:51:07Z",
    "duration": 513,
-   "views": 685940,
+   "views": 686125,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/FP-dNVhHDBc/mqdefault.jpg",
    "cats": [
@@ -2307,7 +2451,7 @@
    "channelId": "UCuDdJRJ6qR-wGILbpq-FXCw",
    "publishedAt": "2026-10-11T09:00:31Z",
    "duration": 5593,
-   "views": 746271,
+   "views": 752106,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/DtM0YaJ9hKs/mqdefault.jpg",
    "cats": [
@@ -2326,7 +2470,7 @@
    "channelId": "UCpj_nD9850tykDqIrjtIXdg",
    "publishedAt": "2026-10-11T08:40:59Z",
    "duration": 226,
-   "views": 628671,
+   "views": 648955,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/-Jd8Dz2DcOo/mqdefault.jpg",
    "cats": [
@@ -2345,7 +2489,7 @@
    "channelId": "UC0v-pxTo1XamIDE-f__Ad0Q",
    "publishedAt": "2026-10-11T08:38:26Z",
    "duration": 478,
-   "views": 528059,
+   "views": 528186,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/II4MJ_hnzCM/mqdefault.jpg",
    "cats": [
@@ -2364,7 +2508,7 @@
    "channelId": "UCyeDNNizMGbVsn_8Ttc3FIw",
    "publishedAt": "2026-10-11T08:24:09Z",
    "duration": 241,
-   "views": 393696,
+   "views": 394317,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/BvlEwBrpnyk/mqdefault.jpg",
    "cats": [
@@ -2383,7 +2527,7 @@
    "channelId": "UCw2SbtOH0K9AjQTbIRI6cqA",
    "publishedAt": "2026-10-11T02:57:31Z",
    "duration": 3678,
-   "views": 8770,
+   "views": 8779,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/s9YmZ4ns6Ao/mqdefault.jpg",
    "cats": [
@@ -2421,7 +2565,7 @@
    "channelId": "UCKgZOmPB_cAPkJtBRPLIlkw",
    "publishedAt": "2026-10-10T18:00:26Z",
    "duration": 831,
-   "views": 21418,
+   "views": 21515,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/K5zBfGVAoCI/mqdefault.jpg",
    "cats": [
@@ -2459,7 +2603,7 @@
    "channelId": "UCw2SbtOH0K9AjQTbIRI6cqA",
    "publishedAt": "2026-10-10T15:45:40Z",
    "duration": 2724,
-   "views": 50926,
+   "views": 51010,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/xLIWEDxCbB4/mqdefault.jpg",
    "cats": [
@@ -2516,7 +2660,7 @@
    "channelId": "UC-JxK8zxvaRlzGUESRMlzqQ",
    "publishedAt": "2026-10-10T01:00:15Z",
    "duration": 1734,
-   "views": 384,
+   "views": 391,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/NO9G4xHudhQ/mqdefault.jpg",
    "cats": [
@@ -2535,7 +2679,7 @@
    "channelId": "UCS0FXbKxWMhUr5vElHJG-CA",
    "publishedAt": "2026-10-10T01:00:07Z",
    "duration": 10095,
-   "views": 33094,
+   "views": 33192,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/7t2M7hhhc6U/mqdefault.jpg",
    "cats": [
@@ -2573,7 +2717,7 @@
    "channelId": "UCYTximhpSat0HHFPAI0UpUA",
    "publishedAt": "2026-10-09T11:30:44Z",
    "duration": 3894,
-   "views": 1940875,
+   "views": 1950411,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/5h2ECDLKp4U/mqdefault.jpg",
    "cats": [
@@ -2582,44 +2726,6 @@
    "firstSeen": "2026-10-17T15:14:25.298581+00:00",
    "catSeen": {
     "jp-railway": "2026-10-17T15:14:25.298581+00:00"
-   },
-   "source": "channel"
-  },
-  {
-   "id": "KVlRTo1EgCs",
-   "title": "【インサイド】カメラが捉えた舞台裏（マイナビオールスターゲーム2026 新型日産キックス ホームランダービー編）-マイナビオールスターゲーム2026-",
-   "channel": "日本野球機構(NPB)公式チャンネル",
-   "channelId": "UC9SoTt4kJ_qhyBF9k9OGl3g",
-   "publishedAt": "2026-10-09T11:00:09Z",
-   "duration": 2394,
-   "views": 154732,
-   "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/KVlRTo1EgCs/mqdefault.jpg",
-   "cats": [
-    "jp-baseball"
-   ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
-   "catSeen": {
-    "jp-baseball": "2026-10-17T15:14:25.298581+00:00"
-   },
-   "source": "channel"
-  },
-  {
-   "id": "zJ7i8Nf1mHs",
-   "title": "2026 JERA クライマックスシリーズ セ 共同記者会見",
-   "channel": "読売ジャイアンツ",
-   "channelId": "UCXxg0igSYUp0tqdd6luPEnQ",
-   "publishedAt": "2026-10-09T09:49:44Z",
-   "duration": 561,
-   "views": 111352,
-   "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/zJ7i8Nf1mHs/mqdefault.jpg",
-   "cats": [
-    "jp-baseball"
-   ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
-   "catSeen": {
-    "jp-baseball": "2026-10-17T15:14:25.298581+00:00"
    },
    "source": "channel"
   },
@@ -2687,7 +2793,7 @@
    "channelId": "UClLSrcngUHGfoLG7e4tGAlA",
    "publishedAt": "2026-10-08T12:00:18Z",
    "duration": 1987,
-   "views": 239337,
+   "views": 240091,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/0l4_npRbe8g/mqdefault.jpg",
    "cats": [
@@ -2700,32 +2806,13 @@
    "source": "channel"
   },
   {
-   "id": "AlkzG_d8PLc",
-   "title": "Happy Birthday！しんべぇに届いた一通の白い封筒！",
-   "channel": "読売ジャイアンツ",
-   "channelId": "UCXxg0igSYUp0tqdd6luPEnQ",
-   "publishedAt": "2026-10-08T09:02:57Z",
-   "duration": 227,
-   "views": 147922,
-   "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/AlkzG_d8PLc/mqdefault.jpg",
-   "cats": [
-    "jp-baseball"
-   ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
-   "catSeen": {
-    "jp-baseball": "2026-10-17T15:14:25.298581+00:00"
-   },
-   "source": "channel"
-  },
-  {
    "id": "h0hdUrtLyw4",
    "title": "【山陰本線】日本最長の在来線を途中下車しながら5日で乗り通す旅｜京都〜下関",
    "channel": "旅のヤマネ / Travel Yamane",
    "channelId": "UCz5YXv97Cj4ioG2ddIftJTQ",
    "publishedAt": "2026-10-08T09:00:19Z",
    "duration": 7695,
-   "views": 321413,
+   "views": 325595,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/h0hdUrtLyw4/mqdefault.jpg",
    "cats": [
@@ -2744,7 +2831,7 @@
    "channelId": "UCrd9neCNtPkvQukpNTYrP4Q",
    "publishedAt": "2026-10-08T09:00:15Z",
    "duration": 1563,
-   "views": 42333,
+   "views": 42762,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/s1FsWNBt2Yk/mqdefault.jpg",
    "cats": [
@@ -2763,7 +2850,7 @@
    "channelId": "UCXBxydzzZzCFuQvOCmeM3eQ",
    "publishedAt": "2026-10-08T05:00:32Z",
    "duration": 2382,
-   "views": 4621,
+   "views": 4630,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/zLO9s0GwnTI/mqdefault.jpg",
    "cats": [
@@ -2801,7 +2888,7 @@
    "channelId": "UCuTAXTexrhetbOe3zgskJBQ",
    "publishedAt": "2026-10-06T09:00:25Z",
    "duration": 562,
-   "views": 27964,
+   "views": 27982,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/pnPZIP7qZSI/mqdefault.jpg",
    "cats": [
@@ -2820,7 +2907,7 @@
    "channelId": "UCU9SoQxJewrWb_3GxeteQPA",
    "publishedAt": "2026-10-05T22:55:28Z",
    "duration": 1152,
-   "views": 243664,
+   "views": 244570,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/_FrADoCkh0k/mqdefault.jpg",
    "cats": [
@@ -2858,7 +2945,7 @@
    "channelId": "UCw2SbtOH0K9AjQTbIRI6cqA",
    "publishedAt": "2026-10-03T15:59:23Z",
    "duration": 3733,
-   "views": 51228,
+   "views": 51278,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/o2ibNRT6ujU/mqdefault.jpg",
    "cats": [
@@ -2934,7 +3021,7 @@
    "channelId": "UCYTximhpSat0HHFPAI0UpUA",
    "publishedAt": "2026-10-02T10:47:17Z",
    "duration": 5163,
-   "views": 856059,
+   "views": 857519,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/LMrns7aQ7bs/mqdefault.jpg",
    "cats": [
@@ -2953,7 +3040,7 @@
    "channelId": "UCUXfRsEIJ9xO1DT7TbEWksw",
    "publishedAt": "2026-10-02T10:00:09Z",
    "duration": 165,
-   "views": 5702066,
+   "views": 5727044,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/2rhLKnWCo6Y/mqdefault.jpg",
    "cats": [
@@ -3010,7 +3097,7 @@
    "channelId": "UCsmXiDP8S40uBeJYxvyulmA",
    "publishedAt": "2026-10-02T04:00:36Z",
    "duration": 198,
-   "views": 6962649,
+   "views": 7045138,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/U3cl-z5PH8o/mqdefault.jpg",
    "cats": [
@@ -3029,7 +3116,7 @@
    "channelId": "UCv9cNssVud_2AtBVzykUieg",
    "publishedAt": "2026-10-02T00:46:09Z",
    "duration": 101,
-   "views": 371,
+   "views": 372,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/E8hTn5YoJts/mqdefault.jpg",
    "cats": [
@@ -3124,7 +3211,7 @@
    "channelId": "UCvkyjgcOm4n5pj0ahT8JxpA",
    "publishedAt": "2026-09-30T11:08:26Z",
    "duration": 1864,
-   "views": 161117,
+   "views": 161653,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/lb6xOp1NjTw/mqdefault.jpg",
    "cats": [
@@ -3162,7 +3249,7 @@
    "channelId": "UCrd9neCNtPkvQukpNTYrP4Q",
    "publishedAt": "2026-09-30T09:00:33Z",
    "duration": 1603,
-   "views": 165416,
+   "views": 168259,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/gIJLRjOjTb0/mqdefault.jpg",
    "cats": [
@@ -3213,13 +3300,32 @@
    "source": "search"
   },
   {
+   "id": "PpAskTMo4-I",
+   "title": "名探偵リチャード！新パフォーマンス誕生！？",
+   "channel": "読売ジャイアンツ",
+   "channelId": "UCXxg0igSYUp0tqdd6luPEnQ",
+   "publishedAt": "2026-09-29T12:44:54Z",
+   "duration": 299,
+   "views": 200589,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/PpAskTMo4-I/mqdefault.jpg",
+   "cats": [
+    "jp-baseball"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "jp-baseball": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "channel"
+  },
+  {
    "id": "PBV2U6QCbxQ",
    "title": "【2300km】北海道から九州まで新幹線だけで行く日本縦断の旅！",
    "channel": "ZAKI",
    "channelId": "UCix5u_j2mOZS9x_EPbKau4g",
    "publishedAt": "2026-09-29T10:00:32Z",
    "duration": 8221,
-   "views": 1022203,
+   "views": 1023923,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/PBV2U6QCbxQ/mqdefault.jpg",
    "cats": [
@@ -3238,7 +3344,7 @@
    "channelId": "UCv9cNssVud_2AtBVzykUieg",
    "publishedAt": "2026-09-28T10:00:10Z",
    "duration": 117,
-   "views": 1544,
+   "views": 1548,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/gJEV8_eeRT0/mqdefault.jpg",
    "cats": [
@@ -3247,6 +3353,25 @@
    "firstSeen": "2026-10-17T15:14:25.298581+00:00",
    "catSeen": {
     "retro-taiwan": "2026-10-17T15:14:25.298581+00:00"
+   },
+   "source": "channel"
+  },
+  {
+   "id": "p6ESwpln-ks",
+   "title": "舌好調・マルティネス！Siuuuu！！",
+   "channel": "読売ジャイアンツ",
+   "channelId": "UCXxg0igSYUp0tqdd6luPEnQ",
+   "publishedAt": "2026-09-28T09:00:15Z",
+   "duration": 349,
+   "views": 195036,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/p6ESwpln-ks/mqdefault.jpg",
+   "cats": [
+    "jp-baseball"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "jp-baseball": "2026-10-24T06:58:10.476593+00:00"
    },
    "source": "channel"
   },
@@ -3270,13 +3395,32 @@
    "source": "search"
   },
   {
+   "id": "QWrPS11sbwo",
+   "title": "小笠原慎之介の愛称決定！瑛斗命名で本人公認！",
+   "channel": "読売ジャイアンツ",
+   "channelId": "UCXxg0igSYUp0tqdd6luPEnQ",
+   "publishedAt": "2026-09-27T13:22:46Z",
+   "duration": 259,
+   "views": 296790,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/QWrPS11sbwo/mqdefault.jpg",
+   "cats": [
+    "jp-baseball"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "jp-baseball": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "channel"
+  },
+  {
    "id": "HQUP9bevtrE",
    "title": "【沖縄ひとり旅】車なしで沖縄観光！ゆいレール乗り放題きっぷで巡る1日",
    "channel": "しおねる",
    "channelId": "UClLSrcngUHGfoLG7e4tGAlA",
    "publishedAt": "2026-09-27T12:00:22Z",
    "duration": 2122,
-   "views": 368300,
+   "views": 369180,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/HQUP9bevtrE/mqdefault.jpg",
    "cats": [
@@ -3295,7 +3439,7 @@
    "channelId": "UCw2SbtOH0K9AjQTbIRI6cqA",
    "publishedAt": "2026-09-26T15:10:28Z",
    "duration": 2260,
-   "views": 109314,
+   "views": 109364,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/TXGMk2AjKVM/mqdefault.jpg",
    "cats": [
@@ -3333,7 +3477,7 @@
    "channelId": "UCAzCnASZgRgvpKxeEfMUu1Q",
    "publishedAt": "2026-09-25T03:00:31Z",
    "duration": 3838,
-   "views": 7866,
+   "views": 7869,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/U7bz6LFHnLQ/mqdefault.jpg",
    "cats": [
@@ -3371,7 +3515,7 @@
    "channelId": "UCAzCnASZgRgvpKxeEfMUu1Q",
    "publishedAt": "2026-09-24T03:00:23Z",
    "duration": 4101,
-   "views": 8532,
+   "views": 8539,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/AwppSDOdpJ4/mqdefault.jpg",
    "cats": [
@@ -3382,6 +3526,25 @@
     "jp-railway": "2026-10-17T15:14:25.298581+00:00"
    },
    "source": "search"
+  },
+  {
+   "id": "bu73wMY5gbg",
+   "title": "リリーフ陣の頼れる先輩！愛され皓太！",
+   "channel": "読売ジャイアンツ",
+   "channelId": "UCXxg0igSYUp0tqdd6luPEnQ",
+   "publishedAt": "2026-09-23T12:14:38Z",
+   "duration": 408,
+   "views": 229734,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/bu73wMY5gbg/mqdefault.jpg",
+   "cats": [
+    "jp-baseball"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "jp-baseball": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "channel"
   },
   {
    "id": "ZEBkfRxoHbQ",
@@ -3409,7 +3572,7 @@
    "channelId": "UCU9SoQxJewrWb_3GxeteQPA",
    "publishedAt": "2026-09-22T23:54:39Z",
    "duration": 2283,
-   "views": 127155,
+   "views": 127234,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Dg-lOEqJGGw/mqdefault.jpg",
    "cats": [
@@ -3428,7 +3591,7 @@
    "channelId": "UCYTximhpSat0HHFPAI0UpUA",
    "publishedAt": "2026-09-22T14:13:28Z",
    "duration": 5972,
-   "views": 515387,
+   "views": 515741,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/ILn8QX0QTew/mqdefault.jpg",
    "cats": [
@@ -3447,7 +3610,7 @@
    "channelId": "UCYTximhpSat0HHFPAI0UpUA",
    "publishedAt": "2026-09-21T12:24:28Z",
    "duration": 285,
-   "views": 267950,
+   "views": 268081,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/f7aRssXMo1Q/mqdefault.jpg",
    "cats": [
@@ -3504,7 +3667,7 @@
    "channelId": "UCv9cNssVud_2AtBVzykUieg",
    "publishedAt": "2026-09-21T08:46:36Z",
    "duration": 137,
-   "views": 116,
+   "views": 117,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/5X9q0vnSSFM/mqdefault.jpg",
    "cats": [
@@ -3523,7 +3686,7 @@
    "channelId": "UClLSrcngUHGfoLG7e4tGAlA",
    "publishedAt": "2026-09-20T12:00:13Z",
    "duration": 2620,
-   "views": 206626,
+   "views": 206876,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/04HOHflI9Q4/mqdefault.jpg",
    "cats": [
@@ -3561,7 +3724,7 @@
    "channelId": "UCAzCnASZgRgvpKxeEfMUu1Q",
    "publishedAt": "2026-09-20T03:00:23Z",
    "duration": 1720,
-   "views": 162664,
+   "views": 162939,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/HwQxsAUd1j4/mqdefault.jpg",
    "cats": [
@@ -3580,7 +3743,7 @@
    "channelId": "UCw2SbtOH0K9AjQTbIRI6cqA",
    "publishedAt": "2026-09-19T15:11:15Z",
    "duration": 1566,
-   "views": 32926,
+   "views": 32940,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Vxg8iKmVTzw/mqdefault.jpg",
    "cats": [
@@ -3618,7 +3781,7 @@
    "channelId": "UCvkyjgcOm4n5pj0ahT8JxpA",
    "publishedAt": "2026-09-19T12:58:31Z",
    "duration": 2344,
-   "views": 244179,
+   "views": 244455,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/hSh0f10OEgU/mqdefault.jpg",
    "cats": [
@@ -3637,7 +3800,7 @@
    "channelId": "UCSGDuQrTXX5HEf6xJ4AgKgw",
    "publishedAt": "2026-09-19T07:00:17Z",
    "duration": 3281,
-   "views": 352008,
+   "views": 354673,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/ALbvh6AXM0Q/mqdefault.jpg",
    "cats": [
@@ -3656,7 +3819,7 @@
    "channelId": "UCReOpnx3nIPCkZB8k2HtogA",
    "publishedAt": "2026-09-18T21:30:18Z",
    "duration": 6096,
-   "views": 15039,
+   "views": 15072,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/dNVwUavszjI/mqdefault.jpg",
    "cats": [
@@ -3675,7 +3838,7 @@
    "channelId": "UCYTximhpSat0HHFPAI0UpUA",
    "publishedAt": "2026-09-18T11:00:39Z",
    "duration": 4801,
-   "views": 1438983,
+   "views": 1440352,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/I8HXs0Kx2fY/mqdefault.jpg",
    "cats": [
@@ -3694,7 +3857,7 @@
    "channelId": "UCv9cNssVud_2AtBVzykUieg",
    "publishedAt": "2026-09-18T10:16:11Z",
    "duration": 113,
-   "views": 44088,
+   "views": 44477,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/TSkhmnt7Yio/mqdefault.jpg",
    "cats": [
@@ -3713,7 +3876,7 @@
    "channelId": "UCUezbAOEFVo8cUZbzbzRHiw",
    "publishedAt": "2026-09-18T10:00:19Z",
    "duration": 95,
-   "views": 1026058,
+   "views": 1030202,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/FySydmlge3g/mqdefault.jpg",
    "cats": [
@@ -3751,7 +3914,7 @@
    "channelId": "UCrd9neCNtPkvQukpNTYrP4Q",
    "publishedAt": "2026-09-18T09:00:14Z",
    "duration": 1348,
-   "views": 46210,
+   "views": 46254,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/rqje5lEuERc/mqdefault.jpg",
    "cats": [
@@ -3827,7 +3990,7 @@
    "channelId": "UCPRWWKG0VkBA0Pqa4Jr5j0Q",
    "publishedAt": "2026-09-16T12:00:14Z",
    "duration": 1393,
-   "views": 1387816,
+   "views": 1388125,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/WJqp--kvmhc/mqdefault.jpg",
    "cats": [
@@ -3846,7 +4009,7 @@
    "channelId": "UCv9cNssVud_2AtBVzykUieg",
    "publishedAt": "2026-09-16T03:00:09Z",
    "duration": 259,
-   "views": 3075,
+   "views": 3078,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/0V0H5KCV0E0/mqdefault.jpg",
    "cats": [
@@ -3884,7 +4047,7 @@
    "channelId": "UCv9cNssVud_2AtBVzykUieg",
    "publishedAt": "2026-09-16T03:00:06Z",
    "duration": 348,
-   "views": 46314,
+   "views": 46363,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/DMWh0mRt2TI/mqdefault.jpg",
    "cats": [
@@ -3924,7 +4087,7 @@
    "channelId": "UCrd9neCNtPkvQukpNTYrP4Q",
    "publishedAt": "2026-09-15T09:00:02Z",
    "duration": 233,
-   "views": 393726,
+   "views": 401780,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/8dOQSP51Yio/mqdefault.jpg",
    "cats": [
@@ -3943,7 +4106,7 @@
    "channelId": "UCU9SoQxJewrWb_3GxeteQPA",
    "publishedAt": "2026-09-14T22:58:53Z",
    "duration": 945,
-   "views": 187914,
+   "views": 188121,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Xexp12ydsJs/mqdefault.jpg",
    "cats": [
@@ -3962,7 +4125,7 @@
    "channelId": "UCFvSFbT8okMrpuFxBEIB2lg",
    "publishedAt": "2026-09-14T11:00:23Z",
    "duration": 219,
-   "views": 40643640,
+   "views": 40780972,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/JpIw7rSLRqc/mqdefault.jpg",
    "cats": [
@@ -3981,7 +4144,7 @@
    "channelId": "UCw2SbtOH0K9AjQTbIRI6cqA",
    "publishedAt": "2026-09-12T15:07:36Z",
    "duration": 2626,
-   "views": 111501,
+   "views": 111554,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/hgKVWWxoWmY/mqdefault.jpg",
    "cats": [
@@ -3990,25 +4153,6 @@
    "firstSeen": "2026-10-17T15:14:25.298581+00:00",
    "catSeen": {
     "radio": "2026-10-17T15:14:25.298581+00:00"
-   },
-   "source": "channel"
-  },
-  {
-   "id": "YIYZDr9QXjM",
-   "title": "日本で最も”海から離れた場所”には何がある？ガチで行ったらヤバ過ぎた...",
-   "channel": "西園寺",
-   "channelId": "UCYTximhpSat0HHFPAI0UpUA",
-   "publishedAt": "2026-09-12T11:10:36Z",
-   "duration": 2897,
-   "views": 1112607,
-   "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/YIYZDr9QXjM/mqdefault.jpg",
-   "cats": [
-    "jp-railway"
-   ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
-   "catSeen": {
-    "jp-railway": "2026-10-17T15:14:25.298581+00:00"
    },
    "source": "channel"
   },
@@ -4057,7 +4201,7 @@
    "channelId": "UCvkyjgcOm4n5pj0ahT8JxpA",
    "publishedAt": "2026-09-08T10:38:33Z",
    "duration": 2062,
-   "views": 303980,
+   "views": 304263,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/ke1U0FFkVeQ/mqdefault.jpg",
    "cats": [
@@ -4070,32 +4214,13 @@
    "source": "channel"
   },
   {
-   "id": "XXet_TrHvk4",
-   "title": "【4K60fps 全区間前面展望】南海高野線6000系「急行」　なんば→橋本間前面展望 #南海電車 #前面展望 ",
-   "channel": "🍏🎶四条鉄",
-   "channelId": "UCX_Knndm4lNbO1ibGBveg9Q",
-   "publishedAt": "2026-09-06T19:48:08Z",
-   "duration": 3186,
-   "views": 4599,
-   "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/XXet_TrHvk4/mqdefault.jpg",
-   "cats": [
-    "jp-railway"
-   ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
-   "catSeen": {
-    "jp-railway": "2026-10-17T15:14:25.298581+00:00"
-   },
-   "source": "search"
-  },
-  {
    "id": "iFXsUDccRKQ",
    "title": "Wavetek 3007 Signal Generator Repair Vintage Test Equipment ",
    "channel": "shango066",
    "channelId": "UCw2SbtOH0K9AjQTbIRI6cqA",
    "publishedAt": "2026-09-05T15:49:19Z",
    "duration": 1180,
-   "views": 18559,
+   "views": 18564,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/iFXsUDccRKQ/mqdefault.jpg",
    "cats": [
@@ -4133,7 +4258,7 @@
    "channelId": "UCSMiUAzoDR5ZAhS4FOVuanQ",
    "publishedAt": "2026-09-05T10:46:32Z",
    "duration": 512,
-   "views": 521,
+   "views": 527,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/nk2ya7jAygA/mqdefault.jpg",
    "cats": [
@@ -4165,70 +4290,13 @@
    "source": "search"
   },
   {
-   "id": "gY9XuT2iDjg",
-   "title": "【過酷】日本海と太平洋を1日で何往復できる？地獄のシャトルラン対決！",
-   "channel": "西園寺",
-   "channelId": "UCYTximhpSat0HHFPAI0UpUA",
-   "publishedAt": "2026-09-04T11:03:22Z",
-   "duration": 6086,
-   "views": 1331418,
-   "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/gY9XuT2iDjg/mqdefault.jpg",
-   "cats": [
-    "jp-railway"
-   ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
-   "catSeen": {
-    "jp-railway": "2026-10-17T15:14:25.298581+00:00"
-   },
-   "source": "channel"
-  },
-  {
-   "id": "yJiUKdUGvbw",
-   "title": "京阪石山坂本線の踏切巡り",
-   "channel": "鈴川絢子/Suzukawa Ayako",
-   "channelId": "UCrd9neCNtPkvQukpNTYrP4Q",
-   "publishedAt": "2026-09-04T09:00:06Z",
-   "duration": 1260,
-   "views": 103106,
-   "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/yJiUKdUGvbw/mqdefault.jpg",
-   "cats": [
-    "jp-railway"
-   ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
-   "catSeen": {
-    "jp-railway": "2026-10-17T15:14:25.298581+00:00"
-   },
-   "source": "channel"
-  },
-  {
-   "id": "a-vnx_pW2bY",
-   "title": "52年ぶりにSLが会津へ！SL大樹「土津」の旅【女子鉄道旅】",
-   "channel": "しおねる",
-   "channelId": "UClLSrcngUHGfoLG7e4tGAlA",
-   "publishedAt": "2026-09-03T12:00:14Z",
-   "duration": 2267,
-   "views": 168024,
-   "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/a-vnx_pW2bY/mqdefault.jpg",
-   "cats": [
-    "jp-railway"
-   ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
-   "catSeen": {
-    "jp-railway": "2026-10-17T15:14:25.298581+00:00"
-   },
-   "source": "channel"
-  },
-  {
    "id": "0g76elVK2jo",
    "title": "【MV】FRUITS ZIPPER『秘密のアティチュード』",
    "channel": "KAWAII LAB.",
    "channelId": "UCW8Q9LBGGBgK6a-u0C0h95A",
    "publishedAt": "2026-09-03T12:00:07Z",
    "duration": 213,
-   "views": 1399097,
+   "views": 1401581,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/0g76elVK2jo/mqdefault.jpg",
    "cats": [
@@ -4237,25 +4305,6 @@
    "firstSeen": "2026-10-19T22:18:12.778306+00:00",
    "catSeen": {
     "jp-jpop": "2026-10-19T22:18:12.778306+00:00"
-   },
-   "source": "search"
-  },
-  {
-   "id": "fKolr-Ip3HQ",
-   "title": "【日本最後の寝台特急】サンライズ瀬戸・出雲 乗車記",
-   "channel": "Kk7DdE.(12)",
-   "channelId": "UC5SOoyTjZRt68To2RzeBlvA",
-   "publishedAt": "2026-09-02T13:35:24Z",
-   "duration": 1520,
-   "views": 275,
-   "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/fKolr-Ip3HQ/mqdefault.jpg",
-   "cats": [
-    "jp-railway"
-   ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
-   "catSeen": {
-    "jp-railway": "2026-10-17T15:14:25.298581+00:00"
    },
    "source": "search"
   },
@@ -4304,7 +4353,7 @@
    "channelId": "UC9y7jEtG7Wt5fhAC57HQ1EA",
    "publishedAt": "2026-08-31T23:00:34Z",
    "duration": 10362,
-   "views": 252419,
+   "views": 253061,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/3ucerDWXhM8/mqdefault.jpg",
    "cats": [
@@ -4317,59 +4366,40 @@
    "source": "search"
   },
   {
-   "id": "XGdn5W2J6rs",
-   "title": "鉄道模型ミニジオラマ お手軽に作れる",
-   "channel": "鈴川絢子/Suzukawa Ayako",
-   "channelId": "UCrd9neCNtPkvQukpNTYrP4Q",
-   "publishedAt": "2026-08-31T09:00:34Z",
-   "duration": 749,
-   "views": 90617,
+   "id": "GQ9O4VC8cCs",
+   "title": "Live shortwave radio show Sunday August 30th 2026",
+   "channel": "OfficialSWLchannel",
+   "channelId": "UCw7FKchRP3oVw4Nh_L7oPAQ",
+   "publishedAt": "2026-08-31T00:14:44Z",
+   "duration": 14501,
+   "views": 4217,
    "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/XGdn5W2J6rs/mqdefault.jpg",
+   "thumb": "https://i.ytimg.com/vi/GQ9O4VC8cCs/mqdefault.jpg",
    "cats": [
-    "jp-railway"
+    "shortwave"
    ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
    "catSeen": {
-    "jp-railway": "2026-10-17T15:14:25.298581+00:00"
+    "shortwave": "2026-10-24T06:58:10.476593+00:00"
    },
-   "source": "channel"
+   "source": "search"
   },
   {
-   "id": "99VgXMvLs0A",
-   "title": "東京おもちゃショー2026に行ってきた",
-   "channel": "鈴川絢子/Suzukawa Ayako",
-   "channelId": "UCrd9neCNtPkvQukpNTYrP4Q",
-   "publishedAt": "2026-08-29T22:00:22Z",
-   "duration": 5562,
-   "views": 197815,
+   "id": "VU_5f10qVpo",
+   "title": "【年に2日だけ】日本一営業日の少ない駅、津島ノ宮駅へ",
+   "channel": "しおねる",
+   "channelId": "UClLSrcngUHGfoLG7e4tGAlA",
+   "publishedAt": "2026-08-27T12:00:59Z",
+   "duration": 941,
+   "views": 198701,
    "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/99VgXMvLs0A/mqdefault.jpg",
+   "thumb": "https://i.ytimg.com/vi/VU_5f10qVpo/mqdefault.jpg",
    "cats": [
     "jp-railway"
    ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
    "catSeen": {
-    "jp-railway": "2026-10-17T15:14:25.298581+00:00"
-   },
-   "source": "channel"
-  },
-  {
-   "id": "ohft3bVrFBY",
-   "title": "【0泊7日】夜行バスに”1週間”乗り続ける生活してみた！",
-   "channel": "西園寺",
-   "channelId": "UCYTximhpSat0HHFPAI0UpUA",
-   "publishedAt": "2026-08-28T12:47:28Z",
-   "duration": 8826,
-   "views": 2450000,
-   "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/ohft3bVrFBY/mqdefault.jpg",
-   "cats": [
-    "jp-railway"
-   ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
-   "catSeen": {
-    "jp-railway": "2026-10-17T15:14:25.298581+00:00"
+    "jp-railway": "2026-10-24T06:58:10.476593+00:00"
    },
    "source": "channel"
   },
@@ -4380,7 +4410,7 @@
    "channelId": "UCWprqhsiw88d-j07y7mETXw",
    "publishedAt": "2026-08-26T11:03:51Z",
    "duration": 276,
-   "views": 8259520,
+   "views": 8269285,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/EUCRNhQlKYc/mqdefault.jpg",
    "cats": [
@@ -4412,13 +4442,32 @@
    "source": "search"
   },
   {
+   "id": "OWRk1tu0-Dg",
+   "title": "近鉄ひのとり プレミアムシート 乗車記｜名古屋→大阪難波 2時間8分の全区間レビュー",
+   "channel": "Kazuki Travel Channel -カズキ トラベルチャンネル-",
+   "channelId": "UCOz14thsiCCc1c_36JsFVcA",
+   "publishedAt": "2026-08-25T09:00:22Z",
+   "duration": 1126,
+   "views": 333,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/OWRk1tu0-Dg/mqdefault.jpg",
+   "cats": [
+    "jp-railway"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "jp-railway": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "SjOxBg6SJuw",
    "title": "Why Put Diodes Together In Both Directions? Explained With Examples!",
    "channel": "Mr Carlson's Lab",
    "channelId": "UCU9SoQxJewrWb_3GxeteQPA",
    "publishedAt": "2026-08-24T22:28:23Z",
    "duration": 1069,
-   "views": 1064967,
+   "views": 1067004,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/SjOxBg6SJuw/mqdefault.jpg",
    "cats": [
@@ -4450,13 +4499,89 @@
    "source": "search"
   },
   {
+   "id": "9hRmWl_K9q8",
+   "title": "A Receiver in the Middle of the Ocean | Azores Shortwave Radio Ambience | Sleep, Focus",
+   "channel": "Shortwave Wanderings",
+   "channelId": "UCzCC6p_sS-ye9BlD-GFrnXw",
+   "publishedAt": "2026-08-21T01:00:02Z",
+   "duration": 7230,
+   "views": 751,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/9hRmWl_K9q8/mqdefault.jpg",
+   "cats": [
+    "shortwave"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "shortwave": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "lx8y80pmerk",
+   "title": "西武園プール＆狭山スキー場ウォーターフェスに行ってきた",
+   "channel": "鈴川絢子/Suzukawa Ayako",
+   "channelId": "UCrd9neCNtPkvQukpNTYrP4Q",
+   "publishedAt": "2026-08-20T09:00:07Z",
+   "duration": 932,
+   "views": 53852,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/lx8y80pmerk/mqdefault.jpg",
+   "cats": [
+    "jp-railway"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "jp-railway": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "channel"
+  },
+  {
+   "id": "HWdaevrnCnQ",
+   "title": "乗り放題きっぷで四国一周！お得に旅する3日間【バースデイきっぷ】",
+   "channel": "しおねる",
+   "channelId": "UClLSrcngUHGfoLG7e4tGAlA",
+   "publishedAt": "2026-08-19T12:00:03Z",
+   "duration": 4302,
+   "views": 837054,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/HWdaevrnCnQ/mqdefault.jpg",
+   "cats": [
+    "jp-railway"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "jp-railway": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "channel"
+  },
+  {
+   "id": "mUpiBKT-Yco",
+   "title": "富良野→札幌を乗り換えなしで快適移動！【フラノラベンダーエクスプレス】",
+   "channel": "しおねる",
+   "channelId": "UClLSrcngUHGfoLG7e4tGAlA",
+   "publishedAt": "2026-08-16T12:00:32Z",
+   "duration": 745,
+   "views": 53781,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/mUpiBKT-Yco/mqdefault.jpg",
+   "cats": [
+    "jp-railway"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "jp-railway": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "channel"
+  },
+  {
    "id": "ikFaEAlO5N0",
    "title": "＝LOVE（イコールラブ）/ 21st Single『恋、はじめました。』【MV full】",
    "channel": "＝LOVE（イコールラブ）公式チャンネル",
    "channelId": "UCv7VutirxDn3RWIJXI68n_A",
    "publishedAt": "2026-08-14T13:00:06Z",
    "duration": 225,
-   "views": 15111129,
+   "views": 15149194,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/ikFaEAlO5N0/mqdefault.jpg",
    "cats": [
@@ -4475,7 +4600,7 @@
    "channelId": "UCPKlrgZXnnb89nSeITvTdGA",
    "publishedAt": "2026-08-13T12:00:06Z",
    "duration": 233,
-   "views": 7044624,
+   "views": 7052067,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/qf4kjBYR3O0/mqdefault.jpg",
    "cats": [
@@ -4513,7 +4638,7 @@
    "channelId": "UCU9SoQxJewrWb_3GxeteQPA",
    "publishedAt": "2026-08-10T22:56:12Z",
    "duration": 1623,
-   "views": 168386,
+   "views": 168432,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/owdYYPnLESg/mqdefault.jpg",
    "cats": [
@@ -4532,7 +4657,7 @@
    "channelId": "UCUqveHtPKHkft-gJFj4PoRA",
    "publishedAt": "2026-08-09T12:00:21Z",
    "duration": 12556,
-   "views": 19704,
+   "views": 19791,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/1P1bx5q8Uro/mqdefault.jpg",
    "cats": [
@@ -4545,13 +4670,32 @@
    "source": "search"
   },
   {
+   "id": "3ECkJJUYUmQ",
+   "title": "夜行新幹線「東海道ルミエールエクスプレス」が運転開始したので乗ってみた！",
+   "channel": "スーツ 旅行 / Suit Travel",
+   "channelId": "UCuDdJRJ6qR-wGILbpq-FXCw",
+   "publishedAt": "2026-08-09T00:14:37Z",
+   "duration": 858,
+   "views": 1600598,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/3ECkJJUYUmQ/mqdefault.jpg",
+   "cats": [
+    "jp-railway"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "jp-railway": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "81L62ZYmRsM",
    "title": "西野カナ『パッ』MV Full",
    "channel": "西野カナ Official YouTube Channel",
    "channelId": "UCXq19VXLNkTtVE9LfRBKd5Q",
    "publishedAt": "2026-08-08T11:00:02Z",
    "duration": 274,
-   "views": 140154,
+   "views": 140431,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/81L62ZYmRsM/mqdefault.jpg",
    "cats": [
@@ -4570,7 +4714,7 @@
    "channelId": "UCReOpnx3nIPCkZB8k2HtogA",
    "publishedAt": "2026-08-07T21:30:06Z",
    "duration": 5086,
-   "views": 278377,
+   "views": 279557,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/ZyB54H2sFjo/mqdefault.jpg",
    "cats": [
@@ -4579,6 +4723,25 @@
    "firstSeen": "2026-10-17T15:14:25.298581+00:00",
    "catSeen": {
     "showa-retro": "2026-10-17T15:14:25.298581+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "UYdPjfikCTY",
+   "title": "【前面展望】JR東日本 常磐線 原ノ町発いわき行 原ノ町→いわき【Frontview】JR East Joban-Line for Iwaki Haranomachi→Iwaki",
+   "channel": "ほくと鉄道",
+   "channelId": "UCAzCnASZgRgvpKxeEfMUu1Q",
+   "publishedAt": "2026-08-06T03:00:29Z",
+   "duration": 4714,
+   "views": 1946,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/UYdPjfikCTY/mqdefault.jpg",
+   "cats": [
+    "jp-railway"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "jp-railway": "2026-10-24T06:58:10.476593+00:00"
    },
    "source": "search"
   },
@@ -4608,7 +4771,7 @@
    "channelId": "UCFvSFbT8okMrpuFxBEIB2lg",
    "publishedAt": "2026-08-03T09:00:06Z",
    "duration": 228,
-   "views": 17356238,
+   "views": 17390602,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/7VqCdhFGE78/mqdefault.jpg",
    "cats": [
@@ -4640,13 +4803,51 @@
    "source": "search"
   },
   {
+   "id": "1_xpwvQrlTc",
+   "title": "なぜか海外で流行りまくったシティポップ8選",
+   "channel": "音楽語りカセットくん",
+   "channelId": "UCYien8iJ1ed_LVjzC2mvWWQ",
+   "publishedAt": "2026-08-01T11:00:30Z",
+   "duration": 697,
+   "views": 324669,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/1_xpwvQrlTc/mqdefault.jpg",
+   "cats": [
+    "jp-citypop"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "jp-citypop": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "nhv1qG1-zmQ",
+   "title": "都会のローカル線  番外編　関東鉄道•常総線（取手 → 水海道）前面展望",
+   "channel": "名無しの権兵衛坂46",
+   "channelId": "UC3_FL1TkCY2Wq3QynS9tSHQ",
+   "publishedAt": "2026-08-01T09:00:35Z",
+   "duration": 1861,
+   "views": 213,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/nhv1qG1-zmQ/mqdefault.jpg",
+   "cats": [
+    "jp-railway"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "jp-railway": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "dePs7UPp6GQ",
    "title": "Mrs. GREEN APPLE「Brand New」Official Music Video",
    "channel": "Mrs. GREEN APPLE",
    "channelId": "UCpFgmZm65yOU5X-hmWkWjuw",
    "publishedAt": "2026-07-31T12:00:06Z",
    "duration": 221,
-   "views": 36089838,
+   "views": 36147332,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/dePs7UPp6GQ/mqdefault.jpg",
    "cats": [
@@ -4665,7 +4866,7 @@
    "channelId": "UCsmXiDP8S40uBeJYxvyulmA",
    "publishedAt": "2026-07-31T03:59:32Z",
    "duration": 213,
-   "views": 6505318,
+   "views": 6529001,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/eN2NlzPdcrs/mqdefault.jpg",
    "cats": [
@@ -4703,7 +4904,7 @@
    "channelId": "UCY47aDuWPpH18NJlidLg04A",
    "publishedAt": "2026-07-29T12:00:06Z",
    "duration": 180,
-   "views": 977521,
+   "views": 1005535,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/r3QBTkuF-5A/mqdefault.jpg",
    "cats": [
@@ -4722,7 +4923,7 @@
    "channelId": "UCQa2R9s2JIHEF5TKYqxPWfg",
    "publishedAt": "2026-07-29T09:00:04Z",
    "duration": 843,
-   "views": 3555,
+   "views": 3556,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/01JzTQm38l0/mqdefault.jpg",
    "cats": [
@@ -4741,7 +4942,7 @@
    "channelId": "UCU9SoQxJewrWb_3GxeteQPA",
    "publishedAt": "2026-07-28T22:50:16Z",
    "duration": 2318,
-   "views": 55223,
+   "views": 55370,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/1K9HphuZY_Y/mqdefault.jpg",
    "cats": [
@@ -4760,7 +4961,7 @@
    "channelId": "UCEzTHINxO-QFy0iqTXtoZmQ",
    "publishedAt": "2026-07-28T22:00:37Z",
    "duration": 7738,
-   "views": 312890,
+   "views": 330936,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/WZZkUFOBN5Y/mqdefault.jpg",
    "cats": [
@@ -4779,7 +4980,7 @@
    "channelId": "UC3IZKseVpdzPSBaWxBxundA",
    "publishedAt": "2026-07-26T11:00:03Z",
    "duration": 178,
-   "views": 19552845,
+   "views": 19568926,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/_Pk6xfju3l0/mqdefault.jpg",
    "cats": [
@@ -4798,7 +4999,7 @@
    "channelId": "UCX2E8JdlCMvofcNHcbsf1sg",
    "publishedAt": "2026-07-24T10:00:29Z",
    "duration": 330,
-   "views": 276,
+   "views": 278,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/sl5dUXtKNQA/mqdefault.jpg",
    "cats": [
@@ -4817,7 +5018,7 @@
    "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
    "publishedAt": "2026-07-23T14:59:06Z",
    "duration": 190,
-   "views": 21739972,
+   "views": 22088361,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/inxzQt78lOk/mqdefault.jpg",
    "cats": [
@@ -4826,6 +5027,25 @@
    "firstSeen": "2026-10-19T22:18:12.778306+00:00",
    "catSeen": {
     "jp-jpop": "2026-10-19T22:18:12.778306+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "HgUYFxFqsyk",
+   "title": "空腹を隠すため嘘までついた山下達郎が耐え続けた極貧生活の真実。",
+   "channel": "音楽語りカセットくん",
+   "channelId": "UCYien8iJ1ed_LVjzC2mvWWQ",
+   "publishedAt": "2026-07-22T12:00:06Z",
+   "duration": 716,
+   "views": 121887,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/HgUYFxFqsyk/mqdefault.jpg",
+   "cats": [
+    "jp-citypop"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "jp-citypop": "2026-10-24T06:58:10.476593+00:00"
    },
    "source": "search"
   },
@@ -4855,7 +5075,7 @@
    "channelId": "UCQjidIK-N0uRaIACiljXe_g",
    "publishedAt": "2026-07-20T22:00:39Z",
    "duration": 6777,
-   "views": 156994,
+   "views": 158135,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/wmM3W1hTZno/mqdefault.jpg",
    "cats": [
@@ -4883,6 +5103,25 @@
    "firstSeen": "2026-10-19T22:18:12.778306+00:00",
    "catSeen": {
     "jp-railway": "2026-10-19T22:18:12.778306+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "-NO0Uo7lNYM",
+   "title": "11分鐘無跳躍燃脂舞蹈｜公寓友善的全身有氧運動",
+   "channel": "Mariness Fit (中文)",
+   "channelId": "UCDlAYeGtGsqQY1sf9XvosJw",
+   "publishedAt": "2026-07-20T10:00:07Z",
+   "duration": 718,
+   "views": 283871,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/-NO0Uo7lNYM/mqdefault.jpg",
+   "cats": [
+    "c-mvm1petyruzp"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "c-mvm1petyruzp": "2026-10-24T06:58:10.476593+00:00"
    },
    "source": "search"
   },
@@ -4950,7 +5189,7 @@
    "channelId": "UCE3hUTG7XMh_2U8-JZjq4ig",
    "publishedAt": "2026-07-16T10:30:30Z",
    "duration": 1043,
-   "views": 483,
+   "views": 485,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/B8I-0XX0jGc/mqdefault.jpg",
    "cats": [
@@ -4988,7 +5227,7 @@
    "channelId": "UCUCeZaZeJbEYAAzvMgrKOPQ",
    "publishedAt": "2026-07-15T11:00:06Z",
    "duration": 209,
-   "views": 9988153,
+   "views": 10002430,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/l2jvIuTp534/mqdefault.jpg",
    "cats": [
@@ -5001,13 +5240,32 @@
    "source": "search"
   },
   {
+   "id": "igtA_QBeWpQ",
+   "title": "PSYCHIC FEVER - If You're Mine (Official Music Video)",
+   "channel": "PSYCHIC FEVER",
+   "channelId": "UCku9kH4QTRy3J6-gVTfKJHg",
+   "publishedAt": "2026-07-10T12:00:06Z",
+   "duration": 167,
+   "views": 7700455,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/igtA_QBeWpQ/mqdefault.jpg",
+   "cats": [
+    "jp-jpop"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "jp-jpop": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "6TXSn3ZyFH8",
    "title": "是民主先生、黑金教父，還是日本人？揭秘百變李登輝 -《新．動畫臺灣史 人物篇》EP1｜臺灣吧 Taiwan Bar",
    "channel": "Taiwan Bar",
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2026-07-09T12:00:06Z",
    "duration": 385,
-   "views": 52361,
+   "views": 53126,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/6TXSn3ZyFH8/mqdefault.jpg",
    "cats": [
@@ -5016,6 +5274,25 @@
    "firstSeen": "2026-10-17T15:14:25.298581+00:00",
    "catSeen": {
     "taiwan-history": "2026-10-17T15:14:25.298581+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "RL8OldbZ9eA",
+   "title": "Shortwave Radio News - July 2026",
+   "channel": "Shortwave Listener",
+   "channelId": "UCgKHKWctVed3sx4hqaVO2Lg",
+   "publishedAt": "2026-07-09T03:31:57Z",
+   "duration": 552,
+   "views": 45179,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/RL8OldbZ9eA/mqdefault.jpg",
+   "cats": [
+    "shortwave"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "shortwave": "2026-10-24T06:58:10.476593+00:00"
    },
    "source": "search"
   },
@@ -5083,7 +5360,7 @@
    "channelId": "UCi_AquB9uaI3-9xXkuWG7IQ",
    "publishedAt": "2026-06-29T09:25:06Z",
    "duration": 211,
-   "views": 11686087,
+   "views": 11699570,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/I_6m6_Ylyd8/mqdefault.jpg",
    "cats": [
@@ -5197,7 +5474,7 @@
    "channelId": "UC2V_e2PqDF-pfLKeLTZHz3g",
    "publishedAt": "2026-06-18T06:00:36Z",
    "duration": 2876,
-   "views": 58747,
+   "views": 58812,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/zCuohBRIUDQ/mqdefault.jpg",
    "cats": [
@@ -5216,7 +5493,7 @@
    "channelId": "UCYGfmyFKZOT7BtYk-JwbU_A",
    "publishedAt": "2026-06-10T04:44:27Z",
    "duration": 3842,
-   "views": 202043,
+   "views": 202485,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/-5IGb2kbuzo/mqdefault.jpg",
    "cats": [
@@ -5225,6 +5502,63 @@
    "firstSeen": "2026-10-17T15:14:25.298581+00:00",
    "catSeen": {
     "jp-drama-songs": "2026-10-17T15:14:25.298581+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "uNhGHqSalVw",
+   "title": "What Happened to Shortwave Radios? | When the Whole World Fit Inside One Dial",
+   "channel": "Buried History with Jonathan Reed",
+   "channelId": "UCxMyBnZlk6GgZ4KZWVuzyog",
+   "publishedAt": "2026-06-07T00:32:03Z",
+   "duration": 2471,
+   "views": 262591,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/uNhGHqSalVw/mqdefault.jpg",
+   "cats": [
+    "shortwave"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "shortwave": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "sdUyBT_2VyY",
+   "title": "【20分鐘居家運動】預防肌少症、增肌減脂、降三高！簡單又有效 ft.徐棟英教官",
+   "channel": "照顧攏底家",
+   "channelId": "UCVIV4EOCwE1HclB6ySzt-cw",
+   "publishedAt": "2026-06-03T12:00:06Z",
+   "duration": 1381,
+   "views": 475926,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/sdUyBT_2VyY/mqdefault.jpg",
+   "cats": [
+    "c-mvm1petyruzp"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "c-mvm1petyruzp": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "_6h2Q8y8mtA",
+   "title": "What Happened to Shortwave Radios? The Truth is Brutal.",
+   "channel": "The History Archive",
+   "channelId": "UCvWNhAkuLd6L2F_xleAgigA",
+   "publishedAt": "2026-05-30T15:17:59Z",
+   "duration": 880,
+   "views": 118637,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/_6h2Q8y8mtA/mqdefault.jpg",
+   "cats": [
+    "shortwave"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "shortwave": "2026-10-24T06:58:10.476593+00:00"
    },
    "source": "search"
   },
@@ -5254,7 +5588,7 @@
    "channelId": "UCkig-eJWKj7lhuK2wfOZHXQ",
    "publishedAt": "2026-05-29T07:55:40Z",
    "duration": 4886,
-   "views": 62202,
+   "views": 62258,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/rnc9RG_u9Ok/mqdefault.jpg",
    "cats": [
@@ -5330,7 +5664,7 @@
    "channelId": "UCkA9ZwhXBk9ekYmV79YMsrQ",
    "publishedAt": "2026-05-23T07:02:30Z",
    "duration": 706,
-   "views": 2730,
+   "views": 2738,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/9HEriUVppJI/mqdefault.jpg",
    "cats": [
@@ -5349,7 +5683,7 @@
    "channelId": "UCgL0jA6oWkatGtQyJO6N3iA",
    "publishedAt": "2026-05-19T23:08:49Z",
    "duration": 1767,
-   "views": 60038,
+   "views": 60120,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/PlPnaAQlo94/mqdefault.jpg",
    "cats": [
@@ -5368,7 +5702,7 @@
    "channelId": "UCo7lJW7c0vSXRL8vO37pmjg",
    "publishedAt": "2026-05-19T14:00:20Z",
    "duration": 232,
-   "views": 3563,
+   "views": 3571,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/glAxiLA5jPQ/mqdefault.jpg",
    "cats": [
@@ -5387,7 +5721,7 @@
    "channelId": "UCze1n_uE-AOpasOLbrRrjRw",
    "publishedAt": "2026-05-16T11:01:31Z",
    "duration": 10287,
-   "views": 206406,
+   "views": 206569,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/smeaJEqS28o/mqdefault.jpg",
    "cats": [
@@ -5425,7 +5759,7 @@
    "channelId": "UCXm76zKrfNApFif6A0zS9Tw",
    "publishedAt": "2026-05-12T15:30:28Z",
    "duration": 136,
-   "views": 4926769,
+   "views": 4928163,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/nU5OhoVFPns/mqdefault.jpg",
    "cats": [
@@ -5482,7 +5816,7 @@
    "channelId": "UC4Vm7RdFdSGIFJGid1GZKdQ",
    "publishedAt": "2026-05-02T11:00:06Z",
    "duration": 2807,
-   "views": 373400,
+   "views": 373537,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/bMJgSN2SLwk/mqdefault.jpg",
    "cats": [
@@ -5501,7 +5835,7 @@
    "channelId": "UCq4fE1X9CfpehcJ_r09-EFg",
    "publishedAt": "2026-05-01T09:01:18Z",
    "duration": 322,
-   "views": 48589,
+   "views": 48631,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/o-SsfXJjBKo/mqdefault.jpg",
    "cats": [
@@ -5520,7 +5854,7 @@
    "channelId": "UCBQBJdFxIyEXvUUNdX-xvpA",
    "publishedAt": "2026-04-28T09:04:23Z",
    "duration": 2335,
-   "views": 11237,
+   "views": 11247,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/f5Y2604jYVs/mqdefault.jpg",
    "cats": [
@@ -5539,7 +5873,7 @@
    "channelId": "UCjIskCYmxTPpRUokyXoN9nA",
    "publishedAt": "2026-04-22T07:04:52Z",
    "duration": 2772,
-   "views": 1228750,
+   "views": 1230245,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/pZYTme4pzRU/mqdefault.jpg",
    "cats": [
@@ -5577,7 +5911,7 @@
    "channelId": "UCwUfgTlDbothRmKaIB7T9uw",
    "publishedAt": "2026-04-20T11:00:32Z",
    "duration": 427,
-   "views": 76239,
+   "views": 76307,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Edztd_7MLCk/mqdefault.jpg",
    "cats": [
@@ -5615,7 +5949,7 @@
    "channelId": "UCUqveHtPKHkft-gJFj4PoRA",
    "publishedAt": "2026-04-10T12:00:06Z",
    "duration": 8418,
-   "views": 245190,
+   "views": 245718,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/FJiZDOSvLC0/mqdefault.jpg",
    "cats": [
@@ -5653,7 +5987,7 @@
    "channelId": "UC-rIfmnBw9Oiq0N-IjDRgpw",
    "publishedAt": "2026-04-07T07:39:47Z",
    "duration": 2391,
-   "views": 84598,
+   "views": 84647,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/uiq53W35PUQ/mqdefault.jpg",
    "cats": [
@@ -5691,7 +6025,7 @@
    "channelId": "UCIwErW8Akqn-ixV7hPIgm4w",
    "publishedAt": "2026-04-04T13:15:03Z",
    "duration": 379,
-   "views": 1212,
+   "views": 1215,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/793fLxHiJIU/mqdefault.jpg",
    "cats": [
@@ -5729,7 +6063,7 @@
    "channelId": "UCxJ_MU3q-9cu9LntW89KqXQ",
    "publishedAt": "2026-04-01T07:46:51Z",
    "duration": 895,
-   "views": 180560,
+   "views": 180564,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/KmIuqZVN_6k/mqdefault.jpg",
    "cats": [
@@ -5786,7 +6120,7 @@
    "channelId": "UCGiEbq79rlnmyUiE0rdk3Sg",
    "publishedAt": "2026-03-18T22:00:13Z",
    "duration": 207,
-   "views": 387583,
+   "views": 389751,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/CK6GnJ0Yk4E/mqdefault.jpg",
    "cats": [
@@ -5805,7 +6139,7 @@
    "channelId": "UC9f3BeG0h0mvbhZhCqopJxQ",
    "publishedAt": "2026-03-11T01:00:53Z",
    "duration": 316,
-   "views": 483883,
+   "views": 483951,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/sd6Oi1s86jU/mqdefault.jpg",
    "cats": [
@@ -5843,7 +6177,7 @@
    "channelId": "UC_hPF-oNtfyPPHtOkKrGL3Q",
    "publishedAt": "2026-03-10T09:00:00Z",
    "duration": 1519,
-   "views": 66584,
+   "views": 66629,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/EEl5NkwTTP4/mqdefault.jpg",
    "cats": [
@@ -5919,7 +6253,7 @@
    "channelId": "UCvXH8I9JJb09wg87C2kVuXA",
    "publishedAt": "2026-03-06T06:00:31Z",
    "duration": 7641,
-   "views": 410937,
+   "views": 411167,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/QhASkW1x7Vk/mqdefault.jpg",
    "cats": [
@@ -5938,7 +6272,7 @@
    "channelId": "UCvXH8I9JJb09wg87C2kVuXA",
    "publishedAt": "2026-03-04T06:00:12Z",
    "duration": 3745,
-   "views": 197509,
+   "views": 197696,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/HePFfZfoAAA/mqdefault.jpg",
    "cats": [
@@ -5957,7 +6291,7 @@
    "channelId": "UC_hPF-oNtfyPPHtOkKrGL3Q",
    "publishedAt": "2026-02-27T09:00:00Z",
    "duration": 1286,
-   "views": 51042,
+   "views": 51058,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/X3pI9aU2zXQ/mqdefault.jpg",
    "cats": [
@@ -5976,7 +6310,7 @@
    "channelId": "UCvXH8I9JJb09wg87C2kVuXA",
    "publishedAt": "2026-02-27T06:00:28Z",
    "duration": 3938,
-   "views": 1227998,
+   "views": 1229222,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Xbpq_B4GrcA/mqdefault.jpg",
    "cats": [
@@ -5995,7 +6329,7 @@
    "channelId": "UC9a8Z6Sp6eb2s3O79pX5Zvg",
    "publishedAt": "2026-02-19T16:08:13Z",
    "duration": 353,
-   "views": 44575,
+   "views": 44592,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/izx6nkLpoOA/mqdefault.jpg",
    "cats": [
@@ -6014,7 +6348,7 @@
    "channelId": "UC9a8Z6Sp6eb2s3O79pX5Zvg",
    "publishedAt": "2026-02-17T15:53:14Z",
    "duration": 584,
-   "views": 28655,
+   "views": 28678,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/kJ68bj23-MU/mqdefault.jpg",
    "cats": [
@@ -6052,7 +6386,7 @@
    "channelId": "UC9a8Z6Sp6eb2s3O79pX5Zvg",
    "publishedAt": "2026-02-15T15:30:11Z",
    "duration": 531,
-   "views": 11503,
+   "views": 11510,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/MfgFfqB4vcM/mqdefault.jpg",
    "cats": [
@@ -6071,7 +6405,7 @@
    "channelId": "UC9f3BeG0h0mvbhZhCqopJxQ",
    "publishedAt": "2026-02-11T01:00:46Z",
    "duration": 178,
-   "views": 161265,
+   "views": 161322,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/_lQBgUyLtW4/mqdefault.jpg",
    "cats": [
@@ -6128,7 +6462,7 @@
    "channelId": "UCdPCarwi28K5Z7s5l2nMiLw",
    "publishedAt": "2026-02-09T11:00:06Z",
    "duration": 299,
-   "views": 3426565,
+   "views": 3428215,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/jaKESlyUmWI/mqdefault.jpg",
    "cats": [
@@ -6166,7 +6500,7 @@
    "channelId": "UC9a8Z6Sp6eb2s3O79pX5Zvg",
    "publishedAt": "2026-02-08T15:41:28Z",
    "duration": 1085,
-   "views": 37371,
+   "views": 37402,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/RNiQUQjK3Js/mqdefault.jpg",
    "cats": [
@@ -6185,7 +6519,7 @@
    "channelId": "UCBaPLfunN0bc_X8048ExZkQ",
    "publishedAt": "2026-02-06T13:25:01Z",
    "duration": 501,
-   "views": 16870,
+   "views": 16900,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/n1RzozXrY-8/mqdefault.jpg",
    "cats": [
@@ -6204,7 +6538,7 @@
    "channelId": "UCIwErW8Akqn-ixV7hPIgm4w",
    "publishedAt": "2026-02-06T00:45:02Z",
    "duration": 184,
-   "views": 5447,
+   "views": 5465,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/TpXgr-7P92g/mqdefault.jpg",
    "cats": [
@@ -6223,7 +6557,7 @@
    "channelId": "UC9a8Z6Sp6eb2s3O79pX5Zvg",
    "publishedAt": "2026-02-01T16:10:27Z",
    "duration": 870,
-   "views": 35435,
+   "views": 35449,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/N08KmKLJiEM/mqdefault.jpg",
    "cats": [
@@ -6261,7 +6595,7 @@
    "channelId": "UC9a8Z6Sp6eb2s3O79pX5Zvg",
    "publishedAt": "2026-01-30T15:25:53Z",
    "duration": 463,
-   "views": 32330,
+   "views": 32397,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/TmZ4tuzzdcM/mqdefault.jpg",
    "cats": [
@@ -6280,7 +6614,7 @@
    "channelId": "UCywL_E-G5OZAgCQfSxdsZtQ",
    "publishedAt": "2026-01-29T07:00:44Z",
    "duration": 2034,
-   "views": 1310771,
+   "views": 1310855,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/oF5xG1EWai8/mqdefault.jpg",
    "cats": [
@@ -6318,7 +6652,7 @@
    "channelId": "UC9a8Z6Sp6eb2s3O79pX5Zvg",
    "publishedAt": "2026-01-27T15:52:14Z",
    "duration": 641,
-   "views": 11256,
+   "views": 11261,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/puSSjvyrduQ/mqdefault.jpg",
    "cats": [
@@ -6337,7 +6671,7 @@
    "channelId": "UC9a8Z6Sp6eb2s3O79pX5Zvg",
    "publishedAt": "2026-01-23T15:57:43Z",
    "duration": 772,
-   "views": 92204,
+   "views": 92230,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/cmO8TIr_VFo/mqdefault.jpg",
    "cats": [
@@ -6356,7 +6690,7 @@
    "channelId": "UCq4fE1X9CfpehcJ_r09-EFg",
    "publishedAt": "2026-01-23T09:45:01Z",
    "duration": 447,
-   "views": 4962,
+   "views": 4985,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/FnKTB5vUc34/mqdefault.jpg",
    "cats": [
@@ -6375,7 +6709,7 @@
    "channelId": "UCKhAxsLDHonbqxXOrsImW9A",
    "publishedAt": "2026-01-21T21:01:11Z",
    "duration": 4742,
-   "views": 833402,
+   "views": 843646,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/xHAc1BLd4wY/mqdefault.jpg",
    "cats": [
@@ -6413,7 +6747,7 @@
    "channelId": "UCKgZOmPB_cAPkJtBRPLIlkw",
    "publishedAt": "2026-01-17T20:15:00Z",
    "duration": 412,
-   "views": 46877,
+   "views": 46922,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/1u5zYa14TtY/mqdefault.jpg",
    "cats": [
@@ -6432,7 +6766,7 @@
    "channelId": "UCwjAKjycHHT1QzHrQN5Stww",
    "publishedAt": "2026-01-16T13:00:43Z",
    "duration": 904,
-   "views": 1070107,
+   "views": 1070359,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/KR9X6RUIM64/mqdefault.jpg",
    "cats": [
@@ -6451,7 +6785,7 @@
    "channelId": "UCYa8QBn_idz8nVkFY5VyBNw",
    "publishedAt": "2026-01-12T19:21:54Z",
    "duration": 1217,
-   "views": 2256,
+   "views": 2265,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/OGAY8RL3VD8/mqdefault.jpg",
    "cats": [
@@ -6508,7 +6842,7 @@
    "channelId": "UCMApDqL9_XeFSwyWWOivNDA",
    "publishedAt": "2026-01-09T09:00:07Z",
    "duration": 127,
-   "views": 7256,
+   "views": 7260,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/4qIXYVx0UWE/mqdefault.jpg",
    "cats": [
@@ -6527,7 +6861,7 @@
    "channelId": "UCR1ZcZsEbE3ljf1nDKP0cAg",
    "publishedAt": "2026-01-05T11:00:01Z",
    "duration": 3778,
-   "views": 828414,
+   "views": 829054,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/EAc70qZ02nI/mqdefault.jpg",
    "cats": [
@@ -6548,7 +6882,7 @@
    "channelId": "UCc11dRLPdZIeFkY36tD5RwA",
    "publishedAt": "2026-01-05T09:04:04Z",
    "duration": 427,
-   "views": 313,
+   "views": 318,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Tw-yBhGiVLM/mqdefault.jpg",
    "cats": [
@@ -6567,7 +6901,7 @@
    "channelId": "UCRv75y63NgRSG1Fbid_2YLw",
    "publishedAt": "2025-12-25T11:29:19Z",
    "duration": 4779,
-   "views": 438173,
+   "views": 438917,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/utcxK0Abjuk/mqdefault.jpg",
    "cats": [
@@ -6605,7 +6939,7 @@
    "channelId": "UCb2HDIRHSbd7Xp-QE0-FBOQ",
    "publishedAt": "2025-12-22T14:00:17Z",
    "duration": 257,
-   "views": 8298,
+   "views": 8314,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/AsQu9I_ScFk/mqdefault.jpg",
    "cats": [
@@ -6624,7 +6958,7 @@
    "channelId": "UCQu6HAFaiEpEkxpeAapkQeg",
    "publishedAt": "2025-12-19T08:22:35Z",
    "duration": 887,
-   "views": 80610,
+   "views": 80611,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/HJPAihrgFLI/mqdefault.jpg",
    "cats": [
@@ -6643,7 +6977,7 @@
    "channelId": "UCLlh7AR7V_Z7FqHuLVccbNw",
    "publishedAt": "2025-12-14T12:30:03Z",
    "duration": 3765,
-   "views": 387983,
+   "views": 389013,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/1eM77t-FvmQ/mqdefault.jpg",
    "cats": [
@@ -6681,7 +7015,7 @@
    "channelId": "UCN-YRBvF2Xwla2B5kaFCEbw",
    "publishedAt": "2025-12-09T10:00:16Z",
    "duration": 1863,
-   "views": 10253,
+   "views": 10257,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Bwktz82KhCk/mqdefault.jpg",
    "cats": [
@@ -6700,7 +7034,7 @@
    "channelId": "UC_SN3bimHrEFQ0qe-5X5zFw",
    "publishedAt": "2025-12-03T02:03:51Z",
    "duration": 431,
-   "views": 33009,
+   "views": 33025,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/pVtj089GYRc/mqdefault.jpg",
    "cats": [
@@ -6719,7 +7053,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2025-12-01T12:00:06Z",
    "duration": 565,
-   "views": 93624,
+   "views": 93717,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/DOxPTAURzeE/mqdefault.jpg",
    "cats": [
@@ -6738,7 +7072,7 @@
    "channelId": "UCWSSv39X7Rm_33kVwuxqDJQ",
    "publishedAt": "2025-11-30T01:06:02Z",
    "duration": 450,
-   "views": 17014,
+   "views": 17058,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/TrbycKZT-Hc/mqdefault.jpg",
    "cats": [
@@ -6757,7 +7091,7 @@
    "channelId": "UCeaXS2ZRpACMMHqlBohmYHw",
    "publishedAt": "2025-11-27T10:55:09Z",
    "duration": 2117,
-   "views": 360886,
+   "views": 360942,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/4ih_bf3Th8E/mqdefault.jpg",
    "cats": [
@@ -6776,7 +7110,7 @@
    "channelId": "UCZCJfG50BLLt4YXihWDABLA",
    "publishedAt": "2025-11-26T22:00:46Z",
    "duration": 6049,
-   "views": 2017847,
+   "views": 2019088,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/dDz9iAEVr4k/mqdefault.jpg",
    "cats": [
@@ -6795,7 +7129,7 @@
    "channelId": "UCc11dRLPdZIeFkY36tD5RwA",
    "publishedAt": "2025-11-23T07:38:21Z",
    "duration": 174,
-   "views": 752,
+   "views": 753,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/MfH00Pnlux8/mqdefault.jpg",
    "cats": [
@@ -6814,7 +7148,7 @@
    "channelId": "UCM1oqKXwENQ8dxOJa8BkmOQ",
    "publishedAt": "2025-11-22T03:00:03Z",
    "duration": 948,
-   "views": 87346,
+   "views": 87361,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/28g-CO--VnU/mqdefault.jpg",
    "cats": [
@@ -6833,7 +7167,7 @@
    "channelId": "UCv3M7_UqcNhgYMDFfYFToUQ",
    "publishedAt": "2025-11-20T10:34:07Z",
    "duration": 1402,
-   "views": 555645,
+   "views": 556681,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Lu99xi56epY/mqdefault.jpg",
    "cats": [
@@ -6871,7 +7205,7 @@
    "channelId": "UCsaDt3LUwyifrOe3OQfSbQg",
    "publishedAt": "2025-11-15T09:00:51Z",
    "duration": 384,
-   "views": 4235,
+   "views": 4246,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/SWfFQ-THqPQ/mqdefault.jpg",
    "cats": [
@@ -6890,7 +7224,7 @@
    "channelId": "UCbYLiHCq4vGSe8GxjO0kG7A",
    "publishedAt": "2025-11-10T08:39:11Z",
    "duration": 1472,
-   "views": 38138,
+   "views": 38156,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/duuTRSlcvvU/mqdefault.jpg",
    "cats": [
@@ -6909,7 +7243,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2025-11-03T12:00:15Z",
    "duration": 645,
-   "views": 311425,
+   "views": 311473,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/7RFoMOvfirk/mqdefault.jpg",
    "cats": [
@@ -6928,7 +7262,7 @@
    "channelId": "UCywL_E-G5OZAgCQfSxdsZtQ",
    "publishedAt": "2025-11-03T10:30:39Z",
    "duration": 2261,
-   "views": 249025,
+   "views": 249098,
    "embeddable": false,
    "thumb": "https://i.ytimg.com/vi/b0UncfJ8MKQ/mqdefault.jpg",
    "cats": [
@@ -6966,7 +7300,7 @@
    "channelId": "UChf2vWqVItUDRqenP16Zz0w",
    "publishedAt": "2025-10-29T10:01:08Z",
    "duration": 816,
-   "views": 22645,
+   "views": 22663,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/bcHLAA1nbHg/mqdefault.jpg",
    "cats": [
@@ -6987,7 +7321,7 @@
    "channelId": "UCO95rwpGwumFyaDk09D2nLw",
    "publishedAt": "2025-10-25T13:01:43Z",
    "duration": 703,
-   "views": 4041,
+   "views": 4047,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/mEBUJwVUPwI/mqdefault.jpg",
    "cats": [
@@ -7006,7 +7340,7 @@
    "channelId": "UCwZ5GUBnp82m6mpUwk-3ZGw",
    "publishedAt": "2025-10-24T11:00:59Z",
    "duration": 2786,
-   "views": 959911,
+   "views": 960984,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/X9XSnKJlNxQ/mqdefault.jpg",
    "cats": [
@@ -7025,7 +7359,7 @@
    "channelId": "UCb2HDIRHSbd7Xp-QE0-FBOQ",
    "publishedAt": "2025-10-23T14:00:20Z",
    "duration": 293,
-   "views": 9759,
+   "views": 9767,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/DHT7ELhsQ1M/mqdefault.jpg",
    "cats": [
@@ -7044,7 +7378,7 @@
    "channelId": "UCywL_E-G5OZAgCQfSxdsZtQ",
    "publishedAt": "2025-10-23T07:00:29Z",
    "duration": 2221,
-   "views": 1135297,
+   "views": 1135538,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/bqoI0-vMvqk/mqdefault.jpg",
    "cats": [
@@ -7101,7 +7435,7 @@
    "channelId": "UC5nSD1PZTxa5hQfegNlYzGQ",
    "publishedAt": "2025-10-16T22:01:13Z",
    "duration": 9697,
-   "views": 171603,
+   "views": 171687,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/sppWfjTb0Q4/mqdefault.jpg",
    "cats": [
@@ -7114,13 +7448,32 @@
    "source": "search"
   },
   {
+   "id": "nFGNWEUgKWQ",
+   "title": "Scanning the Shortwave Bands - 70 and 60 Meters - Night Mysteries & Doomsday Signals",
+   "channel": "Shortwave Listener",
+   "channelId": "UCgKHKWctVed3sx4hqaVO2Lg",
+   "publishedAt": "2025-10-10T18:24:50Z",
+   "duration": 958,
+   "views": 25900,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/nFGNWEUgKWQ/mqdefault.jpg",
+   "cats": [
+    "shortwave"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "shortwave": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "AAJEzZ0SePc",
    "title": "Bush TR82DL MW/LW Vintage Radio Repair & Service",
    "channel": "JazzTech Electronics",
    "channelId": "UCoByXiefXrLZgW5SqXKtk7Q",
    "publishedAt": "2025-10-08T16:00:14Z",
    "duration": 1687,
-   "views": 17029,
+   "views": 17042,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/AAJEzZ0SePc/mqdefault.jpg",
    "cats": [
@@ -7139,7 +7492,7 @@
    "channelId": "UCPs4TCW7OenqpMJkF1UMthg",
    "publishedAt": "2025-10-03T21:30:01Z",
    "duration": 4150,
-   "views": 704571,
+   "views": 705734,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/5clk9RuBsCs/mqdefault.jpg",
    "cats": [
@@ -7177,7 +7530,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2025-10-01T12:00:06Z",
    "duration": 600,
-   "views": 162968,
+   "views": 163007,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/yhFyn-gUXcI/mqdefault.jpg",
    "cats": [
@@ -7217,7 +7570,7 @@
    "channelId": "UCIHVY-O0gntCbSudCkDsVbw",
    "publishedAt": "2025-09-30T08:39:09Z",
    "duration": 1195,
-   "views": 120038,
+   "views": 120131,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/uqGjix0Ier0/mqdefault.jpg",
    "cats": [
@@ -7236,7 +7589,7 @@
    "channelId": "UCDcyh9m5cay5yQIKv_AFUJw",
    "publishedAt": "2025-09-24T08:01:14Z",
    "duration": 3680,
-   "views": 116400,
+   "views": 116462,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/zZtaqSrHr9E/mqdefault.jpg",
    "cats": [
@@ -7255,7 +7608,7 @@
    "channelId": "UCDcyh9m5cay5yQIKv_AFUJw",
    "publishedAt": "2025-09-23T08:00:29Z",
    "duration": 3620,
-   "views": 838801,
+   "views": 839520,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/I-JmgnfKSR8/mqdefault.jpg",
    "cats": [
@@ -7293,7 +7646,7 @@
    "channelId": "UCPs4TCW7OenqpMJkF1UMthg",
    "publishedAt": "2025-09-21T21:15:06Z",
    "duration": 8752,
-   "views": 1534035,
+   "views": 1537781,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/l1XdX2pn_II/mqdefault.jpg",
    "cats": [
@@ -7312,7 +7665,7 @@
    "channelId": "UCocQiKPAEZom0joy3Uymctw",
    "publishedAt": "2025-09-21T02:21:01Z",
    "duration": 644,
-   "views": 424850,
+   "views": 424869,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Q5DgNCCnZ3w/mqdefault.jpg",
    "cats": [
@@ -7331,7 +7684,7 @@
    "channelId": "UC29q3pO-jFvzQh-8WhrhIwg",
    "publishedAt": "2025-09-15T07:15:04Z",
    "duration": 1178,
-   "views": 780144,
+   "views": 780457,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/wdSdFeEgOnI/mqdefault.jpg",
    "cats": [
@@ -7369,7 +7722,7 @@
    "channelId": "UCFUATGzsGVnyOx8egjr3QCw",
    "publishedAt": "2025-09-11T09:11:39Z",
    "duration": 2674,
-   "views": 288213,
+   "views": 288285,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/-G50HUHk_SQ/mqdefault.jpg",
    "cats": [
@@ -7388,7 +7741,7 @@
    "channelId": "UCywL_E-G5OZAgCQfSxdsZtQ",
    "publishedAt": "2025-09-04T07:00:21Z",
    "duration": 1649,
-   "views": 570471,
+   "views": 570642,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/J659TH5Gvjg/mqdefault.jpg",
    "cats": [
@@ -7407,7 +7760,7 @@
    "channelId": "UCFUATGzsGVnyOx8egjr3QCw",
    "publishedAt": "2025-08-24T07:35:11Z",
    "duration": 1655,
-   "views": 70957,
+   "views": 70983,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/RWbadzrZi7Q/mqdefault.jpg",
    "cats": [
@@ -7445,7 +7798,7 @@
    "channelId": "UCkd2PkaOei8JC09q_F6LL2A",
    "publishedAt": "2025-08-21T13:02:37Z",
    "duration": 1462,
-   "views": 1662605,
+   "views": 1663295,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/5kcgWkClNs0/mqdefault.jpg",
    "cats": [
@@ -7464,7 +7817,7 @@
    "channelId": "UCS3nuaXXw7nsiSzdJ5HJaoQ",
    "publishedAt": "2025-08-18T03:00:19Z",
    "duration": 2964,
-   "views": 128821,
+   "views": 128913,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/92EtLqwB1j0/mqdefault.jpg",
    "cats": [
@@ -7485,7 +7838,7 @@
    "channelId": "UCQDhxkSxZA6lxdeXE19aoRA",
    "publishedAt": "2025-08-17T08:45:01Z",
    "duration": 935,
-   "views": 490345,
+   "views": 490381,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/OLaRJhusEsc/mqdefault.jpg",
    "cats": [
@@ -7504,7 +7857,7 @@
    "channelId": "UCOmkrHvQZjKrdtoLUNpQOug",
    "publishedAt": "2025-08-16T07:00:01Z",
    "duration": 739,
-   "views": 425492,
+   "views": 425591,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/aJ0RMxSIGDU/mqdefault.jpg",
    "cats": [
@@ -7523,7 +7876,7 @@
    "channelId": "UCvRfdIBeU9JztDdWKakErKA",
    "publishedAt": "2025-08-11T21:11:20Z",
    "duration": 8463,
-   "views": 1165552,
+   "views": 1168313,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/APS4It9bfVs/mqdefault.jpg",
    "cats": [
@@ -7542,7 +7895,7 @@
    "channelId": "UCUjetZpPByEzSdVlhVgpAZQ",
    "publishedAt": "2025-08-08T13:33:46Z",
    "duration": 405,
-   "views": 2178,
+   "views": 2179,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/bZpSHVX31x4/mqdefault.jpg",
    "cats": [
@@ -7561,7 +7914,7 @@
    "channelId": "UCGGrblndNzi86WY5lJkQJiA",
    "publishedAt": "2025-08-08T09:31:06Z",
    "duration": 1240,
-   "views": 1127464,
+   "views": 1128267,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/wPU6qBAPC3w/mqdefault.jpg",
    "cats": [
@@ -7580,7 +7933,7 @@
    "channelId": "UCg-tP3FHQHTU48-Rsdt3njA",
    "publishedAt": "2025-08-08T09:01:44Z",
    "duration": 528,
-   "views": 11960,
+   "views": 11968,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/vfttrLdT5CY/mqdefault.jpg",
    "cats": [
@@ -7599,7 +7952,7 @@
    "channelId": "UCE_4Cin3l8LwAySxEVluKDQ",
    "publishedAt": "2025-08-08T07:13:53Z",
    "duration": 2070,
-   "views": 420614,
+   "views": 420645,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/9NVk__zNN40/mqdefault.jpg",
    "cats": [
@@ -7620,7 +7973,7 @@
    "channelId": "UCT8yHghmeNbhtKadOSzRxJw",
    "publishedAt": "2025-08-01T10:01:14Z",
    "duration": 695,
-   "views": 4739,
+   "views": 4743,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/hr0ZcNvp_6g/mqdefault.jpg",
    "cats": [
@@ -7639,7 +7992,7 @@
    "channelId": "UCPRWWKG0VkBA0Pqa4Jr5j0Q",
    "publishedAt": "2025-07-23T10:01:34Z",
    "duration": 921,
-   "views": 251907,
+   "views": 251917,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/xNYTPde_ZC8/mqdefault.jpg",
    "cats": [
@@ -7658,7 +8011,7 @@
    "channelId": "UC9f3BeG0h0mvbhZhCqopJxQ",
    "publishedAt": "2025-07-23T05:30:20Z",
    "duration": 285,
-   "views": 59877,
+   "views": 59890,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/K9kd5sDcmbA/mqdefault.jpg",
    "cats": [
@@ -7677,7 +8030,7 @@
    "channelId": "UCrSzTc7ClaNMZGAfGI-MkgA",
    "publishedAt": "2025-07-12T11:00:26Z",
    "duration": 1487,
-   "views": 13373,
+   "views": 13423,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/FlS0oquYwV8/mqdefault.jpg",
    "cats": [
@@ -7696,7 +8049,7 @@
    "channelId": "UCy086RCRxmGMQQgyG07c8Gw",
    "publishedAt": "2025-07-05T11:11:56Z",
    "duration": 4407,
-   "views": 446627,
+   "views": 446655,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/xUiwu280zc0/mqdefault.jpg",
    "cats": [
@@ -7734,7 +8087,7 @@
    "channelId": "UC9f3BeG0h0mvbhZhCqopJxQ",
    "publishedAt": "2025-07-02T04:01:22Z",
    "duration": 229,
-   "views": 53019,
+   "views": 53054,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/znHWe3pOQUg/mqdefault.jpg",
    "cats": [
@@ -7753,7 +8106,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2025-07-01T12:00:07Z",
    "duration": 571,
-   "views": 197409,
+   "views": 197569,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/UfRv3DJgRTc/mqdefault.jpg",
    "cats": [
@@ -7791,7 +8144,7 @@
    "channelId": "UCY4YovmJwl4_BivQ-LkzU2A",
    "publishedAt": "2025-06-19T10:54:24Z",
    "duration": 7834,
-   "views": 3526396,
+   "views": 3527709,
    "embeddable": false,
    "thumb": "https://i.ytimg.com/vi/Rh7u_cbAiZc/mqdefault.jpg",
    "cats": [
@@ -7810,7 +8163,7 @@
    "channelId": "UCvXH8I9JJb09wg87C2kVuXA",
    "publishedAt": "2025-06-18T02:45:07Z",
    "duration": 3344,
-   "views": 225942,
+   "views": 226115,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/QQvXsZ4XDcI/mqdefault.jpg",
    "cats": [
@@ -7829,7 +8182,7 @@
    "channelId": "UCp3QcUaZNjMyH2UfyB_xzwA",
    "publishedAt": "2025-06-13T08:00:18Z",
    "duration": 395,
-   "views": 394,
+   "views": 395,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/6bzdjeIAFCs/mqdefault.jpg",
    "cats": [
@@ -7848,7 +8201,7 @@
    "channelId": "UCY4YovmJwl4_BivQ-LkzU2A",
    "publishedAt": "2025-06-09T20:03:02Z",
    "duration": 8567,
-   "views": 2807168,
+   "views": 2809103,
    "embeddable": false,
    "thumb": "https://i.ytimg.com/vi/UtoIt_avo3M/mqdefault.jpg",
    "cats": [
@@ -7867,7 +8220,7 @@
    "channelId": "UCR1ZcZsEbE3ljf1nDKP0cAg",
    "publishedAt": "2025-06-03T11:00:01Z",
    "duration": 4077,
-   "views": 364519,
+   "views": 364785,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/CAyfKK1dEYE/mqdefault.jpg",
    "cats": [
@@ -7886,7 +8239,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2025-06-01T12:00:06Z",
    "duration": 616,
-   "views": 379049,
+   "views": 379624,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/6rIkdugkyVw/mqdefault.jpg",
    "cats": [
@@ -7905,7 +8258,7 @@
    "channelId": "UCR1ZcZsEbE3ljf1nDKP0cAg",
    "publishedAt": "2025-05-26T11:00:01Z",
    "duration": 4114,
-   "views": 1240443,
+   "views": 1241540,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/_IXVNO5t2zQ/mqdefault.jpg",
    "cats": [
@@ -7924,7 +8277,7 @@
    "channelId": "UC9f3BeG0h0mvbhZhCqopJxQ",
    "publishedAt": "2025-05-07T03:30:15Z",
    "duration": 135,
-   "views": 38732,
+   "views": 38753,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/PtEs-VzeWV4/mqdefault.jpg",
    "cats": [
@@ -7943,7 +8296,7 @@
    "channelId": "UC2GxzTg4zsKyWNsOT8ghgsg",
    "publishedAt": "2025-05-03T10:00:16Z",
    "duration": 2915,
-   "views": 3482518,
+   "views": 3487645,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/BoW3OHT6g0s/mqdefault.jpg",
    "cats": [
@@ -7962,7 +8315,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2025-05-01T12:00:06Z",
    "duration": 475,
-   "views": 249217,
+   "views": 249306,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/VeeZ6-zVoeI/mqdefault.jpg",
    "cats": [
@@ -7981,7 +8334,7 @@
    "channelId": "UCFAmxzLAzEZpnSgsrizyd6Q",
    "publishedAt": "2025-04-23T12:17:24Z",
    "duration": 1173,
-   "views": 916466,
+   "views": 917127,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/-Asz4jQ56Wk/mqdefault.jpg",
    "cats": [
@@ -8000,7 +8353,7 @@
    "channelId": "UCCy_q-N7F2FOIZ6ZggHIAKg",
    "publishedAt": "2025-04-23T03:00:54Z",
    "duration": 115,
-   "views": 620964,
+   "views": 621839,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/n0MHGGN6CFE/mqdefault.jpg",
    "cats": [
@@ -8019,7 +8372,7 @@
    "channelId": "UCB78N_DpnGKKSuwBknTN9CA",
    "publishedAt": "2025-04-16T16:03:18Z",
    "duration": 864,
-   "views": 28134,
+   "views": 28154,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/T4IJWN5TrkM/mqdefault.jpg",
    "cats": [
@@ -8038,7 +8391,7 @@
    "channelId": "UCB4ex-H6lTRG0H8Li6zE4rg",
    "publishedAt": "2025-04-16T14:00:40Z",
    "duration": 900,
-   "views": 1519986,
+   "views": 1521339,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/P0ZGmjkaebw/mqdefault.jpg",
    "cats": [
@@ -8057,7 +8410,7 @@
    "channelId": "UC9f3BeG0h0mvbhZhCqopJxQ",
    "publishedAt": "2025-04-09T09:22:28Z",
    "duration": 110,
-   "views": 112429,
+   "views": 112457,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/l8lR2E5xleQ/mqdefault.jpg",
    "cats": [
@@ -8076,7 +8429,7 @@
    "channelId": "UCt8mg-YL_ikTAJKuZ8GMtqg",
    "publishedAt": "2025-04-07T12:00:12Z",
    "duration": 1207,
-   "views": 406215,
+   "views": 407050,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/9HJ_K9K1358/mqdefault.jpg",
    "cats": [
@@ -8095,7 +8448,7 @@
    "channelId": "UCvXH8I9JJb09wg87C2kVuXA",
    "publishedAt": "2025-04-05T13:00:06Z",
    "duration": 15669,
-   "views": 389716,
+   "views": 389921,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/7mAzVfrp34s/mqdefault.jpg",
    "cats": [
@@ -8133,7 +8486,7 @@
    "channelId": "UCvXH8I9JJb09wg87C2kVuXA",
    "publishedAt": "2025-03-24T07:30:15Z",
    "duration": 4574,
-   "views": 203938,
+   "views": 203999,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/fI0BOR5NAp8/mqdefault.jpg",
    "cats": [
@@ -8152,7 +8505,7 @@
    "channelId": "UCvXH8I9JJb09wg87C2kVuXA",
    "publishedAt": "2025-03-17T07:30:09Z",
    "duration": 3966,
-   "views": 295782,
+   "views": 295850,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/BPUQHzFnYpg/mqdefault.jpg",
    "cats": [
@@ -8171,7 +8524,7 @@
    "channelId": "UCbYLiHCq4vGSe8GxjO0kG7A",
    "publishedAt": "2025-03-14T08:56:00Z",
    "duration": 2312,
-   "views": 52215,
+   "views": 52225,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/d3aNPIMTMcI/mqdefault.jpg",
    "cats": [
@@ -8190,7 +8543,7 @@
    "channelId": "UCtrdEyCI2owEq54zENtXFpw",
    "publishedAt": "2025-03-11T22:30:06Z",
    "duration": 5058,
-   "views": 3548579,
+   "views": 3550343,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/SoMqEIvp2VU/mqdefault.jpg",
    "cats": [
@@ -8209,7 +8562,7 @@
    "channelId": "UCvXH8I9JJb09wg87C2kVuXA",
    "publishedAt": "2025-03-10T07:30:13Z",
    "duration": 3720,
-   "views": 163615,
+   "views": 163684,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Nfy1-IynTWA/mqdefault.jpg",
    "cats": [
@@ -8228,7 +8581,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2025-03-03T12:00:06Z",
    "duration": 641,
-   "views": 906724,
+   "views": 907303,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/MTpcF_kntJA/mqdefault.jpg",
    "cats": [
@@ -8247,7 +8600,7 @@
    "channelId": "UCUfMP4mIPLFrIYXzOsCTw9Q",
    "publishedAt": "2025-02-28T11:28:42Z",
    "duration": 73,
-   "views": 5184,
+   "views": 5189,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/j9qbhDvt3i8/mqdefault.jpg",
    "cats": [
@@ -8285,7 +8638,7 @@
    "channelId": "UCR1ZcZsEbE3ljf1nDKP0cAg",
    "publishedAt": "2025-02-17T11:00:01Z",
    "duration": 4326,
-   "views": 548810,
+   "views": 548950,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/IYb_myRNHHk/mqdefault.jpg",
    "cats": [
@@ -8304,7 +8657,7 @@
    "channelId": "UCpHgvLfY23_S6jvT8BuZ3kQ",
    "publishedAt": "2025-02-03T13:01:11Z",
    "duration": 3066,
-   "views": 86160,
+   "views": 86231,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/rsP-JltnX2w/mqdefault.jpg",
    "cats": [
@@ -8323,7 +8676,7 @@
    "channelId": "UCD4uKCu-8GS8DUiI4xWy4gQ",
    "publishedAt": "2025-01-24T09:30:00Z",
    "duration": 1603,
-   "views": 953426,
+   "views": 953434,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/ai_BCE_dPgE/mqdefault.jpg",
    "cats": [
@@ -8361,7 +8714,7 @@
    "channelId": "UCv3M7_UqcNhgYMDFfYFToUQ",
    "publishedAt": "2025-01-15T10:54:35Z",
    "duration": 749,
-   "views": 55657,
+   "views": 55668,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/XJAdxBaeSVU/mqdefault.jpg",
    "cats": [
@@ -8418,28 +8771,9 @@
    "channelId": "UC652ixkUfbWkhBFY_jUNN7A",
    "publishedAt": "2025-01-05T04:45:44Z",
    "duration": 212,
-   "views": 4584,
+   "views": 4585,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/odSGqhBx6-s/mqdefault.jpg",
-   "cats": [
-    "radio"
-   ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
-   "catSeen": {
-    "radio": "2026-10-17T15:14:25.298581+00:00"
-   },
-   "source": "search"
-  },
-  {
-   "id": "hIBKkKuXWMc",
-   "title": "【スゴ腕家電修理人】老夫婦の宝物ラジカセを修理せよ！今井さんも初めて見た激レア構造を徹底的に直す！今井ストック大活躍【今井和美さん】【所さんの学校では教えてくれないそこんトコロ！】",
-   "channel": "テレ東公式 TV TOKYO",
-   "channelId": "UCrDj5t8Q9ZFSGft7a3PWl9g",
-   "publishedAt": "2024-12-06T12:00:53Z",
-   "duration": 1108,
-   "views": 1109483,
-   "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/hIBKkKuXWMc/mqdefault.jpg",
    "cats": [
     "radio"
    ],
@@ -8456,7 +8790,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2024-12-01T12:00:06Z",
    "duration": 480,
-   "views": 629399,
+   "views": 629608,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/vQc7WtttuGY/mqdefault.jpg",
    "cats": [
@@ -8469,13 +8803,32 @@
    "source": "search"
   },
   {
+   "id": "mlRKydr5Dwk",
+   "title": "The Ultimate Compilation of Shortwave Radio Interval Signals and ID's",
+   "channel": "The Shortwave Archive",
+   "channelId": "UCbkYidf_Nfa1aZjnrytUL5w",
+   "publishedAt": "2024-11-09T03:42:32Z",
+   "duration": 7529,
+   "views": 32392,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/mlRKydr5Dwk/mqdefault.jpg",
+   "cats": [
+    "shortwave"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "shortwave": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "QTWki214y8o",
    "title": "昭和50年の大阪 、懐かしの梅田、淀屋橋、法善寺、道頓堀や難波を巡る〔Osaka, JAPAN, 1975〕 8ミリフィルム / 8ｍｍ film",
    "channel": "Old Video Museum",
    "channelId": "UC11j5ntnH-u9UE8yK5uJidw",
    "publishedAt": "2024-11-03T10:00:28Z",
    "duration": 770,
-   "views": 429780,
+   "views": 429853,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/QTWki214y8o/mqdefault.jpg",
    "cats": [
@@ -8507,32 +8860,13 @@
    "source": "search"
   },
   {
-   "id": "1gQzFwBA2kY",
-   "title": "初めてのラジオ修理　ナショナル　GX-240　真空管ラジオ　音がでない 　チューニングできない",
-   "channel": "なんちゃれネット",
-   "channelId": "UCYcn9FLBb24AHwzvsvwpv2A",
-   "publishedAt": "2024-09-20T02:08:24Z",
-   "duration": 859,
-   "views": 9397,
-   "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/1gQzFwBA2kY/mqdefault.jpg",
-   "cats": [
-    "radio"
-   ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
-   "catSeen": {
-    "radio": "2026-10-17T15:14:25.298581+00:00"
-   },
-   "source": "search"
-  },
-  {
    "id": "A9dWuEkkba4",
    "title": "LC90技適対応レビュー スマートラジオ CHOYONG #radio #netradio",
    "channel": "アマチュア無線でこんにちわっふる！JK3OTH きょうとGS150",
    "channelId": "UCjx4W41GsWMlTPcTe0w0rug",
    "publishedAt": "2024-09-15T02:30:05Z",
    "duration": 473,
-   "views": 3323,
+   "views": 3325,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/A9dWuEkkba4/mqdefault.jpg",
    "cats": [
@@ -8551,7 +8885,7 @@
    "channelId": "UC7_mFzmj89tqAqgpl5695QQ",
    "publishedAt": "2024-09-06T12:00:17Z",
    "duration": 288,
-   "views": 8019987,
+   "views": 8021693,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Hwe4Gd6qcQA/mqdefault.jpg",
    "cats": [
@@ -8570,7 +8904,7 @@
    "channelId": "UCS3nuaXXw7nsiSzdJ5HJaoQ",
    "publishedAt": "2024-09-06T06:58:55Z",
    "duration": 3056,
-   "views": 93824,
+   "views": 93902,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Voc3TANkGMY/mqdefault.jpg",
    "cats": [
@@ -8608,7 +8942,7 @@
    "channelId": "UCwS7Qa7-18ODXCga1xyowRQ",
    "publishedAt": "2024-08-25T05:05:11Z",
    "duration": 1465,
-   "views": 1538969,
+   "views": 1539528,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/oeAOdCPtl74/mqdefault.jpg",
    "cats": [
@@ -8627,7 +8961,7 @@
    "channelId": "UCxZK6iN6TXV69GeDQODVg6A",
    "publishedAt": "2024-08-08T21:43:44Z",
    "duration": 3655,
-   "views": 3988908,
+   "views": 3990828,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/zXHS92Nirfo/mqdefault.jpg",
    "cats": [
@@ -8640,13 +8974,32 @@
    "source": "search"
   },
   {
+   "id": "S4qkeZMxpj8",
+   "title": "台灣戒嚴時期的驚人真相:看當年台灣人是如何在白色恐怖中玩轉人生,創造經濟奇蹟!",
+   "channel": "話本名家",
+   "channelId": "UCC8PZCt1aFirmndgbn14LFA",
+   "publishedAt": "2024-08-01T01:58:56Z",
+   "duration": 652,
+   "views": 102582,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/S4qkeZMxpj8/mqdefault.jpg",
+   "cats": [
+    "taiwan-history"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "taiwan-history": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "JBOrnKSpWfk",
    "title": "為何日本人說臺中才是「臺灣的京都」？｜綠川｜神社｜香蕉｜日治｜老照片｜王佐榮",
    "channel": "佐榮寫真館",
    "channelId": "UCF4Ty-VWH3_lODH3EmFeFug",
    "publishedAt": "2024-07-31T12:00:07Z",
    "duration": 632,
-   "views": 516645,
+   "views": 516679,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/JBOrnKSpWfk/mqdefault.jpg",
    "cats": [
@@ -8665,7 +9018,7 @@
    "channelId": "UC62Sj-M86lL012K-yr4RnDw",
    "publishedAt": "2024-07-26T10:30:04Z",
    "duration": 3684,
-   "views": 3124380,
+   "views": 3124501,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/BrJB7DcV1k8/mqdefault.jpg",
    "cats": [
@@ -8684,7 +9037,7 @@
    "channelId": "UCr5zQB5J5DJqZfar_WyWFAw",
    "publishedAt": "2024-07-21T21:00:17Z",
    "duration": 2357,
-   "views": 80744,
+   "views": 80754,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/dLUkWT7vdpI/mqdefault.jpg",
    "cats": [
@@ -8697,40 +9050,21 @@
    "source": "search"
   },
   {
-   "id": "8dApUWmrJQ0",
-   "title": "Grundig 1958 | Old Radio Restoration",
-   "channel": "Rusty Restore",
-   "channelId": "UCB4ex-H6lTRG0H8Li6zE4rg",
-   "publishedAt": "2024-07-19T16:00:08Z",
-   "duration": 2712,
-   "views": 591341,
+   "id": "k94ZBUryM7w",
+   "title": "Intro To Shortwave High Frequency Listening, FOR FREE!",
+   "channel": "Ham Radio Crash Course",
+   "channelId": "UChAu6Cof9KlfFxSbL9ytosQ",
+   "publishedAt": "2024-07-19T16:51:46Z",
+   "duration": 2137,
+   "views": 56967,
    "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/8dApUWmrJQ0/mqdefault.jpg",
+   "thumb": "https://i.ytimg.com/vi/k94ZBUryM7w/mqdefault.jpg",
    "cats": [
-    "radio"
+    "shortwave"
    ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
    "catSeen": {
-    "radio": "2026-10-17T15:14:25.298581+00:00"
-   },
-   "source": "search"
-  },
-  {
-   "id": "QhwfV0IMn7s",
-   "title": "ハードオフで3300円で買った真空管ラジオがお得でした。",
-   "channel": "宮甚商店",
-   "channelId": "UCbYLiHCq4vGSe8GxjO0kG7A",
-   "publishedAt": "2024-07-10T08:02:55Z",
-   "duration": 963,
-   "views": 112450,
-   "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/QhwfV0IMn7s/mqdefault.jpg",
-   "cats": [
-    "radio"
-   ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
-   "catSeen": {
-    "radio": "2026-10-17T15:14:25.298581+00:00"
+    "shortwave": "2026-10-24T06:58:10.476593+00:00"
    },
    "source": "search"
   },
@@ -8741,7 +9075,7 @@
    "channelId": "UC4kE3TwK6RH9CpH2e1A3p_w",
    "publishedAt": "2024-06-18T03:57:17Z",
    "duration": 90,
-   "views": 1170936,
+   "views": 1171078,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/FJNsIGI6Agk/mqdefault.jpg",
    "cats": [
@@ -8760,7 +9094,7 @@
    "channelId": "UCTl36OnFsCNjBHye8nvMjuA",
    "publishedAt": "2024-06-09T04:25:54Z",
    "duration": 907,
-   "views": 2378747,
+   "views": 2381761,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/y0NzMvk6Js0/mqdefault.jpg",
    "cats": [
@@ -8779,7 +9113,7 @@
    "channelId": "UCjx4W41GsWMlTPcTe0w0rug",
    "publishedAt": "2024-05-30T09:00:17Z",
    "duration": 239,
-   "views": 6976,
+   "views": 6978,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/OSV2kfvkgK0/mqdefault.jpg",
    "cats": [
@@ -8798,7 +9132,7 @@
    "channelId": "UCgT_sIvP6Mkvpm7_vm_bHMQ",
    "publishedAt": "2024-04-23T11:31:36Z",
    "duration": 4014,
-   "views": 122802,
+   "views": 122805,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/LH2v6MPJndM/mqdefault.jpg",
    "cats": [
@@ -8809,6 +9143,25 @@
    "catSeen": {
     "taiwan-history": "2026-10-17T15:14:25.298581+00:00",
     "japanese-era-taiwan": "2026-10-17T15:14:25.298581+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "aNlPFTKBtXU",
+   "title": "24時間営業の昭和レトロ自販機とホテルが合体した激渋ホテルに宿泊｜レトロ自動販売機レストラン｜公楽園｜ドライブイン",
+   "channel": "ITSUKA JAPAN",
+   "channelId": "UCOQ6nTX5a39XFsvlKUpBUzw",
+   "publishedAt": "2024-04-07T11:03:25Z",
+   "duration": 1368,
+   "views": 1789503,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/aNlPFTKBtXU/mqdefault.jpg",
+   "cats": [
+    "showa-retro"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "showa-retro": "2026-10-24T06:58:10.476593+00:00"
    },
    "source": "search"
   },
@@ -8832,32 +9185,13 @@
    "source": "search"
   },
   {
-   "id": "47iV2W5fXpE",
-   "title": "真空管ラジオを、修理します　＃0126",
-   "channel": "Chouro Crow 12万 (チョウロー)",
-   "channelId": "UCMoESglivlfzr3ZcT4SGZJQ",
-   "publishedAt": "2024-04-01T08:47:46Z",
-   "duration": 880,
-   "views": 15549,
-   "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/47iV2W5fXpE/mqdefault.jpg",
-   "cats": [
-    "radio"
-   ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
-   "catSeen": {
-    "radio": "2026-10-17T15:14:25.298581+00:00"
-   },
-   "source": "search"
-  },
-  {
    "id": "vlvtu-XlDRg",
    "title": "Majority Homerton 2 Smart Internet Radio with DAB+ & CD Player Review",
    "channel": "Geekanoids",
    "channelId": "UCfbrK3c1afSF0EC1NAUXZLA",
    "publishedAt": "2024-03-14T04:00:26Z",
    "duration": 385,
-   "views": 13792,
+   "views": 13796,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/vlvtu-XlDRg/mqdefault.jpg",
    "cats": [
@@ -8870,13 +9204,32 @@
    "source": "search"
   },
   {
+   "id": "uRLlG16uy1s",
+   "title": "5分鐘暖身操! 居家運動前不可或缺 | 5 MIN WARM UP FOR HOME WORKOUT",
+   "channel": "游書庭 - 樂活有氧",
+   "channelId": "UCz5PbJWmsDsMreKjDrWv-dg",
+   "publishedAt": "2024-03-04T12:00:48Z",
+   "duration": 325,
+   "views": 834519,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/uRLlG16uy1s/mqdefault.jpg",
+   "cats": [
+    "c-mvm1petyruzp"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "c-mvm1petyruzp": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "LVjQKkA5JSw",
    "title": "1980年代のシティポップ（CITY POP）が世界で再ヒットしている理由！【 ランキングトップ５ 】",
    "channel": "MrFuji from Japan",
    "channelId": "UCXm76zKrfNApFif6A0zS9Tw",
    "publishedAt": "2024-02-23T10:00:25Z",
    "duration": 1753,
-   "views": 1208790,
+   "views": 1208960,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/LVjQKkA5JSw/mqdefault.jpg",
    "cats": [
@@ -8895,7 +9248,7 @@
    "channelId": "UC8MCOwdtLpR7CLviltDSs-A",
    "publishedAt": "2024-02-09T10:00:12Z",
    "duration": 323,
-   "views": 6809,
+   "views": 6810,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/FnPotwdEOjA/mqdefault.jpg",
    "cats": [
@@ -8914,7 +9267,7 @@
    "channelId": "UCJhFv3A2dYQNwUgEAn6WPJw",
    "publishedAt": "2024-01-13T01:00:30Z",
    "duration": 964,
-   "views": 767293,
+   "views": 767415,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/ixzyJ5sps7E/mqdefault.jpg",
    "cats": [
@@ -8933,7 +9286,7 @@
    "channelId": "UCFCHKsT1ZY2aLUAbWW1lJGA",
    "publishedAt": "2024-01-01T10:00:30Z",
    "duration": 346,
-   "views": 14835228,
+   "views": 14840243,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/WpQCCB0Lpik/mqdefault.jpg",
    "cats": [
@@ -8952,7 +9305,7 @@
    "channelId": "UCg483oC1m94Nh98PhgQKwvw",
    "publishedAt": "2023-12-24T23:53:06Z",
    "duration": 3999,
-   "views": 644993,
+   "views": 645900,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/6fbdh53dfRo/mqdefault.jpg",
    "cats": [
@@ -8990,7 +9343,7 @@
    "channelId": "UChf2vWqVItUDRqenP16Zz0w",
    "publishedAt": "2023-12-08T11:00:13Z",
    "duration": 570,
-   "views": 39839,
+   "views": 39854,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/FZMBMiaVCBg/mqdefault.jpg",
    "cats": [
@@ -9009,7 +9362,7 @@
    "channelId": "UCF4Ty-VWH3_lODH3EmFeFug",
    "publishedAt": "2023-11-22T12:00:10Z",
    "duration": 625,
-   "views": 159027,
+   "views": 159031,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/vxr9mX9Ki5I/mqdefault.jpg",
    "cats": [
@@ -9028,7 +9381,7 @@
    "channelId": "UCDKYeJJqAZzjM9l_LVZF9oA",
    "publishedAt": "2023-11-20T16:03:37Z",
    "duration": 1694,
-   "views": 122831,
+   "views": 122855,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/29kUy2icT_U/mqdefault.jpg",
    "cats": [
@@ -9037,6 +9390,25 @@
    "firstSeen": "2026-10-17T15:14:25.298581+00:00",
    "catSeen": {
     "jp-drama-songs": "2026-10-17T15:14:25.298581+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "KJrm8eVs1pE",
+   "title": "【初階】男女適用 10分鐘無跳躍 全身燃脂運動 (適用新手、大體重)",
+   "channel": "游書庭 - 樂活有氧",
+   "channelId": "UCz5PbJWmsDsMreKjDrWv-dg",
+   "publishedAt": "2023-11-13T12:00:26Z",
+   "duration": 618,
+   "views": 3209886,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/KJrm8eVs1pE/mqdefault.jpg",
+   "cats": [
+    "c-mvm1petyruzp"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "c-mvm1petyruzp": "2026-10-24T06:58:10.476593+00:00"
    },
    "source": "search"
   },
@@ -9066,7 +9438,7 @@
    "channelId": "UC-5eTKa5UQsHZAgDPqpSBBw",
    "publishedAt": "2023-10-14T11:30:19Z",
    "duration": 1553,
-   "views": 147276,
+   "views": 147291,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/qamnVE2r9PI/mqdefault.jpg",
    "cats": [
@@ -9085,7 +9457,7 @@
    "channelId": "UCjDvQxQtQuBpJ1AA6NAmodQ",
    "publishedAt": "2023-09-27T06:08:37Z",
    "duration": 509,
-   "views": 615031,
+   "views": 617218,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/FNH3vsZZN_Y/mqdefault.jpg",
    "cats": [
@@ -9136,13 +9508,32 @@
    "source": "search"
   },
   {
+   "id": "56A-3qmJFjs",
+   "title": "男女適用!! 30分鐘站立式燃脂運動 (無跳躍、不傷膝、居家有氧)/ 30 MINS Standing No Jumping HIIT workout",
+   "channel": "游書庭 - 樂活有氧",
+   "channelId": "UCz5PbJWmsDsMreKjDrWv-dg",
+   "publishedAt": "2023-09-18T12:00:03Z",
+   "duration": 1897,
+   "views": 1980301,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/56A-3qmJFjs/mqdefault.jpg",
+   "cats": [
+    "c-mvm1petyruzp"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "c-mvm1petyruzp": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "XF9P0bz16A4",
    "title": "1959年 「昭和の日常」「秋の山」8ミリフィルム映像 / 8mm film / Old japanese life 1959",
    "channel": "Old Video Museum",
    "channelId": "UC11j5ntnH-u9UE8yK5uJidw",
    "publishedAt": "2023-09-09T10:00:31Z",
    "duration": 781,
-   "views": 2913804,
+   "views": 2914015,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/XF9P0bz16A4/mqdefault.jpg",
    "cats": [
@@ -9199,7 +9590,7 @@
    "channelId": "UC_1GPhYlXI2ka2ji5gnqWFQ",
    "publishedAt": "2023-08-07T13:00:38Z",
    "duration": 233,
-   "views": 32738448,
+   "views": 32758660,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/nFR3uXaR0wk/mqdefault.jpg",
    "cats": [
@@ -9218,7 +9609,7 @@
    "channelId": "UCGzMGPoAEKkk1zDwS75sBCg",
    "publishedAt": "2023-08-07T08:00:25Z",
    "duration": 1304,
-   "views": 450275,
+   "views": 450327,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/zJNfqTtOwH4/mqdefault.jpg",
    "cats": [
@@ -9237,7 +9628,7 @@
    "channelId": "UCs9dAyXUuzx8C8DIMJuyKFg",
    "publishedAt": "2023-08-03T01:00:13Z",
    "duration": 1577,
-   "views": 1321867,
+   "views": 1322278,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/dD45_sQ1aVY/mqdefault.jpg",
    "cats": [
@@ -9250,13 +9641,32 @@
    "source": "search"
   },
   {
+   "id": "LmrKejHOaG4",
+   "title": "男女適用!! 20分鐘 站立式全身燃脂運動、不跳躍、不傷膝、簡單有效",
+   "channel": "游書庭 - 樂活有氧",
+   "channelId": "UCz5PbJWmsDsMreKjDrWv-dg",
+   "publishedAt": "2023-07-24T10:00:12Z",
+   "duration": 1244,
+   "views": 4797465,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/LmrKejHOaG4/mqdefault.jpg",
+   "cats": [
+    "c-mvm1petyruzp"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "c-mvm1petyruzp": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "gQVjQDq2ecE",
    "title": "日本統治下(殖民時期)...當時台灣的孩子及學生的成長背景故事：Taiwan｜紀錄片｜懷舊｜回憶｜日本統治時代の台湾の特集動画",
    "channel": "舊時光",
    "channelId": "UCgT_sIvP6Mkvpm7_vm_bHMQ",
    "publishedAt": "2023-07-14T09:06:19Z",
    "duration": 937,
-   "views": 86712,
+   "views": 86714,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/gQVjQDq2ecE/mqdefault.jpg",
    "cats": [
@@ -9275,7 +9685,7 @@
    "channelId": "UChf2vWqVItUDRqenP16Zz0w",
    "publishedAt": "2023-07-08T11:00:26Z",
    "duration": 766,
-   "views": 30010,
+   "views": 30020,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/MxFIIDKUz8Q/mqdefault.jpg",
    "cats": [
@@ -9294,7 +9704,7 @@
    "channelId": "UCweWZjQISYE-xG2ZArvuMdA",
    "publishedAt": "2023-07-03T20:19:08Z",
    "duration": 433,
-   "views": 116920,
+   "views": 116925,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/kLoXXoID9rg/mqdefault.jpg",
    "cats": [
@@ -9370,7 +9780,7 @@
    "channelId": "UCJHudgKYkjOU_Ep96fUOurw",
    "publishedAt": "2023-06-14T09:30:01Z",
    "duration": 489,
-   "views": 76594,
+   "views": 76613,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/48G6hYfe1h4/mqdefault.jpg",
    "cats": [
@@ -9402,13 +9812,32 @@
    "source": "search"
   },
   {
+   "id": "XZkkJ2Ba4h0",
+   "title": "腹肌快速出現！【15分鐘 間歇有氧】訓練腹肌同時減脂 最高CP值練法！│健人訓練│ 2023ep16",
+   "channel": "健人蓋伊",
+   "channelId": "UCpGGLFkG4heKm6hnJYn5HxA",
+   "publishedAt": "2023-06-11T12:00:19Z",
+   "duration": 1404,
+   "views": 1180720,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/XZkkJ2Ba4h0/mqdefault.jpg",
+   "cats": [
+    "c-mvm1petyruzp"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "c-mvm1petyruzp": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "366eR1hrAVo",
    "title": "李學儒【我的廣播生涯】電台廣播劇配音【第五集】A Loving World | 有緣相聚 | 有情天地【粵語】",
    "channel": "李學儒【有緣相聚 x 有情天地】A Loving World",
    "channelId": "UCvWU3G4qgCIpGsbhWnlocHQ",
    "publishedAt": "2023-06-10T01:00:01Z",
    "duration": 1100,
-   "views": 9919,
+   "views": 9931,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/366eR1hrAVo/mqdefault.jpg",
    "cats": [
@@ -9442,6 +9871,25 @@
    "source": "search"
   },
   {
+   "id": "zvFAWbx3ags",
+   "title": "80年前の並四ラジオ修復　古いって面白い！ Old 4-Tube Regenerative Receiver",
+   "channel": "DIY CABIN",
+   "channelId": "UCc11dRLPdZIeFkY36tD5RwA",
+   "publishedAt": "2023-06-07T10:00:50Z",
+   "duration": 412,
+   "views": 3461,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/zvFAWbx3ags/mqdefault.jpg",
+   "cats": [
+    "radio"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "radio": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "JDao3zb5MBE",
    "title": "90年代ドラマ主題歌メドレー",
    "channel": "Top JP",
@@ -9467,7 +9915,7 @@
    "channelId": "UCgT_sIvP6Mkvpm7_vm_bHMQ",
    "publishedAt": "2023-06-03T05:02:51Z",
    "duration": 527,
-   "views": 47932,
+   "views": 47934,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/x9UwIYvN7KI/mqdefault.jpg",
    "cats": [
@@ -9486,7 +9934,7 @@
    "channelId": "UCWomnhmt7343UQdhZHQODIA",
    "publishedAt": "2023-06-02T14:09:06Z",
    "duration": 613,
-   "views": 1243796,
+   "views": 1243824,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/dvifgmvzJrM/mqdefault.jpg",
    "cats": [
@@ -9505,7 +9953,7 @@
    "channelId": "UCgT_sIvP6Mkvpm7_vm_bHMQ",
    "publishedAt": "2023-05-30T07:09:30Z",
    "duration": 822,
-   "views": 65287,
+   "views": 65302,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/_Gy0_bMAh94/mqdefault.jpg",
    "cats": [
@@ -9524,7 +9972,7 @@
    "channelId": "UCdPCarwi28K5Z7s5l2nMiLw",
    "publishedAt": "2023-05-29T11:00:11Z",
    "duration": 246,
-   "views": 25871953,
+   "views": 25874964,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/tHcrAUllIxU/mqdefault.jpg",
    "cats": [
@@ -9543,7 +9991,7 @@
    "channelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
    "publishedAt": "2023-05-28T10:00:19Z",
    "duration": 219,
-   "views": 74495,
+   "views": 74513,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/EYewURziMVI/mqdefault.jpg",
    "cats": [
@@ -9562,7 +10010,7 @@
    "channelId": "UCMj6Q5ya3Xg8BiSk9W8Rg3A",
    "publishedAt": "2023-05-24T10:37:11Z",
    "duration": 481,
-   "views": 768811,
+   "views": 768852,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/uccnDtiWsbQ/mqdefault.jpg",
    "cats": [
@@ -9581,7 +10029,7 @@
    "channelId": "UCjMXIi0ayVVAyRfD9PlFNLA",
    "publishedAt": "2023-05-20T10:00:18Z",
    "duration": 5509,
-   "views": 265,
+   "views": 266,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Q94YIEuDit8/mqdefault.jpg",
    "cats": [
@@ -9600,7 +10048,7 @@
    "channelId": "UCgT_sIvP6Mkvpm7_vm_bHMQ",
    "publishedAt": "2023-05-20T02:30:45Z",
    "duration": 587,
-   "views": 1579422,
+   "views": 1579451,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/bjMtIjs8TYQ/mqdefault.jpg",
    "cats": [
@@ -9632,13 +10080,32 @@
    "source": "search"
   },
   {
+   "id": "5i3yz1OZ_R4",
+   "title": "1937 Zenith Tube Radio Restoration",
+   "channel": "Jack Saunders",
+   "channelId": "UCDhDqh8xYw6nkXY2zLMFk4A",
+   "publishedAt": "2023-05-11T01:53:07Z",
+   "duration": 2262,
+   "views": 41768,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/5i3yz1OZ_R4/mqdefault.jpg",
+   "cats": [
+    "radio"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "radio": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "Und8XVHOZkM",
    "title": "【有圖有真相】古早台北的美食聖地！你沒見過的台北圓環｜日治｜台北｜圓環｜美食｜老照片｜王佐榮",
    "channel": "佐榮寫真館",
    "channelId": "UCF4Ty-VWH3_lODH3EmFeFug",
    "publishedAt": "2023-05-10T12:00:09Z",
    "duration": 795,
-   "views": 200901,
+   "views": 200914,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Und8XVHOZkM/mqdefault.jpg",
    "cats": [
@@ -9657,7 +10124,7 @@
    "channelId": "UCtiZUlposRi5rk3-bvtUTtA",
    "publishedAt": "2023-05-02T19:00:00Z",
    "duration": 166,
-   "views": 11017283,
+   "views": 11021696,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/-YSwJh-4j1s/mqdefault.jpg",
    "cats": [
@@ -9676,7 +10143,7 @@
    "channelId": "UCtiZUlposRi5rk3-bvtUTtA",
    "publishedAt": "2023-04-27T19:00:29Z",
    "duration": 257,
-   "views": 23562562,
+   "views": 23572245,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/pqobRu9aR3M/mqdefault.jpg",
    "cats": [
@@ -9714,7 +10181,7 @@
    "channelId": "UC-5eTKa5UQsHZAgDPqpSBBw",
    "publishedAt": "2023-04-08T11:00:35Z",
    "duration": 1388,
-   "views": 1468656,
+   "views": 1468678,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/jpi6zL_hjNY/mqdefault.jpg",
    "cats": [
@@ -9733,7 +10200,7 @@
    "channelId": "UCFnF2xHkj8xBIiWNFoo4rQA",
    "publishedAt": "2023-04-04T06:23:01Z",
    "duration": 3533,
-   "views": 914470,
+   "views": 919621,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/lNBi6obiogg/mqdefault.jpg",
    "cats": [
@@ -9771,7 +10238,7 @@
    "channelId": "UCXvOsXrikeoACd-irdilpYQ",
    "publishedAt": "2023-04-01T16:10:23Z",
    "duration": 903,
-   "views": 124940,
+   "views": 124956,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/uQn9ZwimalI/mqdefault.jpg",
    "cats": [
@@ -9780,6 +10247,25 @@
    "firstSeen": "2026-10-17T15:14:25.298581+00:00",
    "catSeen": {
     "retro-taiwan": "2026-10-17T15:14:25.298581+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "lWZmV_k71Bg",
+   "title": "カメラリポート 真空管ラジオの魅力",
+   "channel": "伊那ケーブルテレビジョン公式チャンネル",
+   "channelId": "UCo-tzKkflM8pAO2UWZEHFTQ",
+   "publishedAt": "2023-03-30T09:03:11Z",
+   "duration": 181,
+   "views": 3730,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/lWZmV_k71Bg/mqdefault.jpg",
+   "cats": [
+    "radio"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "radio": "2026-10-24T06:58:10.476593+00:00"
    },
    "source": "search"
   },
@@ -9828,7 +10314,7 @@
    "channelId": "UC4gU19BVrNtM2sMggAX04LA",
    "publishedAt": "2023-02-28T03:17:18Z",
    "duration": 1727,
-   "views": 820092,
+   "views": 821049,
    "embeddable": false,
    "thumb": "https://i.ytimg.com/vi/OAAwR5hLiiM/mqdefault.jpg",
    "cats": [
@@ -9841,13 +10327,32 @@
    "source": "search"
   },
   {
+   "id": "ZLO7uMM1T94",
+   "title": "真空管ラジオ花盛りの1950年代「GOLD STAR 6SM-61」TEN RADIO 神戸工業",
+   "channel": "きみほしチャンネル",
+   "channelId": "UCnnITMrfqaeWrK5ZhWxx0bA",
+   "publishedAt": "2023-02-01T08:48:40Z",
+   "duration": 565,
+   "views": 2878,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/ZLO7uMM1T94/mqdefault.jpg",
+   "cats": [
+    "radio"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "radio": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "X9v2-rlG8qE",
    "title": "『iモード卒業公演』Music by STUTS",
    "channel": "cabalex",
    "channelId": "UCOMFIndX4eZxIU1vfIWgaVQ",
    "publishedAt": "2023-02-01T07:21:50Z",
    "duration": 197,
-   "views": 45147,
+   "views": 45172,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/X9v2-rlG8qE/mqdefault.jpg",
    "cats": [
@@ -9885,7 +10390,7 @@
    "channelId": "UCDQFox-p-khOhl7a3zxbP7A",
    "publishedAt": "2023-01-28T04:05:57Z",
    "duration": 269,
-   "views": 144706,
+   "views": 144739,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/IRkp5aQHopw/mqdefault.jpg",
    "cats": [
@@ -9904,7 +10409,7 @@
    "channelId": "UCf4LKGweEEXDiDqM3embkCA",
    "publishedAt": "2023-01-22T12:05:00Z",
    "duration": 4128,
-   "views": 85760,
+   "views": 85801,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/ribSl2KJtgQ/mqdefault.jpg",
    "cats": [
@@ -9942,7 +10447,7 @@
    "channelId": "UCvXH8I9JJb09wg87C2kVuXA",
    "publishedAt": "2022-12-23T12:00:21Z",
    "duration": 3841,
-   "views": 79768,
+   "views": 79787,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/hXjlDFcqrxE/mqdefault.jpg",
    "cats": [
@@ -9980,7 +10485,7 @@
    "channelId": "UCvXH8I9JJb09wg87C2kVuXA",
    "publishedAt": "2022-12-21T12:00:37Z",
    "duration": 2842,
-   "views": 1471919,
+   "views": 1472220,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/uAnbDNKGKGg/mqdefault.jpg",
    "cats": [
@@ -9989,6 +10494,25 @@
    "firstSeen": "2026-10-17T15:14:25.298581+00:00",
    "catSeen": {
     "jp-drama-songs": "2026-10-17T15:14:25.298581+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "dVgsBeTmeNc",
+   "title": "站著也能練核心肌群｜14分鐘站著練核心｜適合初階及年長者｜葛蕾蒂斯Gladys Fit Life",
+   "channel": "Gladys Fit Life",
+   "channelId": "UCe6CdOiTH5AVq1EwZ8RUrpw",
+   "publishedAt": "2022-12-13T02:00:09Z",
+   "duration": 1136,
+   "views": 2366605,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/dVgsBeTmeNc/mqdefault.jpg",
+   "cats": [
+    "c-mvm1petyruzp"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "c-mvm1petyruzp": "2026-10-24T06:58:10.476593+00:00"
    },
    "source": "search"
   },
@@ -10018,7 +10542,7 @@
    "channelId": "UCvepgJy-oKYxihpxWkciTwA",
    "publishedAt": "2022-11-23T14:57:56Z",
    "duration": 66,
-   "views": 1884,
+   "views": 1885,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/ZDmDJeTsoL8/mqdefault.jpg",
    "cats": [
@@ -10075,7 +10599,7 @@
    "channelId": "UCJb6He2xxvi7irfcw7pPU4w",
    "publishedAt": "2022-09-29T05:09:29Z",
    "duration": 887,
-   "views": 3678616,
+   "views": 3686604,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Dp-uY12otOc/mqdefault.jpg",
    "cats": [
@@ -10094,7 +10618,7 @@
    "channelId": "UCDhDqh8xYw6nkXY2zLMFk4A",
    "publishedAt": "2022-09-22T02:04:15Z",
    "duration": 1207,
-   "views": 67300,
+   "views": 67328,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/0fdSvKkW9Kw/mqdefault.jpg",
    "cats": [
@@ -10113,7 +10637,7 @@
    "channelId": "UCAYkj2Fz9EvAe2fGJEGMXnQ",
    "publishedAt": "2022-08-31T13:00:11Z",
    "duration": 3360,
-   "views": 403761,
+   "views": 403764,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/3C92XvUp_uE/mqdefault.jpg",
    "cats": [
@@ -10151,7 +10675,7 @@
    "channelId": "UCw7FKchRP3oVw4Nh_L7oPAQ",
    "publishedAt": "2022-08-02T23:07:18Z",
    "duration": 472,
-   "views": 63567,
+   "views": 63629,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/cDaupP4RsYA/mqdefault.jpg",
    "cats": [
@@ -10265,7 +10789,7 @@
    "channelId": "UCS3nuaXXw7nsiSzdJ5HJaoQ",
    "publishedAt": "2022-05-30T03:00:11Z",
    "duration": 2830,
-   "views": 357995,
+   "views": 358076,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/bgbo9II1XcM/mqdefault.jpg",
    "cats": [
@@ -10322,7 +10846,7 @@
    "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
    "publishedAt": "2022-04-27T11:28:47Z",
    "duration": 519,
-   "views": 11129,
+   "views": 11166,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/zYIWkYpd77c/mqdefault.jpg",
    "cats": [
@@ -10341,7 +10865,7 @@
    "channelId": "UCIECJyQ6meDyN-UnVHgXAMA",
    "publishedAt": "2022-04-21T10:00:02Z",
    "duration": 524,
-   "views": 3646820,
+   "views": 3646901,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/7ALQSUIM_x8/mqdefault.jpg",
    "cats": [
@@ -10360,7 +10884,7 @@
    "channelId": "UCJb6He2xxvi7irfcw7pPU4w",
    "publishedAt": "2022-04-19T00:38:52Z",
    "duration": 1627,
-   "views": 11118739,
+   "views": 11121676,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/brO8s5nKPNM/mqdefault.jpg",
    "cats": [
@@ -10379,7 +10903,7 @@
    "channelId": "UC2AUOuwTUepzn-NyTZdNquQ",
    "publishedAt": "2022-04-05T13:45:29Z",
    "duration": 4530,
-   "views": 186765,
+   "views": 186807,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/ivdOoBqOFSw/mqdefault.jpg",
    "cats": [
@@ -10398,7 +10922,7 @@
    "channelId": "UCvC3kn4IUCByyYEr-icalQA",
    "publishedAt": "2022-03-29T07:00:02Z",
    "duration": 857,
-   "views": 5946,
+   "views": 5951,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/8zUVlHlAMRk/mqdefault.jpg",
    "cats": [
@@ -10417,7 +10941,7 @@
    "channelId": "UClCHZWUYjqwR4tP-ppQUbhg",
    "publishedAt": "2022-03-26T12:00:24Z",
    "duration": 693,
-   "views": 39166,
+   "views": 39216,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/qfl9fr4TUrw/mqdefault.jpg",
    "cats": [
@@ -10436,7 +10960,7 @@
    "channelId": "UCdUw_DL7BgjMTJOlTvRe0rA",
    "publishedAt": "2022-02-21T21:00:19Z",
    "duration": 270,
-   "views": 540486,
+   "views": 540743,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/zTccSXpjiDM/mqdefault.jpg",
    "cats": [
@@ -10474,7 +10998,7 @@
    "channelId": "UC2VmWn8dAqkzlQqvy02E1PA",
    "publishedAt": "2022-01-02T07:20:05Z",
    "duration": 104,
-   "views": 1988,
+   "views": 1997,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/WU8HaUFF2_Q/mqdefault.jpg",
    "cats": [
@@ -10493,7 +11017,7 @@
    "channelId": "UCFCHKsT1ZY2aLUAbWW1lJGA",
    "publishedAt": "2021-11-11T15:00:30Z",
    "duration": 309,
-   "views": 79790083,
+   "views": 79989840,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/T_lC2O1oIew/mqdefault.jpg",
    "cats": [
@@ -10512,7 +11036,7 @@
    "channelId": "UCgs8coiQ8bzlldHOfczsJAg",
    "publishedAt": "2021-11-10T10:00:03Z",
    "duration": 1251,
-   "views": 25943,
+   "views": 25946,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/7pn5Ovxob3g/mqdefault.jpg",
    "cats": [
@@ -10531,7 +11055,7 @@
    "channelId": "UC0l4tjS60zEod6OCC97-9BA",
    "publishedAt": "2021-11-07T10:30:03Z",
    "duration": 915,
-   "views": 1297472,
+   "views": 1297895,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/RB9RpiZnZCE/mqdefault.jpg",
    "cats": [
@@ -10658,13 +11182,51 @@
    "source": "search"
   },
   {
+   "id": "TSN738gKhyA",
+   "title": "【中階】居家健身 | 10分鐘腹肌訓練 - 無器械 打造六塊肌/ 10 mins abs workout at home no equipment",
+   "channel": "游書庭 - 樂活有氧",
+   "channelId": "UCz5PbJWmsDsMreKjDrWv-dg",
+   "publishedAt": "2021-07-14T10:00:12Z",
+   "duration": 627,
+   "views": 1941329,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/TSN738gKhyA/mqdefault.jpg",
+   "cats": [
+    "c-mvm1petyruzp"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "c-mvm1petyruzp": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "jg3u14WKYWw",
+   "title": "大小孩居家運動Tabata",
+   "channel": "愛群醫療",
+   "channelId": "UCquBnWfvdf_-LBvHXTJikWg",
+   "publishedAt": "2021-07-13T02:54:38Z",
+   "duration": 341,
+   "views": 778071,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/jg3u14WKYWw/mqdefault.jpg",
+   "cats": [
+    "c-mvm1petyruzp"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "c-mvm1petyruzp": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "TMoTtkvxVYo",
    "title": "【PCで短波放送を受信！】5000円でパソコンを”超”広帯域無線受信機にして聞いてみよう　海外短波放送、BCL受信、デジタル通信以外何でもOKです",
    "channel": "falconのDIYチャンネル",
    "channelId": "UCEsmG4Z2PvYT4y-It_moU0w",
    "publishedAt": "2021-07-04T04:37:42Z",
    "duration": 592,
-   "views": 287251,
+   "views": 287255,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/TMoTtkvxVYo/mqdefault.jpg",
    "cats": [
@@ -10683,7 +11245,7 @@
    "channelId": "UCgL0jA6oWkatGtQyJO6N3iA",
    "publishedAt": "2021-06-28T01:20:47Z",
    "duration": 1383,
-   "views": 50040,
+   "views": 50053,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/vLX9hDm1-4U/mqdefault.jpg",
    "cats": [
@@ -10721,7 +11283,7 @@
    "channelId": "UCC5Mh-u2DpTYn1Dmh_FaMoA",
    "publishedAt": "2021-06-13T12:30:04Z",
    "duration": 607,
-   "views": 226119,
+   "views": 226123,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/exHj5ljamH4/mqdefault.jpg",
    "cats": [
@@ -10734,13 +11296,32 @@
    "source": "search"
   },
   {
+   "id": "7iC8LaBuU1E",
+   "title": "【中階】10分鐘高強度居家運動 - 燃燒脂肪 有氧+無氧/ 10 mins intense HIIT workout at home - full body workout",
+   "channel": "游書庭 - 樂活有氧",
+   "channelId": "UCz5PbJWmsDsMreKjDrWv-dg",
+   "publishedAt": "2021-06-12T09:00:02Z",
+   "duration": 621,
+   "views": 1165317,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/7iC8LaBuU1E/mqdefault.jpg",
+   "cats": [
+    "c-mvm1petyruzp"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "c-mvm1petyruzp": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "zbU8nz9rRQ0",
    "title": "廣播.電視.網路三棲 周玉蔻再接新廣播節目－民視新聞",
    "channel": "民視新聞網 Formosa TV News network",
    "channelId": "UC2VmWn8dAqkzlQqvy02E1PA",
    "publishedAt": "2021-06-12T01:42:39Z",
    "duration": 90,
-   "views": 2574,
+   "views": 2577,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/zbU8nz9rRQ0/mqdefault.jpg",
    "cats": [
@@ -10759,7 +11340,7 @@
    "channelId": "UCYdJvFLBxn2XC2M2hjtATSw",
    "publishedAt": "2021-06-05T16:28:32Z",
    "duration": 632,
-   "views": 922018,
+   "views": 922024,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Vb8SLb9qXeQ/mqdefault.jpg",
    "cats": [
@@ -10778,7 +11359,7 @@
    "channelId": "UCK7XXUcHFCry_gKvbUqyM8w",
    "publishedAt": "2021-06-03T19:10:15Z",
    "duration": 647,
-   "views": 19666,
+   "views": 19669,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/dI_6opGqbko/mqdefault.jpg",
    "cats": [
@@ -10816,7 +11397,7 @@
    "channelId": "UCjTi3glnACLCmN5lrQv6mMQ",
    "publishedAt": "2021-05-13T09:11:29Z",
    "duration": 982,
-   "views": 60692,
+   "views": 60702,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/osyd1Xk_kag/mqdefault.jpg",
    "cats": [
@@ -10854,7 +11435,7 @@
    "channelId": "UCYdJvFLBxn2XC2M2hjtATSw",
    "publishedAt": "2021-05-06T01:22:13Z",
    "duration": 1212,
-   "views": 1105614,
+   "views": 1105621,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/G4H-lQJLBo0/mqdefault.jpg",
    "cats": [
@@ -10949,7 +11530,7 @@
    "channelId": "UCYdJvFLBxn2XC2M2hjtATSw",
    "publishedAt": "2021-04-17T16:15:58Z",
    "duration": 690,
-   "views": 1397823,
+   "views": 1397839,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/VJ_GpRSHg4k/mqdefault.jpg",
    "cats": [
@@ -10987,7 +11568,7 @@
    "channelId": "UCS3nuaXXw7nsiSzdJ5HJaoQ",
    "publishedAt": "2021-04-12T02:30:05Z",
    "duration": 2770,
-   "views": 133966,
+   "views": 133974,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/iWqgumrRVEY/mqdefault.jpg",
    "cats": [
@@ -11006,7 +11587,7 @@
    "channelId": "UCIVJYIZ6g4I8S3pdpiHZ6-w",
    "publishedAt": "2021-04-10T02:54:45Z",
    "duration": 5486,
-   "views": 1323132,
+   "views": 1323705,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/c_u21iN6f5Q/mqdefault.jpg",
    "cats": [
@@ -11025,7 +11606,7 @@
    "channelId": "UCIVJYIZ6g4I8S3pdpiHZ6-w",
    "publishedAt": "2021-04-10T02:47:30Z",
    "duration": 5518,
-   "views": 1840405,
+   "views": 1841425,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/UeIImtHWjZ4/mqdefault.jpg",
    "cats": [
@@ -11063,7 +11644,7 @@
    "channelId": "UCiTgjbrX_oskZ-sa9H7d9ZA",
    "publishedAt": "2021-03-28T14:52:41Z",
    "duration": 174,
-   "views": 8476,
+   "views": 8705,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/KXTu_GzKh0A/mqdefault.jpg",
    "cats": [
@@ -11082,7 +11663,7 @@
    "channelId": "UCYdJvFLBxn2XC2M2hjtATSw",
    "publishedAt": "2021-03-25T20:22:31Z",
    "duration": 349,
-   "views": 919224,
+   "views": 919249,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/o8ffiKmG7JE/mqdefault.jpg",
    "cats": [
@@ -11101,7 +11682,7 @@
    "channelId": "UCS3nuaXXw7nsiSzdJ5HJaoQ",
    "publishedAt": "2021-03-01T08:03:07Z",
    "duration": 2983,
-   "views": 1267456,
+   "views": 1267706,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/TuxQWWX47uE/mqdefault.jpg",
    "cats": [
@@ -11120,7 +11701,7 @@
    "channelId": "UCaBtYooQdmNzq63eID8RaLQ",
    "publishedAt": "2021-01-19T03:05:23Z",
    "duration": 2360,
-   "views": 928466,
+   "views": 928516,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/vYX3y9GZDdg/mqdefault.jpg",
    "cats": [
@@ -11139,7 +11720,7 @@
    "channelId": "UCYdJvFLBxn2XC2M2hjtATSw",
    "publishedAt": "2020-12-30T18:52:30Z",
    "duration": 610,
-   "views": 5466679,
+   "views": 5466734,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/a6UcjqPgdqQ/mqdefault.jpg",
    "cats": [
@@ -11158,7 +11739,7 @@
    "channelId": "UCYdJvFLBxn2XC2M2hjtATSw",
    "publishedAt": "2020-12-26T17:46:33Z",
    "duration": 321,
-   "views": 1578874,
+   "views": 1578890,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/uspZwxVNyBE/mqdefault.jpg",
    "cats": [
@@ -11177,7 +11758,7 @@
    "channelId": "UCk0IUODXaAFr5gEFlZDbzmw",
    "publishedAt": "2020-12-25T03:00:09Z",
    "duration": 311,
-   "views": 47719557,
+   "views": 47785184,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/nuU2YHtxMik/mqdefault.jpg",
    "cats": [
@@ -11234,7 +11815,7 @@
    "channelId": "UCnwV0i25fH8pBrzuJ3WrHTw",
    "publishedAt": "2020-12-15T10:15:01Z",
    "duration": 283,
-   "views": 61106151,
+   "views": 61142631,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/UNRJyBHziX4/mqdefault.jpg",
    "cats": [
@@ -11243,6 +11824,25 @@
    "firstSeen": "2026-10-21T22:17:15.036730+00:00",
    "catSeen": {
     "jp-drama-songs": "2026-10-21T22:17:15.036730+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "DqagRc3C--s",
+   "title": "居家20分鐘全身性阻力有氧運動｜適合初中階者入門 (徒手無器材可) At-home 20 min full body cardio workout",
+   "channel": "May Fit",
+   "channelId": "UCxGeKqFaKqpzkuFNGCFjcuA",
+   "publishedAt": "2020-12-10T13:01:35Z",
+   "duration": 1206,
+   "views": 715619,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/DqagRc3C--s/mqdefault.jpg",
+   "cats": [
+    "c-mvm1petyruzp"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "c-mvm1petyruzp": "2026-10-24T06:58:10.476593+00:00"
    },
    "source": "search"
   },
@@ -11272,7 +11872,7 @@
    "channelId": "UCkoP98bkuVjTs12pdMvlK3A",
    "publishedAt": "2020-11-25T11:00:04Z",
    "duration": 681,
-   "views": 107162,
+   "views": 107199,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/N2nYVD-RIIE/mqdefault.jpg",
    "cats": [
@@ -11291,7 +11891,7 @@
    "channelId": "UCsSGHiQBIJ1B1fp_wwMMdXA",
    "publishedAt": "2020-10-28T10:00:30Z",
    "duration": 77,
-   "views": 20138,
+   "views": 20148,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/goPFq2-Titk/mqdefault.jpg",
    "cats": [
@@ -11310,7 +11910,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2020-10-11T12:00:12Z",
    "duration": 659,
-   "views": 1099608,
+   "views": 1099656,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/AV_CAHWGsuw/mqdefault.jpg",
    "cats": [
@@ -11323,13 +11923,32 @@
    "source": "search"
   },
   {
+   "id": "L1BTJsDAWjo",
+   "title": "7 分鐘居家徒手腹肌訓練【初級版】無裝備｜7 Min Standing Abs workout｜非常適合初學者入門也有效加强核心的訓練｜男生和女生都適合的健身訓練【健身運動】",
+   "channel": "Eugene Wong",
+   "channelId": "UCXRgJZZ29VevkFR_1Y3hYJQ",
+   "publishedAt": "2020-10-11T10:39:53Z",
+   "duration": 437,
+   "views": 2700090,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/L1BTJsDAWjo/mqdefault.jpg",
+   "cats": [
+    "c-mvm1petyruzp"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "c-mvm1petyruzp": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "fdsjdFuTvrE",
    "title": "ひばり 日本歌謡史を歌う",
    "channel": "Media Music",
    "channelId": "UC66f5GMFz33ELhsDI-KdWBQ",
    "publishedAt": "2020-10-05T16:38:34Z",
    "duration": 3422,
-   "views": 368896,
+   "views": 369782,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/fdsjdFuTvrE/mqdefault.jpg",
    "cats": [
@@ -11338,6 +11957,25 @@
    "firstSeen": "2026-10-19T22:18:12.778306+00:00",
    "catSeen": {
     "showa-retro": "2026-10-19T22:18:12.778306+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "Cf_GaGllwJs",
+   "title": "居家30分鐘全身性徒手運動 (無器材、無跳躍) At-home 30 min full body workout | no jumping and no equipment needed",
+   "channel": "May Fit",
+   "channelId": "UCxGeKqFaKqpzkuFNGCFjcuA",
+   "publishedAt": "2020-09-24T12:59:32Z",
+   "duration": 1862,
+   "views": 1521293,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/Cf_GaGllwJs/mqdefault.jpg",
+   "cats": [
+    "c-mvm1petyruzp"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "c-mvm1petyruzp": "2026-10-24T06:58:10.476593+00:00"
    },
    "source": "search"
   },
@@ -11367,7 +12005,7 @@
    "channelId": "UChKEz7vEp_muMNar39DO99g",
    "publishedAt": "2020-09-09T14:00:06Z",
    "duration": 410,
-   "views": 116586,
+   "views": 116651,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/eTEa71ZkYcA/mqdefault.jpg",
    "cats": [
@@ -11405,7 +12043,7 @@
    "channelId": "UC5r-9EMDERXlUni-UWAtTdg",
    "publishedAt": "2020-08-07T14:00:08Z",
    "duration": 544,
-   "views": 32522,
+   "views": 32533,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/T1ss3Vqd0T8/mqdefault.jpg",
    "cats": [
@@ -11443,7 +12081,7 @@
    "channelId": "UCSvnUn0RXY81f4xpM_KPuNQ",
    "publishedAt": "2020-07-19T10:00:13Z",
    "duration": 626,
-   "views": 6820312,
+   "views": 6820907,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/UB8GqDRkn2k/mqdefault.jpg",
    "cats": [
@@ -11500,7 +12138,7 @@
    "channelId": "UCsSGHiQBIJ1B1fp_wwMMdXA",
    "publishedAt": "2020-07-08T10:00:05Z",
    "duration": 158,
-   "views": 31947,
+   "views": 31952,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/GI89ivvSMjc/mqdefault.jpg",
    "cats": [
@@ -11509,6 +12147,25 @@
    "firstSeen": "2026-10-17T15:14:25.298581+00:00",
    "catSeen": {
     "broadcast": "2026-10-17T15:14:25.298581+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "Z1u5wYKZ9DQ",
+   "title": "20分鐘居家全身性徒手訓練 (無跳躍、無裝備) At-home 20min Total Body HIIT Workout (No jumping/ equipment needed)",
+   "channel": "May Fit",
+   "channelId": "UCxGeKqFaKqpzkuFNGCFjcuA",
+   "publishedAt": "2020-06-25T13:00:15Z",
+   "duration": 1321,
+   "views": 1905573,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/Z1u5wYKZ9DQ/mqdefault.jpg",
+   "cats": [
+    "c-mvm1petyruzp"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "c-mvm1petyruzp": "2026-10-24T06:58:10.476593+00:00"
    },
    "source": "search"
   },
@@ -11538,7 +12195,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2020-06-20T12:00:12Z",
    "duration": 627,
-   "views": 524275,
+   "views": 524323,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/3_hKopXY1zs/mqdefault.jpg",
    "cats": [
@@ -11557,7 +12214,7 @@
    "channelId": "UCGivgv58qIptdS4_KTq5L1Q",
    "publishedAt": "2020-03-30T18:07:21Z",
    "duration": 1185,
-   "views": 64310,
+   "views": 64329,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/3YQKsIJvlwg/mqdefault.jpg",
    "cats": [
@@ -11576,7 +12233,7 @@
    "channelId": "UCIGsA9egz8AtpgdocvP_9wQ",
    "publishedAt": "2020-03-09T13:41:10Z",
    "duration": 816,
-   "views": 209583,
+   "views": 209613,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/jz7iWY6FyeY/mqdefault.jpg",
    "cats": [
@@ -11595,7 +12252,7 @@
    "channelId": "UC-7VVuWobK7rKtciT_aRsPA",
    "publishedAt": "2020-03-02T20:51:16Z",
    "duration": 957,
-   "views": 187923,
+   "views": 188023,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/8-bYi3NJRa8/mqdefault.jpg",
    "cats": [
@@ -11614,7 +12271,7 @@
    "channelId": "UCdPCarwi28K5Z7s5l2nMiLw",
    "publishedAt": "2020-02-09T03:00:07Z",
    "duration": 347,
-   "views": 155062119,
+   "views": 155072567,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/qLMLzBYTTKQ/mqdefault.jpg",
    "cats": [
@@ -11633,7 +12290,7 @@
    "channelId": "UCwvWJX42p4C7IfpedYlvvGQ",
    "publishedAt": "2020-02-02T10:00:02Z",
    "duration": 280,
-   "views": 24364309,
+   "views": 24383034,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/9qhJ1vhTH7A/mqdefault.jpg",
    "cats": [
@@ -11747,7 +12404,7 @@
    "channelId": "UCtBhBfhFQwBt5xsryxA_grA",
    "publishedAt": "2019-09-01T19:21:29Z",
    "duration": 2004,
-   "views": 72484,
+   "views": 72489,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/455aqWMxg0Q/mqdefault.jpg",
    "cats": [
@@ -11861,7 +12518,7 @@
    "channelId": "UCWEfzXZ1pvHahhbotsnwAgQ",
    "publishedAt": "2019-03-25T16:21:41Z",
    "duration": 207,
-   "views": 18868,
+   "views": 18872,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/K_CQqYBHukY/mqdefault.jpg",
    "cats": [
@@ -11880,7 +12537,7 @@
    "channelId": "UCOZlALOP7ZqodgQgH4BybqA",
    "publishedAt": "2018-12-18T16:00:02Z",
    "duration": 239,
-   "views": 1910,
+   "views": 1911,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/IFRukqbPYSw/mqdefault.jpg",
    "cats": [
@@ -11918,7 +12575,7 @@
    "channelId": "UC0oosHZ4k1o-zNT21gg5O7A",
    "publishedAt": "2018-10-06T05:57:29Z",
    "duration": 1147,
-   "views": 1208518,
+   "views": 1208527,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/ExLeXf2N0S8/mqdefault.jpg",
    "cats": [
@@ -11937,7 +12594,7 @@
    "channelId": "UC1eZR4IefST-Si7Z75sJOtA",
    "publishedAt": "2018-08-28T21:37:13Z",
    "duration": 369,
-   "views": 105147,
+   "views": 105153,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/pMZltx7XfXs/mqdefault.jpg",
    "cats": [
@@ -11956,7 +12613,7 @@
    "channelId": "UCZnfYkFeoLp8jkCTNukxTEA",
    "publishedAt": "2018-08-16T13:00:05Z",
    "duration": 1485,
-   "views": 1153993,
+   "views": 1154276,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/v5ifUaoqBAA/mqdefault.jpg",
    "cats": [
@@ -12032,7 +12689,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2017-11-25T12:00:02Z",
    "duration": 372,
-   "views": 468258,
+   "views": 468361,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/LKbQDq6Q9eI/mqdefault.jpg",
    "cats": [
@@ -12070,7 +12727,7 @@
    "channelId": "UC6yLal5a948r3l7mnH1uZoQ",
    "publishedAt": "2017-10-23T01:43:55Z",
    "duration": 77,
-   "views": 3208458,
+   "views": 3208483,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/rIFR2NuTxyw/mqdefault.jpg",
    "cats": [
@@ -12089,7 +12746,7 @@
    "channelId": "UCOvvKqmsd3RQf3cMWzA088w",
    "publishedAt": "2017-09-08T03:37:33Z",
    "duration": 3924,
-   "views": 358689,
+   "views": 358691,
    "embeddable": false,
    "thumb": "https://i.ytimg.com/vi/VbXsatMYVwM/mqdefault.jpg",
    "cats": [
@@ -12108,7 +12765,7 @@
    "channelId": "UClhvxul02o9bGVdfM7PNKcw",
    "publishedAt": "2017-08-02T00:13:58Z",
    "duration": 977,
-   "views": 42524,
+   "views": 42535,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/safYm0fbDzw/mqdefault.jpg",
    "cats": [
@@ -12146,7 +12803,7 @@
    "channelId": "UCnZDTHNQ77SqXOF-hKmLoXA",
    "publishedAt": "2017-06-08T03:09:18Z",
    "duration": 362,
-   "views": 551,
+   "views": 552,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/hbdkb21f01M/mqdefault.jpg",
    "cats": [
@@ -12203,7 +12860,7 @@
    "channelId": "UC4O-EoV2o72yCavUVZrzPMQ",
    "publishedAt": "2017-04-28T08:13:08Z",
    "duration": 253,
-   "views": 15327,
+   "views": 15338,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/a8eFps1fBOU/mqdefault.jpg",
    "cats": [
@@ -12216,13 +12873,32 @@
    "source": "search"
   },
   {
+   "id": "cnJkFbwtcho",
+   "title": "明正廣播節目製作社 民間藝師介紹（茆明欽）（茆明福）兄弟檔師傅",
+   "channel": "明正廣播電視節目製作社古書布袋戲",
+   "channelId": "UC4O-EoV2o72yCavUVZrzPMQ",
+   "publishedAt": "2017-03-04T11:40:08Z",
+   "duration": 149,
+   "views": 28904,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/cnJkFbwtcho/mqdefault.jpg",
+   "cats": [
+    "broadcast"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "broadcast": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "HdeweEtFQb4",
    "title": "[1/3] RAD-F170N(AudioComm,オーム電機) ラジオ 修理",
    "channel": "nakamura",
    "channelId": "UCaBA_M05ODoQP1HgOfz2yLA",
    "publishedAt": "2017-01-09T09:00:34Z",
    "duration": 378,
-   "views": 6969,
+   "views": 6971,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/HdeweEtFQb4/mqdefault.jpg",
    "cats": [
@@ -12231,6 +12907,25 @@
    "firstSeen": "2026-10-21T22:17:15.036730+00:00",
    "catSeen": {
     "radio": "2026-10-21T22:17:15.036730+00:00"
+   },
+   "source": "search"
+  },
+  {
+   "id": "RAOw9Xu-hqs",
+   "title": "Shortwave gold Part 1. Recordings from the 1980s",
+   "channel": "MikesMovies",
+   "channelId": "UCzTFPUVvAObMEFZ_Q_dAgpg",
+   "publishedAt": "2017-01-08T00:42:58Z",
+   "duration": 1654,
+   "views": 62797,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/RAOw9Xu-hqs/mqdefault.jpg",
+   "cats": [
+    "shortwave"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "shortwave": "2026-10-24T06:58:10.476593+00:00"
    },
    "source": "search"
   },
@@ -12279,7 +12974,7 @@
    "channelId": "UCCy_q-N7F2FOIZ6ZggHIAKg",
    "publishedAt": "2016-07-10T21:00:00Z",
    "duration": 135,
-   "views": 49136589,
+   "views": 49137305,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/XHRlkVT4Dxg/mqdefault.jpg",
    "cats": [
@@ -12317,7 +13012,7 @@
    "channelId": "UC6HyKpYWmX4zsy6_bJZIK7A",
    "publishedAt": "2016-05-26T21:06:42Z",
    "duration": 142,
-   "views": 94921,
+   "views": 94931,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/m7-LR_t4M3M/mqdefault.jpg",
    "cats": [
@@ -12336,7 +13031,7 @@
    "channelId": "UCYLCVtHPYKaBdaq4tGDU3XQ",
    "publishedAt": "2016-05-17T14:45:11Z",
    "duration": 814,
-   "views": 13927,
+   "views": 13928,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/ZVwQdedgbVU/mqdefault.jpg",
    "cats": [
@@ -12393,7 +13088,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2016-02-27T10:11:53Z",
    "duration": 404,
-   "views": 1245669,
+   "views": 1245791,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/93kg1SYYfek/mqdefault.jpg",
    "cats": [
@@ -12414,7 +13109,7 @@
    "channelId": "UCajXeitgFL-rb5-gXI-aG8Q",
    "publishedAt": "2016-02-16T22:48:22Z",
    "duration": 108,
-   "views": 290532,
+   "views": 290542,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/7vtIh-SbuTg/mqdefault.jpg",
    "cats": [
@@ -12433,7 +13128,7 @@
    "channelId": "UC4YT50DP7hbMsor8FmyEPMw",
    "publishedAt": "2016-02-07T20:00:00Z",
    "duration": 106,
-   "views": 12022234,
+   "views": 12022418,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/CIx8ts2TbZA/mqdefault.jpg",
    "cats": [
@@ -12471,7 +13166,7 @@
    "channelId": "UCS3nuaXXw7nsiSzdJ5HJaoQ",
    "publishedAt": "2015-11-05T11:16:00Z",
    "duration": 2882,
-   "views": 24584,
+   "views": 24586,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/5PDUlNPQurI/mqdefault.jpg",
    "cats": [
@@ -12509,7 +13204,7 @@
    "channelId": "UCHalfoAo5TPg9CFmN6ldKLg",
    "publishedAt": "2015-08-17T14:54:09Z",
    "duration": 3211,
-   "views": 216230,
+   "views": 216267,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/WPm6G7wqJiQ/mqdefault.jpg",
    "cats": [
@@ -12528,7 +13223,7 @@
    "channelId": "UC2RREYXc7B-LBTH7xb-d_OQ",
    "publishedAt": "2015-07-09T10:37:25Z",
    "duration": 116,
-   "views": 483115,
+   "views": 483121,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/zBoVupqxTYY/mqdefault.jpg",
    "cats": [
@@ -12547,7 +13242,7 @@
    "channelId": "UCS3nuaXXw7nsiSzdJ5HJaoQ",
    "publishedAt": "2015-06-08T04:50:01Z",
    "duration": 3242,
-   "views": 60805,
+   "views": 60812,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/BUbsRIg73Xw/mqdefault.jpg",
    "cats": [
@@ -12585,7 +13280,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2015-04-01T11:27:22Z",
    "duration": 507,
-   "views": 2959942,
+   "views": 2960068,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/mYSSQJEoGRU/mqdefault.jpg",
    "cats": [
@@ -12625,7 +13320,7 @@
    "channelId": "UCdOJAN1W_Y8yQZrnOW4yKKQ",
    "publishedAt": "2015-03-30T17:24:50Z",
    "duration": 291,
-   "views": 2901,
+   "views": 2903,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/5MHgDHuV5x4/mqdefault.jpg",
    "cats": [
@@ -12663,7 +13358,7 @@
    "channelId": "UCRNsHFT7BFoAPBcuAa5sgEQ",
    "publishedAt": "2014-12-29T12:15:25Z",
    "duration": 79,
-   "views": 1181171,
+   "views": 1181235,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/dY7ppjNolRE/mqdefault.jpg",
    "cats": [
@@ -12682,7 +13377,7 @@
    "channelId": "UCDHBN6c7uHLyjZcxGdChZWA",
    "publishedAt": "2014-12-22T07:10:54Z",
    "duration": 125,
-   "views": 11762,
+   "views": 11763,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/G1AUXOlbJSA/mqdefault.jpg",
    "cats": [
@@ -12701,7 +13396,7 @@
    "channelId": "UCS3nuaXXw7nsiSzdJ5HJaoQ",
    "publishedAt": "2014-11-24T05:25:28Z",
    "duration": 2859,
-   "views": 1247946,
+   "views": 1247985,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/j0K0rjRaD_g/mqdefault.jpg",
    "cats": [
@@ -12741,7 +13436,7 @@
    "channelId": "UCV-yLOnx0r8uG8aSu0u-Oyw",
    "publishedAt": "2014-07-11T11:00:01Z",
    "duration": 377,
-   "views": 19758,
+   "views": 19761,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/vwx1q_WBw2Y/mqdefault.jpg",
    "cats": [
@@ -12760,7 +13455,7 @@
    "channelId": "UCS3nuaXXw7nsiSzdJ5HJaoQ",
    "publishedAt": "2014-05-12T03:28:25Z",
    "duration": 2795,
-   "views": 811229,
+   "views": 811268,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/wqIIjNOxrgM/mqdefault.jpg",
    "cats": [
@@ -12773,13 +13468,32 @@
    "source": "search"
   },
   {
+   "id": "MXlWviU9MKc",
+   "title": "Nokia Lumia Tuneln Radio網路收音機",
+   "channel": "JC",
+   "channelId": "UCRBKeX8bi1T5xQYzUG6mVkw",
+   "publishedAt": "2013-12-21T07:19:16Z",
+   "duration": 106,
+   "views": 616,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/MXlWviU9MKc/mqdefault.jpg",
+   "cats": [
+    "internet-radio"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "internet-radio": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "eQ5DnXZ4wug",
    "title": "2000~2006　ヒット曲・名曲メドレー Japanese music hit medley　2000~2006",
    "channel": "AADDKK1996",
    "channelId": "UCabA3ReUMRZBf8HsQfCkiXA",
    "publishedAt": "2013-08-15T04:18:08Z",
    "duration": 1006,
-   "views": 13080064,
+   "views": 13080083,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/eQ5DnXZ4wug/mqdefault.jpg",
    "cats": [
@@ -12788,25 +13502,6 @@
    "firstSeen": "2026-10-17T15:14:25.298581+00:00",
    "catSeen": {
     "jp-drama-songs": "2026-10-17T15:14:25.298581+00:00"
-   },
-   "source": "search"
-  },
-  {
-   "id": "SQ8fswjFPO0",
-   "title": "スカイセンサー5900で短波受信",
-   "channel": "kangoofignon",
-   "channelId": "UCcnxA0mhxCP-D839Dpc2j8g",
-   "publishedAt": "2013-07-16T12:57:53Z",
-   "duration": 300,
-   "views": 238384,
-   "embeddable": true,
-   "thumb": "https://i.ytimg.com/vi/SQ8fswjFPO0/mqdefault.jpg",
-   "cats": [
-    "shortwave"
-   ],
-   "firstSeen": "2026-10-17T15:14:25.298581+00:00",
-   "catSeen": {
-    "shortwave": "2026-10-17T15:14:25.298581+00:00"
    },
    "source": "search"
   },
@@ -12836,7 +13531,7 @@
    "channelId": "UCPcF3KTqhD67ADkukx_OeDg",
    "publishedAt": "2012-06-05T09:24:41Z",
    "duration": 245,
-   "views": 5228506,
+   "views": 5229224,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/YCJOsXAYlrY/mqdefault.jpg",
    "cats": [
@@ -12855,7 +13550,7 @@
    "channelId": "UC6khrjLIrvvXr5eFZOp9kWQ",
    "publishedAt": "2009-11-27T20:01:36Z",
    "duration": 133,
-   "views": 1572787,
+   "views": 1572884,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/Mq-Gtaem74A/mqdefault.jpg",
    "cats": [
@@ -12868,13 +13563,32 @@
    "source": "search"
   },
   {
+   "id": "IusJVtnPbyw",
+   "title": "歷史課本之外的歷史01 台灣的神社紀錄片",
+   "channel": "perigiatw",
+   "channelId": "UCN0UO6G4rYWFSkpiUxtrBlw",
+   "publishedAt": "2009-08-08T08:37:05Z",
+   "duration": 415,
+   "views": 12244,
+   "embeddable": true,
+   "thumb": "https://i.ytimg.com/vi/IusJVtnPbyw/mqdefault.jpg",
+   "cats": [
+    "taiwan-history"
+   ],
+   "firstSeen": "2026-10-24T06:58:10.476593+00:00",
+   "catSeen": {
+    "taiwan-history": "2026-10-24T06:58:10.476593+00:00"
+   },
+   "source": "search"
+  },
+  {
    "id": "8e7jOaq6Aqs",
    "title": "台湾・日本統治時代の古写真",
    "channel": "天魔王第六",
    "channelId": "UCV2Aq7sv16r04bB7g5PJF1w",
    "publishedAt": "2008-06-19T02:47:39Z",
    "duration": 148,
-   "views": 728926,
+   "views": 728928,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/8e7jOaq6Aqs/mqdefault.jpg",
    "cats": [
@@ -12893,7 +13607,7 @@
    "channelId": "UCzwk9RsJ5axQhDrWTGqqysg",
    "publishedAt": "2007-05-12T18:18:24Z",
    "duration": 141,
-   "views": 4242597,
+   "views": 4242896,
    "embeddable": true,
    "thumb": "https://i.ytimg.com/vi/r4xKhHfLB0s/mqdefault.jpg",
    "cats": [
