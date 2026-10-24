@@ -1,189 +1,305 @@
 {
-  "settings": {
-    "maxVideosPerCategory": 60,
-    "searchMaxResults": 15,
-    "channelMaxResults": 8,
-    "excludeShorts": true,
-    "defaultRecentDays": 365
-  },
-  "groups": [
+ "settings": {
+  "maxVideosPerCategory": 60,
+  "searchMaxResults": 15,
+  "channelMaxResults": 8,
+  "excludeShorts": true,
+  "defaultRecentDays": 365
+ },
+ "groups": [
+  {
+   "id": "japan",
+   "name": "日本",
+   "icon": "🗾",
+   "categories": [
     {
-      "id": "japan",
-      "name": "日本",
-      "icon": "🗾",
-      "categories": [
-        {
-          "id": "jp-railway",
-          "name": "鐵道",
-          "icon": "🚃",
-          "lang": "ja",
-          "recentDays": 180,
-          "keywords": ["日本 鉄道 旅 乗車記", "ローカル線 前面展望"],
-          "channels": [
-            { "name": "西園寺", "query": "西園寺 鉄道 交通" },
-            { "name": "スーツ", "query": "スーツ 旅行 鉄道" },
-            { "name": "鈴川絢子", "query": "鈴川絢子" },
-            { "name": "しおねる", "query": "しおねる 鉄道" }
-          ],
-          "exclude": ["事故", "人身"]
-        },
-        {
-          "id": "jp-baseball",
-          "name": "日本職棒",
-          "icon": "⚾",
-          "lang": "ja",
-          "recentDays": 30,
-          "keywords": ["プロ野球 ハイライト"],
-          "channels": [
-            { "name": "パーソル パ・リーグTV", "query": "パーソル パ・リーグTV 公式" },
-            { "name": "日本野球機構（NPB）公式", "query": "日本野球機構 NPB 公式チャンネル" },
-            { "name": "読売巨人軍 公式", "query": "読売ジャイアンツ 公式チャンネル" },
-            { "name": "阪神タイガース 公式", "query": "阪神タイガース 公式チャンネル" }
-          ],
-          "exclude": []
-        },
-        {
-          "id": "jp-citypop",
-          "name": "City Pop 1980",
-          "icon": "🌃",
-          "lang": "ja",
-          "recentDays": 0,
-          "keywords": ["シティポップ 80年代 名曲", "Japanese city pop 1980s", "山下達郎 竹内まりや 大貫妙子"],
-          "channels": [],
-          "exclude": ["カラオケ", "karaoke"]
-        },
-        {
-          "id": "jp-jpop",
-          "name": "J-POP",
-          "icon": "🎤",
-          "lang": "ja",
-          "recentDays": 120,
-          "keywords": ["J-POP 新曲 MV", "JPOP official music video"],
-          "channels": [
-            { "name": "THE FIRST TAKE", "query": "THE FIRST TAKE" }
-          ],
-          "exclude": ["カラオケ", "karaoke"]
-        },
-        {
-          "id": "jp-drama-songs",
-          "name": "1990–2010 日劇歌曲",
-          "icon": "📺",
-          "lang": "ja",
-          "recentDays": 0,
-          "keywords": ["90年代 ドラマ主題歌", "2000年代 ドラマ主題歌 名曲", "月9 主題歌"],
-          "channels": [],
-          "exclude": ["カラオケ", "karaoke"]
-        }
-      ]
+     "id": "jp-railway",
+     "name": "鐵道",
+     "icon": "🚃",
+     "lang": "ja",
+     "recentDays": 180,
+     "keywords": [
+      "日本 鉄道 旅 乗車記",
+      "ローカル線 前面展望"
+     ],
+     "channels": [
+      {
+       "name": "西園寺",
+       "query": "西園寺 鉄道 交通"
+      },
+      {
+       "name": "スーツ",
+       "query": "スーツ 旅行 鉄道"
+      },
+      {
+       "name": "鈴川絢子",
+       "query": "鈴川絢子"
+      },
+      {
+       "name": "しおねる",
+       "query": "しおねる 鉄道"
+      }
+     ],
+     "exclude": [
+      "事故",
+      "人身"
+     ]
     },
     {
-      "id": "hobby",
-      "name": "我的興趣",
-      "icon": "📻",
-      "categories": [
-        {
-          "id": "radio",
-          "name": "收音機",
-          "icon": "📻",
-          "lang": "ja",
-          "recentDays": 0,
-          "keywords": ["ラジオ 修理 レストア", "真空管ラジオ", "vintage radio restoration"],
-          "channels": [
-            { "name": "Mr Carlson's Lab", "query": "Mr Carlson's Lab" },
-            { "name": "shango066", "query": "shango066" }
-          ],
-          "exclude": []
-        },
-        {
-          "id": "feature-phone",
-          "name": "按鍵手機",
-          "icon": "📱",
-          "lang": "ja",
-          "recentDays": 0,
-          "keywords": ["ガラケー 懐かし", "feature phone nostalgia", "按鍵手機 開箱"],
-          "channels": [],
-          "exclude": []
-        },
-        {
-          "id": "internet-radio",
-          "name": "網路收音機",
-          "icon": "🌐",
-          "lang": "zh-Hant",
-          "recentDays": 0,
-          "keywords": ["internet radio review", "ネットラジオ 受信機", "網路收音機"],
-          "channels": [],
-          "exclude": []
-        },
-        {
-          "id": "broadcast",
-          "name": "廣播",
-          "icon": "🎙️",
-          "lang": "zh-Hant",
-          "recentDays": 0,
-          "keywords": ["台灣 廣播 歷史", "ラジオ放送 歴史", "老廣播 節目"],
-          "channels": [],
-          "exclude": []
-        },
-        {
-          "id": "shortwave",
-          "name": "短波",
-          "icon": "📡",
-          "lang": "ja",
-          "recentDays": 0,
-          "keywords": ["BCL 短波 受信", "shortwave radio listening"],
-          "channels": [
-            { "name": "TechMinds", "query": "TechMinds radio SDR" },
-            { "name": "The Official SWL Channel", "query": "The Official SWL Channel" }
-          ],
-          "exclude": []
-        },
-        {
-          "id": "retro-taiwan",
-          "name": "懷舊台灣",
-          "icon": "🏮",
-          "lang": "zh-Hant",
-          "recentDays": 0,
-          "keywords": ["懷舊台灣 老影片", "台灣 70年代 80年代 回憶", "台灣 老照片 影像"],
-          "channels": [
-            { "name": "TFAI 國家電影及視聽文化中心", "query": "TFAI 國家電影及視聽文化中心" }
-          ],
-          "exclude": []
-        },
-        {
-          "id": "showa-retro",
-          "name": "昭和懷舊浪漫",
-          "icon": "🌸",
-          "lang": "ja",
-          "recentDays": 0,
-          "keywords": ["昭和レトロ 懐かしい", "昭和の風景 映像", "昭和歌謡"],
-          "channels": [
-            { "name": "昭和レトロ探訪", "query": "昭和レトロ探訪" }
-          ],
-          "exclude": []
-        },
-        {
-          "id": "taiwan-history",
-          "name": "台灣歷史",
-          "icon": "📜",
-          "lang": "zh-Hant",
-          "recentDays": 0,
-          "keywords": ["台灣史 動畫", "台灣歷史 紀錄片"],
-          "channels": [
-            { "name": "臺灣吧 Taiwan Bar", "query": "臺灣吧 Taiwan Bar" }
-          ],
-          "exclude": []
-        },
-        {
-          "id": "japanese-era-taiwan",
-          "name": "台灣日治時期",
-          "icon": "🏯",
-          "lang": "zh-Hant",
-          "recentDays": 0,
-          "keywords": ["台灣日治時期 影像", "日治時期 台灣 紀錄片", "日本統治時代 台湾 映像"],
-          "channels": [],
-          "exclude": []
-        }
-      ]
+     "id": "jp-baseball",
+     "name": "日本職棒",
+     "icon": "⚾",
+     "lang": "ja",
+     "recentDays": 30,
+     "keywords": [
+      "プロ野球 ハイライト"
+     ],
+     "channels": [
+      {
+       "name": "パーソル パ・リーグTV",
+       "query": "パーソル パ・リーグTV 公式"
+      },
+      {
+       "name": "日本野球機構（NPB）公式",
+       "query": "日本野球機構 NPB 公式チャンネル"
+      },
+      {
+       "name": "読売巨人軍 公式",
+       "query": "読売ジャイアンツ 公式チャンネル"
+      },
+      {
+       "name": "阪神タイガース 公式",
+       "query": "阪神タイガース 公式チャンネル"
+      }
+     ],
+     "exclude": []
+    },
+    {
+     "id": "jp-citypop",
+     "name": "City Pop 1980",
+     "icon": "🌃",
+     "lang": "ja",
+     "recentDays": 0,
+     "keywords": [
+      "シティポップ 80年代 名曲",
+      "Japanese city pop 1980s",
+      "山下達郎 竹内まりや 大貫妙子"
+     ],
+     "channels": [],
+     "exclude": [
+      "カラオケ",
+      "karaoke"
+     ]
+    },
+    {
+     "id": "jp-jpop",
+     "name": "J-POP",
+     "icon": "🎤",
+     "lang": "ja",
+     "recentDays": 120,
+     "keywords": [
+      "J-POP 新曲 MV",
+      "JPOP official music video"
+     ],
+     "channels": [
+      {
+       "name": "THE FIRST TAKE",
+       "query": "THE FIRST TAKE"
+      }
+     ],
+     "exclude": [
+      "カラオケ",
+      "karaoke"
+     ]
+    },
+    {
+     "id": "jp-drama-songs",
+     "name": "1990–2010 日劇歌曲",
+     "icon": "📺",
+     "lang": "ja",
+     "recentDays": 0,
+     "keywords": [
+      "90年代 ドラマ主題歌",
+      "2000年代 ドラマ主題歌 名曲",
+      "月9 主題歌"
+     ],
+     "channels": [],
+     "exclude": [
+      "カラオケ",
+      "karaoke"
+     ]
     }
-  ]
+   ]
+  },
+  {
+   "id": "hobby",
+   "name": "我的興趣",
+   "icon": "📻",
+   "categories": [
+    {
+     "id": "radio",
+     "name": "收音機",
+     "icon": "📻",
+     "lang": "ja",
+     "recentDays": 0,
+     "keywords": [
+      "ラジオ 修理 レストア",
+      "真空管ラジオ",
+      "vintage radio restoration"
+     ],
+     "channels": [
+      {
+       "name": "Mr Carlson's Lab",
+       "query": "Mr Carlson's Lab"
+      },
+      {
+       "name": "shango066",
+       "query": "shango066"
+      }
+     ],
+     "exclude": []
+    },
+    {
+     "id": "feature-phone",
+     "name": "按鍵手機",
+     "icon": "📱",
+     "lang": "ja",
+     "recentDays": 0,
+     "keywords": [
+      "ガラケー 懐かし",
+      "feature phone nostalgia",
+      "按鍵手機 開箱"
+     ],
+     "channels": [],
+     "exclude": []
+    },
+    {
+     "id": "internet-radio",
+     "name": "網路收音機",
+     "icon": "🌐",
+     "lang": "zh-Hant",
+     "recentDays": 0,
+     "keywords": [
+      "internet radio review",
+      "ネットラジオ 受信機",
+      "網路收音機"
+     ],
+     "channels": [],
+     "exclude": []
+    },
+    {
+     "id": "broadcast",
+     "name": "廣播",
+     "icon": "🎙️",
+     "lang": "zh-Hant",
+     "recentDays": 0,
+     "keywords": [
+      "台灣 廣播 歷史",
+      "ラジオ放送 歴史",
+      "老廣播 節目"
+     ],
+     "channels": [],
+     "exclude": []
+    },
+    {
+     "id": "shortwave",
+     "name": "短波",
+     "icon": "📡",
+     "lang": "ja",
+     "recentDays": 0,
+     "keywords": [
+      "BCL 短波 受信",
+      "shortwave radio listening"
+     ],
+     "channels": [
+      {
+       "name": "TechMinds",
+       "query": "TechMinds radio SDR"
+      },
+      {
+       "name": "The Official SWL Channel",
+       "query": "The Official SWL Channel"
+      }
+     ],
+     "exclude": []
+    },
+    {
+     "id": "retro-taiwan",
+     "name": "懷舊台灣",
+     "icon": "🏮",
+     "lang": "zh-Hant",
+     "recentDays": 0,
+     "keywords": [
+      "懷舊台灣 老影片",
+      "台灣 70年代 80年代 回憶",
+      "台灣 老照片 影像"
+     ],
+     "channels": [
+      {
+       "name": "TFAI 國家電影及視聽文化中心",
+       "query": "TFAI 國家電影及視聽文化中心"
+      }
+     ],
+     "exclude": []
+    },
+    {
+     "id": "showa-retro",
+     "name": "昭和懷舊浪漫",
+     "icon": "🌸",
+     "lang": "ja",
+     "recentDays": 0,
+     "keywords": [
+      "昭和レトロ 懐かしい",
+      "昭和の風景 映像",
+      "昭和歌謡"
+     ],
+     "channels": [
+      {
+       "name": "昭和レトロ探訪",
+       "query": "昭和レトロ探訪"
+      }
+     ],
+     "exclude": []
+    },
+    {
+     "id": "taiwan-history",
+     "name": "台灣歷史",
+     "icon": "📜",
+     "lang": "zh-Hant",
+     "recentDays": 0,
+     "keywords": [
+      "台灣史 動畫",
+      "台灣歷史 紀錄片"
+     ],
+     "channels": [
+      {
+       "name": "臺灣吧 Taiwan Bar",
+       "query": "臺灣吧 Taiwan Bar"
+      }
+     ],
+     "exclude": []
+    },
+    {
+     "id": "japanese-era-taiwan",
+     "name": "台灣日治時期",
+     "icon": "🏯",
+     "lang": "zh-Hant",
+     "recentDays": 0,
+     "keywords": [
+      "台灣日治時期 影像",
+      "日治時期 台灣 紀錄片",
+      "日本統治時代 台湾 映像"
+     ],
+     "channels": [],
+     "exclude": []
+    }
+   ]
+  },
+  {
+   "id": "g-mvm0vbijzudn",
+   "name": "居家運動",
+   "icon": "",
+   "categories": []
+  }
+ ]
 }
