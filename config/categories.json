@@ -299,7 +299,20 @@
    "id": "g-mvm0vbijzudn",
    "name": "居家運動",
    "icon": "",
-   "categories": []
+   "categories": [
+    {
+     "id": "c-mvm1petyruzp",
+     "name": "居家運動",
+     "icon": "🏡",
+     "lang": "zh-Hant",
+     "recentDays": 0,
+     "keywords": [
+      "居家運動"
+     ],
+     "channels": [],
+     "exclude": []
+    }
+   ]
   }
  ]
 }
